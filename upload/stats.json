@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-15T23:41Z",
+ "stand": "2026-11-15T23:49Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 4,
  "aufrufe_gesamt": 1243,
- "videos_gesamt": 30,
+ "videos_gesamt": 31,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -37,7 +37,7 @@
    "title": "Bremst Semaglutid das Altern? Was epigenetische Uhren zeigen #Shorts",
    "published": "2026-11-14T10:13:59Z",
    "privacy": "public",
-   "views": 77,
+   "views": 76,
    "likes": 0,
    "comments": 0
   },
@@ -274,6 +274,15 @@
    "views": 2,
    "likes": 1,
    "comments": 0
+  },
+  {
+   "id": "Ivu1BlrmIoc",
+   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
+   "published": "2026-11-15T23:48:06Z",
+   "privacy": "public",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
   }
  ]
 }
