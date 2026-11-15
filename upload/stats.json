@@ -1,98 +1,278 @@
 {
- "stand": "2026-11-15T23:18Z",
- "kanal": "Dr Görkem Atalay",
- "abonnenten": 0,
- "aufrufe_gesamt": 0,
- "videos_gesamt": 4,
+ "stand": "2026-11-15T23:41Z",
+ "kanal": "Medizin Aktuell ",
+ "abonnenten": 4,
+ "aufrufe_gesamt": 1243,
+ "videos_gesamt": 30,
  "videos": [
   {
-   "id": "xq_OBI4en5w",
-   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
-   "published": "2026-11-15T12:41:05Z",
+   "id": "nishehCx2pA",
+   "title": "Wie der erste Laser entstand – von Einstein bis zum Rubin #Shorts",
+   "published": "2026-11-07T11:31:49Z",
    "privacy": "public",
-   "views": 205,
+   "views": 315,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "Hzxqy_fC5MY",
+   "title": "Medizin 2041: Gentherapie, Schweineniere, Klinik im Wohnzimmer? #Shorts",
+   "published": "2026-11-06T17:06:19Z",
+   "privacy": "public",
+   "views": 108,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "QWOaZuI1oe8",
+   "title": "Kann KI Krebs im Gewebe erkennen? KI in der Pathologie #Shorts",
+   "published": "2026-11-08T17:07:18Z",
+   "privacy": "public",
+   "views": 87,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "o5End1h8vT0",
+   "title": "Bremst Semaglutid das Altern? Was epigenetische Uhren zeigen #Shorts",
+   "published": "2026-11-14T10:13:59Z",
+   "privacy": "public",
+   "views": 77,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "EVik4YMCAfA",
+   "title": "Sind Süßstoffe harmlos für den Darm? 39 Süßstoffe im Labortest #Shorts",
+   "published": "2026-11-11T17:03:58Z",
+   "privacy": "public",
+   "views": 67,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "kdWcEPnBkKM",
+   "title": "Verstecktes Kortison in Hautcremes? Was ein Labortest fand #Shorts",
+   "published": "2026-11-09T17:08:10Z",
+   "privacy": "public",
+   "views": 63,
    "likes": 1,
-   "comments": 1
+   "comments": 0
   },
   {
-   "id": "VM0CrtNj6S4",
-   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
-   "published": "2026-11-15T12:41:08Z",
+   "id": "JNxxc8zZxSU",
+   "title": "Wie sieht die Medizin 2031 aus? #Shorts",
+   "published": "2026-10-31T22:04:02Z",
    "privacy": "public",
-   "views": 105,
-   "likes": 0,
-   "comments": 1
+   "views": 56,
+   "likes": 2,
+   "comments": 0
   },
   {
-   "id": "D6WU74ktYLE",
-   "title": "KI am Laser: Welche Regeln gelten? #Shorts",
-   "published": "2026-11-15T12:41:12Z",
+   "id": "StpwTPaH4pA",
+   "title": "Warum Laser nur das Ziel treffen – selektive Photothermolyse #Shorts",
+   "published": "2026-11-09T11:32:14Z",
    "privacy": "public",
-   "views": 101,
-   "likes": 0,
-   "comments": 1
+   "views": 54,
+   "likes": 3,
+   "comments": 0
   },
   {
-   "id": "IhfxwnIaFjs",
-   "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
-   "published": "2026-11-15T17:00:01Z",
+   "id": "dKObFQy8f44",
+   "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
+   "published": "2026-10-31T22:12:04Z",
    "privacy": "public",
-   "views": 0,
-   "likes": 0,
-   "comments": 1
+   "views": 46,
+   "likes": 2,
+   "comments": 0
   },
   {
-   "id": "1WdhbS83exE",
-   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
-   "published": "2026-11-15T13:39:19Z",
-   "privacy": "private",
-   "views": 0,
+   "id": "rmVhKwY89IM",
+   "title": "Wie viel Krafttraining ist optimal? 90 Minuten pro Woche #Shorts",
+   "published": "2026-11-03T17:02:58Z",
+   "privacy": "public",
+   "views": 40,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "kDFYGeFWeqQ",
+   "title": "Notfall nach dem Filler: Gefäßverschluss erkennen und handeln #Shorts",
+   "published": "2026-11-07T17:05:59Z",
+   "privacy": "public",
+   "views": 38,
    "likes": 0,
    "comments": 0
   },
   {
-   "id": "NPapAOjnbZI",
-   "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
-   "published": "2026-11-15T13:39:16Z",
-   "privacy": "private",
-   "views": 0,
+   "id": "P_o69w47L4U",
+   "title": "Findet KI Brustkrebs früher? #Shorts",
+   "published": "2026-10-31T22:05:45Z",
+   "privacy": "public",
+   "views": 37,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "mBBR47y3Kek",
+   "title": "Fleck weglasern? Erst zur Ärztin – auch mit KI #Shorts",
+   "published": "2026-11-14T10:05:06Z",
+   "privacy": "public",
+   "views": 35,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "JjxPYQ5GyqU",
+   "title": "Der erste Lasereingriff am Menschen – New York 1961 #Shorts",
+   "published": "2026-11-08T11:31:49Z",
+   "privacy": "public",
+   "views": 30,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "pcgk5kRVvWM",
+   "title": "Erkennt KI Hautkrebs? Studie, Gerät und Apps im Check #Shorts",
+   "published": "2026-11-02T06:31:34Z",
+   "privacy": "public",
+   "views": 30,
+   "likes": 3,
+   "comments": 0
+  },
+  {
+   "id": "1Sw54r-KVI0",
+   "title": "Nur winzige Punkte behandeln – fraktionierte Laser und die Gegenwart #Shorts",
+   "published": "2026-11-11T11:32:05Z",
+   "privacy": "public",
+   "views": 22,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "00yXBBJCV18",
+   "title": "Erfindet KI neue Medikamente? #Shorts",
+   "published": "2026-10-31T22:17:39Z",
+   "privacy": "public",
+   "views": 22,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "iVfDYVimeVE",
+   "title": "Was verrät ein EKG mit KI? #Shorts",
+   "published": "2026-10-31T22:15:52Z",
+   "privacy": "public",
+   "views": 20,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "3rAK7ATHr7g",
+   "title": "Augenlasern begann mit einem Truthahn #Shorts",
+   "published": "2026-11-10T11:32:08Z",
+   "privacy": "public",
+   "views": 17,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "OnAY27Frq-E",
+   "title": "Ärzte ohne Grenzen im November 2026: von Darfur bis Dnipro #Shorts",
+   "published": "2026-11-05T23:31:45Z",
+   "privacy": "public",
+   "views": 16,
    "likes": 0,
    "comments": 0
   },
   {
-   "id": "Cfhc-FHggkk",
-   "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
-   "published": "2026-11-15T13:39:12Z",
-   "privacy": "private",
-   "views": 0,
+   "id": "O4uUA9HzUps",
+   "title": "Eine Infusion gegen hohes Cholesterin? Gen-Editierung VERVE-102 #Shorts",
+   "published": "2026-11-04T17:06:46Z",
+   "privacy": "public",
+   "views": 13,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "lhwI83duuSw",
+   "title": "Findet KI mehr Polypen? #Shorts",
+   "published": "2026-10-31T22:19:47Z",
+   "privacy": "public",
+   "views": 13,
+   "likes": 4,
+   "comments": 0
+  },
+  {
+   "id": "J7RirqEnNaE",
+   "title": "Krankheiten erkennen, bevor sie ausbrechen? Medizin 2036 #Shorts",
+   "published": "2026-11-05T17:01:47Z",
+   "privacy": "public",
+   "views": 11,
    "likes": 0,
    "comments": 0
   },
   {
-   "id": "AfxVBrxZ6JE",
-   "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
-   "published": "2026-11-15T13:39:08Z",
-   "privacy": "private",
-   "views": 0,
+   "id": "aMFbTNCwxf8",
+   "title": "Diagnose ohne Arzt? KI prüft die Netzhaut bei Diabetes #Shorts",
+   "published": "2026-11-10T17:05:48Z",
+   "privacy": "public",
+   "views": 9,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "lm3Q6RH9ZxM",
+   "title": "KI am Laser: Was kann sie wirklich? #Shorts",
+   "published": "2026-11-12T11:32:30Z",
+   "privacy": "public",
+   "views": 7,
+   "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "m_hDWFGmlms",
+   "title": "Ärzte ohne Grenzen: Mitarbeiten oder helfen – auch aus Aachen? #Shorts",
+   "published": "2026-11-05T23:41:01Z",
+   "privacy": "public",
+   "views": 7,
    "likes": 0,
    "comments": 0
   },
   {
-   "id": "gIWrhgDEdi8",
-   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
-   "published": "2026-11-15T12:41:01Z",
-   "privacy": "private",
-   "views": 0,
+   "id": "Eu7rPH-mZFQ",
+   "title": "Die KI hört beim Arzt mit? #Shorts",
+   "published": "2026-10-31T22:13:43Z",
+   "privacy": "public",
+   "views": 6,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "ku1NKOMX8AI",
+   "title": "Zukunft der Medizin, Folge 1: Gen-Editing, KI-Krebsdiagnostik & Exoskelett",
+   "published": "2026-11-14T09:52:05Z",
+   "privacy": "public",
+   "views": 5,
    "likes": 0,
    "comments": 0
   },
   {
-   "id": "zArPP1ime_g",
-   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
-   "published": "2026-11-15T12:40:56Z",
-   "privacy": "private",
-   "views": 0,
+   "id": "GcCJuGQyb2g",
+   "title": "Ebola-Ausbruch in Afrika: Wie groß ist das Risiko für uns? (KW 45) #Shorts",
+   "published": "2026-11-11T07:05:28Z",
+   "privacy": "public",
+   "views": 3,
    "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "lUkG7ZJ5Fos",
+   "title": "Rotes Fleisch und Diabetes: Steckt ein Zucker dahinter? #Shorts",
+   "published": "2026-11-12T17:03:01Z",
+   "privacy": "public",
+   "views": 2,
+   "likes": 1,
    "comments": 0
   }
  ]
