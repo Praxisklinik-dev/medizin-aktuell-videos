@@ -1,0 +1,26 @@
+name: YouTube-Zahlen
+on:
+  schedule:
+    - cron: "11 6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet google-api-python-client google-auth
+      - env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python upload/yt_stats.py
+      - run: |
+          git config user.name "medizin-aktuell-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add upload/stats.json
+          git diff --cached --quiet || (git commit -m "YouTube-Zahlen aktualisiert" && git pull --rebase && git push)
