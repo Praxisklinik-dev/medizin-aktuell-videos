@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-15T23:49Z",
+ "stand": "2026-11-16T08:52Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 4,
- "aufrufe_gesamt": 1243,
- "videos_gesamt": 31,
+ "aufrufe_gesamt": 1257,
+ "videos_gesamt": 34,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -37,7 +37,7 @@
    "title": "Bremst Semaglutid das Altern? Was epigenetische Uhren zeigen #Shorts",
    "published": "2026-11-14T10:13:59Z",
    "privacy": "public",
-   "views": 76,
+   "views": 83,
    "likes": 0,
    "comments": 0
   },
@@ -141,6 +141,15 @@
    "comments": 0
   },
   {
+   "id": "5tKJOMuN_lc",
+   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
+   "published": "2026-11-16T00:35:44Z",
+   "privacy": "public",
+   "views": 28,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "1Sw54r-KVI0",
    "title": "Nur winzige Punkte behandeln – fraktionierte Laser und die Gegenwart #Shorts",
    "published": "2026-11-11T11:32:05Z",
@@ -157,6 +166,15 @@
    "views": 22,
    "likes": 2,
    "comments": 0
+  },
+  {
+   "id": "OsKvbOD_8cI",
+   "title": "KI am Laser: Welche Regeln gelten? #Shorts",
+   "published": "2026-11-16T02:10:43Z",
+   "privacy": "public",
+   "views": 21,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "iVfDYVimeVE",
@@ -184,6 +202,15 @@
    "views": 16,
    "likes": 0,
    "comments": 0
+  },
+  {
+   "id": "ptw2DPOgLiM",
+   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
+   "published": "2026-11-16T02:10:59Z",
+   "privacy": "public",
+   "views": 14,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "O4uUA9HzUps",
@@ -220,6 +247,24 @@
    "views": 9,
    "likes": 1,
    "comments": 0
+  },
+  {
+   "id": "miSHmAanHIw",
+   "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
+   "published": "2026-11-16T02:10:52Z",
+   "privacy": "public",
+   "views": 8,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "Ivu1BlrmIoc",
+   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
+   "published": "2026-11-15T23:48:06Z",
+   "privacy": "public",
+   "views": 8,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "lm3Q6RH9ZxM",
@@ -274,15 +319,6 @@
    "views": 2,
    "likes": 1,
    "comments": 0
-  },
-  {
-   "id": "Ivu1BlrmIoc",
-   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
-   "published": "2026-11-15T23:48:06Z",
-   "privacy": "public",
-   "views": 0,
-   "likes": 0,
-   "comments": 1
   }
  ]
 }
