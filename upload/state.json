@@ -15,6 +15,28 @@
   "comment_done": true
  },
  "426374839": {
+  "last_error": "<HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:78629880509'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Up",
+  "video_id": "OsKvbOD_8cI",
+  "uploaded_at": "2026-11-16T02:10:25+00:00",
+  "title": "KI am Laser: Welche Regeln gelten? #Shorts",
+  "publish_at": "2026-11-15T11:30:00Z",
+  "comment_done": true
+ },
+ "426375086": {
+  "video_id": "miSHmAanHIw",
+  "uploaded_at": "2026-11-16T02:10:31+00:00",
+  "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
+  "publish_at": "2026-11-15T17:00:00Z",
+  "comment_done": true
+ },
+ "short_retatrutid_knie_v2": {
+  "video_id": "ptw2DPOgLiM",
+  "uploaded_at": "2026-11-16T02:10:32+00:00",
+  "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
+  "publish_at": "2026-11-15T18:45:00Z",
+  "comment_done": true
+ },
+ "426375412": {
   "last_error": "<HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:78629880509'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Up"
  }
 }
