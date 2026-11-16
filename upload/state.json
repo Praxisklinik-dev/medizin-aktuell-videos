@@ -41,7 +41,8 @@
   "video_id": "h7SFv1Ay0TM",
   "uploaded_at": "2026-11-16T08:58:11+00:00",
   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
-  "publish_at": "2026-11-16T11:30:00Z"
+  "publish_at": "2026-11-16T11:30:00Z",
+  "comment_done": true
  },
  "426375804": {
   "video_id": "G4ZQIvhVa48",
@@ -139,12 +140,42 @@
   "title": "Pigmentflecken lasern: Vorbereitung, Nachpflege, Vitamin C 30 % #Shorts",
   "publish_at": "2026-11-23T17:00:00Z"
  },
- "426478560": {},
- "426381193": {},
- "426478773": {},
- "426381445": {},
- "426478962": {},
- "426381672": {},
+ "426478560": {
+  "video_id": "ONl8B0ggF84",
+  "uploaded_at": "2026-11-16T11:50:40+00:00",
+  "title": "Daumen gebrochen? Bennett, Rolando, Winterstein #Shorts",
+  "publish_at": "2026-11-24T11:30:00Z"
+ },
+ "426381193": {
+  "video_id": "id0eW4D8J_o",
+  "uploaded_at": "2026-11-16T11:50:43+00:00",
+  "title": "Zell-Verjüngung am Auge: erste Daten zur Gentherapie ER-100 #Shorts",
+  "publish_at": "2026-11-24T17:00:00Z"
+ },
+ "426478773": {
+  "video_id": "9_D0AewScfg",
+  "uploaded_at": "2026-11-16T11:50:46+00:00",
+  "title": "Grapefruit und Tabletten: Warum Vorsicht gilt #Shorts",
+  "publish_at": "2026-11-25T11:30:00Z"
+ },
+ "426381445": {
+  "video_id": "hzuhJSvsd40",
+  "uploaded_at": "2026-11-16T11:50:50+00:00",
+  "title": "Hyaluronsäure zum Trinken: Was eine Placebo-Studie zeigt #Shorts",
+  "publish_at": "2026-11-25T17:00:00Z"
+ },
+ "426478962": {
+  "video_id": "lFJY7EkNbtk",
+  "uploaded_at": "2026-11-16T11:50:54+00:00",
+  "title": "Operiert bald ein Roboter allein? Stand 2026 #Shorts",
+  "publish_at": "2026-11-26T11:30:00Z"
+ },
+ "426381672": {
+  "video_id": "BA63XXVt77c",
+  "uploaded_at": "2026-11-16T11:50:58+00:00",
+  "title": "Gen-Schere für ein einziges Kind: Was der Fall Baby KJ verändert #Shorts",
+  "publish_at": "2026-11-26T17:00:00Z"
+ },
  "426479136": {},
  "426381968": {},
  "426479308": {},
