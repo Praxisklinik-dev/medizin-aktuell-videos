@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T08:52Z",
+ "stand": "2026-11-16T10:31Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 4,
  "aufrufe_gesamt": 1257,
@@ -240,6 +240,15 @@
    "comments": 0
   },
   {
+   "id": "Ivu1BlrmIoc",
+   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
+   "published": "2026-11-15T23:48:06Z",
+   "privacy": "public",
+   "views": 10,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "aMFbTNCwxf8",
    "title": "Diagnose ohne Arzt? KI prüft die Netzhaut bei Diabetes #Shorts",
    "published": "2026-11-10T17:05:48Z",
@@ -252,15 +261,6 @@
    "id": "miSHmAanHIw",
    "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
    "published": "2026-11-16T02:10:52Z",
-   "privacy": "public",
-   "views": 8,
-   "likes": 0,
-   "comments": 1
-  },
-  {
-   "id": "Ivu1BlrmIoc",
-   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
-   "published": "2026-11-15T23:48:06Z",
    "privacy": "public",
    "views": 8,
    "likes": 0,
@@ -318,6 +318,114 @@
    "privacy": "public",
    "views": 2,
    "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "-g9DwS8BXPU",
+   "title": "Was verrät ein EKG mit KI? Herzschwäche und Vorhofflimmern #Shorts",
+   "published": "2026-11-16T09:33:13Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "V-nj1mGzBIw",
+   "title": "Im Sommer nie lasern? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-16T09:33:10Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "lPKaNqOdtmU",
+   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
+   "published": "2026-11-16T09:33:06Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "4Oey1JvGgc4",
+   "title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-16T09:33:01Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "waTSYVtvsLI",
+   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
+   "published": "2026-11-16T09:32:58Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "wNSmHkzgLXw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-16T09:32:55Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "XcGzufP_C5Y",
+   "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-16T08:58:22Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "hHw6Z1Ar-YI",
+   "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
+   "published": "2026-11-16T08:58:19Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "87xvSWG6ZmQ",
+   "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
+   "published": "2026-11-16T08:58:17Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "YlMH5Y6K9KI",
+   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+   "published": "2026-11-16T08:58:15Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "G4ZQIvhVa48",
+   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
+   "published": "2026-11-16T08:58:13Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "h7SFv1Ay0TM",
+   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
+   "published": "2026-11-16T08:58:09Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
    "comments": 0
   }
  ]
