@@ -37,6 +37,63 @@
   "comment_done": true
  },
  "426375412": {
-  "last_error": "<HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:78629880509'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Up"
- }
+  "last_error": "<HttpError 429 when requesting None returned \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Uploads per day' of service 'youtube.googleapis.com' for consumer 'project_number:78629880509'.\". Details: \"[{'message': \"Quota exceeded for quota metric 'Video Uploads' and limit 'Video Up",
+  "video_id": "h7SFv1Ay0TM",
+  "uploaded_at": "2026-11-16T08:58:11+00:00",
+  "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
+  "publish_at": "2026-11-16T11:30:00Z"
+ },
+ "426375804": {
+  "video_id": "G4ZQIvhVa48",
+  "uploaded_at": "2026-11-16T08:58:15+00:00",
+  "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
+  "publish_at": "2026-11-16T17:00:00Z"
+ },
+ "short_plaque_rueckbildung_v2": {
+  "video_id": "YlMH5Y6K9KI",
+  "uploaded_at": "2026-11-16T08:58:16+00:00",
+  "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+  "publish_at": "2026-11-16T18:45:00Z"
+ },
+ "426376145": {
+  "video_id": "87xvSWG6ZmQ",
+  "uploaded_at": "2026-11-16T08:58:19+00:00",
+  "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
+  "publish_at": "2026-11-17T11:30:00Z"
+ },
+ "426376479": {
+  "video_id": "hHw6Z1Ar-YI",
+  "uploaded_at": "2026-11-16T08:58:21+00:00",
+  "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
+  "publish_at": "2026-11-17T17:00:00Z"
+ },
+ "426376860": {
+  "video_id": "XcGzufP_C5Y",
+  "uploaded_at": "2026-11-16T08:58:24+00:00",
+  "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
+  "publish_at": "2026-11-18T11:30:00Z"
+ },
+ "426377193": {},
+ "426377511": {},
+ "426377969": {},
+ "426378551": {},
+ "426378946": {},
+ "426379300": {},
+ "426379740": {},
+ "426380078": {},
+ "426380440": {},
+ "426380737": {},
+ "426380974": {},
+ "426478560": {},
+ "426381193": {},
+ "426478773": {},
+ "426381445": {},
+ "426478962": {},
+ "426381672": {},
+ "426479136": {},
+ "426381968": {},
+ "426479308": {},
+ "426382207": {},
+ "426479483": {},
+ "426382467": {}
 }
