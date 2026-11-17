@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-16T10:31Z",
+ "stand": "2026-11-17T07:24Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 4,
- "aufrufe_gesamt": 1257,
- "videos_gesamt": 34,
+ "aufrufe_gesamt": 1499,
+ "videos_gesamt": 38,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -42,6 +42,15 @@
    "comments": 0
   },
   {
+   "id": "h7SFv1Ay0TM",
+   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
+   "published": "2026-11-16T11:30:09Z",
+   "privacy": "public",
+   "views": 75,
+   "likes": 3,
+   "comments": 1
+  },
+  {
    "id": "EVik4YMCAfA",
    "title": "Sind Süßstoffe harmlos für den Darm? 39 Süßstoffe im Labortest #Shorts",
    "published": "2026-11-11T17:03:58Z",
@@ -78,11 +87,20 @@
    "comments": 0
   },
   {
+   "id": "5tKJOMuN_lc",
+   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
+   "published": "2026-11-16T00:35:44Z",
+   "privacy": "public",
+   "views": 50,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "dKObFQy8f44",
    "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
    "published": "2026-10-31T22:12:04Z",
    "privacy": "public",
-   "views": 46,
+   "views": 47,
    "likes": 2,
    "comments": 0
   },
@@ -94,6 +112,15 @@
    "views": 40,
    "likes": 2,
    "comments": 0
+  },
+  {
+   "id": "OsKvbOD_8cI",
+   "title": "KI am Laser: Welche Regeln gelten? #Shorts",
+   "published": "2026-11-16T02:10:43Z",
+   "privacy": "public",
+   "views": 38,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "kDFYGeFWeqQ",
@@ -118,7 +145,7 @@
    "title": "Fleck weglasern? Erst zur Ärztin – auch mit KI #Shorts",
    "published": "2026-11-14T10:05:06Z",
    "privacy": "public",
-   "views": 35,
+   "views": 36,
    "likes": 1,
    "comments": 0
   },
@@ -141,12 +168,21 @@
    "comments": 0
   },
   {
-   "id": "5tKJOMuN_lc",
-   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
-   "published": "2026-11-16T00:35:44Z",
+   "id": "ptw2DPOgLiM",
+   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
+   "published": "2026-11-16T02:10:59Z",
    "privacy": "public",
    "views": 28,
    "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "miSHmAanHIw",
+   "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
+   "published": "2026-11-16T02:10:52Z",
+   "privacy": "public",
+   "views": 24,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -168,22 +204,22 @@
    "comments": 0
   },
   {
-   "id": "OsKvbOD_8cI",
-   "title": "KI am Laser: Welche Regeln gelten? #Shorts",
-   "published": "2026-11-16T02:10:43Z",
-   "privacy": "public",
-   "views": 21,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "iVfDYVimeVE",
    "title": "Was verrät ein EKG mit KI? #Shorts",
    "published": "2026-10-31T22:15:52Z",
    "privacy": "public",
-   "views": 20,
+   "views": 21,
    "likes": 1,
    "comments": 0
+  },
+  {
+   "id": "Ivu1BlrmIoc",
+   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
+   "published": "2026-11-15T23:48:06Z",
+   "privacy": "public",
+   "views": 17,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "3rAK7ATHr7g",
@@ -204,9 +240,9 @@
    "comments": 0
   },
   {
-   "id": "ptw2DPOgLiM",
-   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
-   "published": "2026-11-16T02:10:59Z",
+   "id": "YlMH5Y6K9KI",
+   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+   "published": "2026-11-16T18:45:22Z",
    "privacy": "public",
    "views": 14,
    "likes": 0,
@@ -231,6 +267,15 @@
    "comments": 0
   },
   {
+   "id": "G4ZQIvhVa48",
+   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
+   "published": "2026-11-16T17:00:33Z",
+   "privacy": "public",
+   "views": 12,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "J7RirqEnNaE",
    "title": "Krankheiten erkennen, bevor sie ausbrechen? Medizin 2036 #Shorts",
    "published": "2026-11-05T17:01:47Z",
@@ -240,15 +285,6 @@
    "comments": 0
   },
   {
-   "id": "Ivu1BlrmIoc",
-   "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
-   "published": "2026-11-15T23:48:06Z",
-   "privacy": "public",
-   "views": 10,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "aMFbTNCwxf8",
    "title": "Diagnose ohne Arzt? KI prüft die Netzhaut bei Diabetes #Shorts",
    "published": "2026-11-10T17:05:48Z",
@@ -256,15 +292,6 @@
    "views": 9,
    "likes": 1,
    "comments": 0
-  },
-  {
-   "id": "miSHmAanHIw",
-   "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
-   "published": "2026-11-16T02:10:52Z",
-   "privacy": "public",
-   "views": 8,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "lm3Q6RH9ZxM",
@@ -318,6 +345,168 @@
    "privacy": "public",
    "views": 2,
    "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "U1vJ6WeRjpA",
+   "title": "Medizin 2051: Versorgung für Hochbetagte – Zukunft der Medizin, Teil 4 #Shorts",
+   "published": "2026-11-16T15:16:42Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "4g71iBxDb5g",
+   "title": "Handgelenk-Schmerz ausschalten, Gelenk behalten? #Shorts",
+   "published": "2026-11-16T15:16:38Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "9ZQV_ZDPkSc",
+   "title": "Hunde als Vorreiter: Kommt das erste Langlebigkeits-Medikament? #Shorts",
+   "published": "2026-11-16T15:16:35Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "oMo8bE1cPAo",
+   "title": "Wenn KI sich irrt: 4 belegte Risiken in der Medizin #Shorts",
+   "published": "2026-11-16T15:16:31Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "7O3i9bnEU3E",
+   "title": "Älter werden heißt nicht abbauen: Fast jeder Zweite über 65 legt zu #Shorts",
+   "published": "2026-11-16T15:16:28Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "Uv_vZu7DBuw",
+   "title": "Faust gegen Zähne: Warum die Wunde gefährlich ist #Shorts",
+   "published": "2026-11-16T15:16:24Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "BA63XXVt77c",
+   "title": "Gen-Schere für ein einziges Kind: Was der Fall Baby KJ verändert #Shorts",
+   "published": "2026-11-16T11:50:55Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "lFJY7EkNbtk",
+   "title": "Operiert bald ein Roboter allein? Stand 2026 #Shorts",
+   "published": "2026-11-16T11:50:51Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "hzuhJSvsd40",
+   "title": "Hyaluronsäure zum Trinken: Was eine Placebo-Studie zeigt #Shorts",
+   "published": "2026-11-16T11:50:47Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "9_D0AewScfg",
+   "title": "Grapefruit und Tabletten: Warum Vorsicht gilt #Shorts",
+   "published": "2026-11-16T11:50:44Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "id0eW4D8J_o",
+   "title": "Zell-Verjüngung am Auge: erste Daten zur Gentherapie ER-100 #Shorts",
+   "published": "2026-11-16T11:50:40Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "ONl8B0ggF84",
+   "title": "Daumen gebrochen? Bennett, Rolando, Winterstein #Shorts",
+   "published": "2026-11-16T11:50:37Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "1v0s-Oyyl2E",
+   "title": "Pigmentflecken lasern: Vorbereitung, Nachpflege, Vitamin C 30 % #Shorts",
+   "published": "2026-11-16T10:46:52Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "WBW1h33hOcs",
+   "title": "Mythos-Check: Macht Fingerknacken Arthrose? #Shorts",
+   "published": "2026-11-16T10:46:48Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "UP7LjaFlY-o",
+   "title": "Findet KI mehr Polypen? Darmspiegelung und die Kehrseite #Shorts",
+   "published": "2026-11-16T10:46:44Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "6c70rVRek80",
+   "title": "Tattoos komplett weglasern? Laser-Mythen im Check (5) #Shorts",
+   "published": "2026-11-16T10:46:40Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "k3CEM5J_imo",
+   "title": "Erfindet KI Medikamente? Nobelpreis, AlphaFold und erste Studie #Shorts",
+   "published": "2026-11-16T10:46:35Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "U6e5YCyaB90",
+   "title": "Wirken Heimgeräte wie Praxislaser? Laser-Mythen (4) #Shorts",
+   "published": "2026-11-16T10:46:31Z",
+   "privacy": "private",
+   "views": 0,
+   "likes": 0,
    "comments": 0
   },
   {
@@ -396,33 +585,6 @@
    "id": "87xvSWG6ZmQ",
    "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
    "published": "2026-11-16T08:58:17Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "YlMH5Y6K9KI",
-   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
-   "published": "2026-11-16T08:58:15Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "G4ZQIvhVa48",
-   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
-   "published": "2026-11-16T08:58:13Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "h7SFv1Ay0TM",
-   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
-   "published": "2026-11-16T08:58:09Z",
    "privacy": "private",
    "views": 0,
    "likes": 0,
