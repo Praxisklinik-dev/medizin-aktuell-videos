@@ -1,0 +1,33 @@
+{
+ "query": "doctor patient consultation",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg/1920px-Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ASC_Leiden_-_Coutinho_Collection_-_18_01_-_Medical_consultation_in_Sara%2C_Guinea-Bissau_by_a_Cuban_doctor_-_1974.tif/lossy-page1-1920px-ASC_Leiden_-_Coutinho_Collection_-_18_01_-_Medical_consultation_in_Sara%2C_Guinea-Bissau_by_a_Cuban_doctor_-_1974.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Roel Coutinho",
+   "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Coutinho_Collection_-_18_01_-_Medical_consultation_in_Sara,_Guinea-Bissau_by_a_Cuban_doctor_-_1974.tif",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/CP25_Leukemia_Patient_Consultation_%289123625%29.jpg/1920px-CP25_Leukemia_Patient_Consultation_%289123625%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "U.S. Navy photo by Petty Officer 2nd Class Jonas Womack",
+   "source": "https://commons.wikimedia.org/wiki/File:CP25_Leukemia_Patient_Consultation_(9123625).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  }
+ ]
+}

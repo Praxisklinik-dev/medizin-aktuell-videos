@@ -1,0 +1,42 @@
+{
+ "query": "blood sample test tubes laboratory",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Laboratory_Test_Tubes%3B_from_a_medical_laboratory_in_Abuja%2C_Nigeria.jpg/1920px-Laboratory_Test_Tubes%3B_from_a_medical_laboratory_in_Abuja%2C_Nigeria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Frankincense Diala",
+   "source": "https://commons.wikimedia.org/wiki/File:Laboratory_Test_Tubes;_from_a_medical_laboratory_in_Abuja,_Nigeria.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Checking_Blood_Sample_%289955279835%29.jpg/1920px-Checking_Blood_Sample_%289955279835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "National Eye Institute",
+   "source": "https://commons.wikimedia.org/wiki/File:Checking_Blood_Sample_(9955279835).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/U.S._Air_Force_Staff_Sgt._Thomas_C._Sullivan_Jr.%2C_a_laboratory_technician_assigned_to_the_319th_Medical_Support_Squadron%2C_places_a_medical_sample_into_a_test_tube_rack_at_the_medical_laboratory_on_Grand_Forks_130522-F-JB669-061.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Staff Sgt. Luis Loza Gutierrez",
+   "source": "https://commons.wikimedia.org/wiki/File:U.S._Air_Force_Staff_Sgt._Thomas_C._Sullivan_Jr.,_a_laboratory_technician_assigned_to_the_319th_Medical_Support_Squadron,_places_a_medical_sample_into_a_test_tube_rack_at_the_medical_laboratory_on_Grand_Forks_130522-F-JB669-061.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/NABL_Accredited_Pathology_Lab_and_Diagnostic_Centre_in_Kharghar%2C_Navi_Mumbai_-_Full_Body_Checkup%2C_CBC%2C_Thyroid_Blood_Test_and_Home_Blood_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Goleisureintl",
+   "source": "https://commons.wikimedia.org/wiki/File:NABL_Accredited_Pathology_Lab_and_Diagnostic_Centre_in_Kharghar,_Navi_Mumbai_-_Full_Body_Checkup,_CBC,_Thyroid_Blood_Test_and_Home_Blood_Collection.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}

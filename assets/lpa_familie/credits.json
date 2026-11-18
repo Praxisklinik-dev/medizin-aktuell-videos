@@ -1,0 +1,33 @@
+{
+ "query": "three generations family",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Family_photo_of_three_generations_of_the_Anishchyk_family_%281940%29.jpg/1920px-Family_photo_of_three_generations_of_the_Anishchyk_family_%281940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Vilnius Belarusian Museum named after Ivan Lutskevich",
+   "source": "https://commons.wikimedia.org/wiki/File:Family_photo_of_three_generations_of_the_Anishchyk_family_(1940).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Three_generations_of_Manta_Singh%27s_family_seated_together%2C_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Unknown photographer",
+   "source": "https://commons.wikimedia.org/wiki/File:Three_generations_of_Manta_Singh%27s_family_seated_together,_1909.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Three_Generations_of_Pagedar_Family_Participants_at_PFPC.jpg/1920px-Three_Generations_of_Pagedar_Family_Participants_at_PFPC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Plinksport",
+   "source": "https://commons.wikimedia.org/wiki/File:Three_Generations_of_Pagedar_Family_Participants_at_PFPC.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "query": "medical laboratory analyzer blood",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Body_fluid_cell_count_testing_on_automated_analyzer.jpg/1920px-Body_fluid_cell_count_testing_on_automated_analyzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "SpicyMilkBoy",
+   "source": "https://commons.wikimedia.org/wiki/File:Body_fluid_cell_count_testing_on_automated_analyzer.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ramstein_Humanitarian_Efforts-_Medical_prowess_%286402076%29.jpg/1920px-Ramstein_Humanitarian_Efforts-_Medical_prowess_%286402076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "U.S. Air Force photo by Airman 1st Class Jennifer Gonzales",
+   "source": "https://commons.wikimedia.org/wiki/File:Ramstein_Humanitarian_Efforts-_Medical_prowess_(6402076).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ramstein_Humanitarian_Efforts-_Medical_prowess_%286402077%29.jpg/1920px-Ramstein_Humanitarian_Efforts-_Medical_prowess_%286402077%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "U.S. Air Force photo by Airman 1st Class Jennifer Gonzales",
+   "source": "https://commons.wikimedia.org/wiki/File:Ramstein_Humanitarian_Efforts-_Medical_prowess_(6402077).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  }
+ ]
+}
