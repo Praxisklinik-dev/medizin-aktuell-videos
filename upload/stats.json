@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-17T07:24Z",
+ "stand": "2026-11-18T07:23Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 4,
- "aufrufe_gesamt": 1499,
- "videos_gesamt": 38,
+ "aufrufe_gesamt": 1645,
+ "videos_gesamt": 41,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -24,6 +24,15 @@
    "comments": 0
   },
   {
+   "id": "h7SFv1Ay0TM",
+   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
+   "published": "2026-11-16T11:30:09Z",
+   "privacy": "public",
+   "views": 95,
+   "likes": 3,
+   "comments": 1
+  },
+  {
    "id": "QWOaZuI1oe8",
    "title": "Kann KI Krebs im Gewebe erkennen? KI in der Pathologie #Shorts",
    "published": "2026-11-08T17:07:18Z",
@@ -42,12 +51,12 @@
    "comments": 0
   },
   {
-   "id": "h7SFv1Ay0TM",
-   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
-   "published": "2026-11-16T11:30:09Z",
+   "id": "87xvSWG6ZmQ",
+   "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
+   "published": "2026-11-17T11:30:28Z",
    "privacy": "public",
-   "views": 75,
-   "likes": 3,
+   "views": 69,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -69,6 +78,15 @@
    "comments": 0
   },
   {
+   "id": "5tKJOMuN_lc",
+   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
+   "published": "2026-11-16T00:35:44Z",
+   "privacy": "public",
+   "views": 57,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "JNxxc8zZxSU",
    "title": "Wie sieht die Medizin 2031 aus? #Shorts",
    "published": "2026-10-31T22:04:02Z",
@@ -87,15 +105,6 @@
    "comments": 0
   },
   {
-   "id": "5tKJOMuN_lc",
-   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
-   "published": "2026-11-16T00:35:44Z",
-   "privacy": "public",
-   "views": 50,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "dKObFQy8f44",
    "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
    "published": "2026-10-31T22:12:04Z",
@@ -105,6 +114,15 @@
    "comments": 0
   },
   {
+   "id": "OsKvbOD_8cI",
+   "title": "KI am Laser: Welche Regeln gelten? #Shorts",
+   "published": "2026-11-16T02:10:43Z",
+   "privacy": "public",
+   "views": 42,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "rmVhKwY89IM",
    "title": "Wie viel Krafttraining ist optimal? 90 Minuten pro Woche #Shorts",
    "published": "2026-11-03T17:02:58Z",
@@ -112,15 +130,6 @@
    "views": 40,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "OsKvbOD_8cI",
-   "title": "KI am Laser: Welche Regeln gelten? #Shorts",
-   "published": "2026-11-16T02:10:43Z",
-   "privacy": "public",
-   "views": 38,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "kDFYGeFWeqQ",
@@ -150,6 +159,24 @@
    "comments": 0
   },
   {
+   "id": "ptw2DPOgLiM",
+   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
+   "published": "2026-11-16T02:10:59Z",
+   "privacy": "public",
+   "views": 32,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "miSHmAanHIw",
+   "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
+   "published": "2026-11-16T02:10:52Z",
+   "privacy": "public",
+   "views": 32,
+   "likes": 2,
+   "comments": 1
+  },
+  {
    "id": "JjxPYQ5GyqU",
    "title": "Der erste Lasereingriff am Menschen – New York 1961 #Shorts",
    "published": "2026-11-08T11:31:49Z",
@@ -168,20 +195,11 @@
    "comments": 0
   },
   {
-   "id": "ptw2DPOgLiM",
-   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
-   "published": "2026-11-16T02:10:59Z",
+   "id": "G4ZQIvhVa48",
+   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
+   "published": "2026-11-16T17:00:33Z",
    "privacy": "public",
-   "views": 28,
-   "likes": 0,
-   "comments": 1
-  },
-  {
-   "id": "miSHmAanHIw",
-   "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
-   "published": "2026-11-16T02:10:52Z",
-   "privacy": "public",
-   "views": 24,
+   "views": 27,
    "likes": 2,
    "comments": 1
   },
@@ -190,9 +208,18 @@
    "title": "Nur winzige Punkte behandeln – fraktionierte Laser und die Gegenwart #Shorts",
    "published": "2026-11-11T11:32:05Z",
    "privacy": "public",
-   "views": 22,
+   "views": 24,
    "likes": 2,
    "comments": 0
+  },
+  {
+   "id": "YlMH5Y6K9KI",
+   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+   "published": "2026-11-16T18:45:22Z",
+   "privacy": "public",
+   "views": 22,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "00yXBBJCV18",
@@ -217,7 +244,7 @@
    "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
    "published": "2026-11-15T23:48:06Z",
    "privacy": "public",
-   "views": 17,
+   "views": 18,
    "likes": 0,
    "comments": 1
   },
@@ -240,15 +267,6 @@
    "comments": 0
   },
   {
-   "id": "YlMH5Y6K9KI",
-   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
-   "published": "2026-11-16T18:45:22Z",
-   "privacy": "public",
-   "views": 14,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "O4uUA9HzUps",
    "title": "Eine Infusion gegen hohes Cholesterin? Gen-Editierung VERVE-102 #Shorts",
    "published": "2026-11-04T17:06:46Z",
@@ -267,9 +285,9 @@
    "comments": 0
   },
   {
-   "id": "G4ZQIvhVa48",
-   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
-   "published": "2026-11-16T17:00:33Z",
+   "id": "hHw6Z1Ar-YI",
+   "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
+   "published": "2026-11-17T17:00:13Z",
    "privacy": "public",
    "views": 12,
    "likes": 1,
@@ -285,12 +303,30 @@
    "comments": 0
   },
   {
+   "id": "wNSmHkzgLXw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-17T18:45:30Z",
+   "privacy": "public",
+   "views": 9,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "aMFbTNCwxf8",
    "title": "Diagnose ohne Arzt? KI prüft die Netzhaut bei Diabetes #Shorts",
    "published": "2026-11-10T17:05:48Z",
    "privacy": "public",
    "views": 9,
    "likes": 1,
+   "comments": 0
+  },
+  {
+   "id": "ku1NKOMX8AI",
+   "title": "Zukunft der Medizin, Folge 1: Gen-Editing, KI-Krebsdiagnostik & Exoskelett",
+   "published": "2026-11-14T09:52:05Z",
+   "privacy": "public",
+   "views": 7,
+   "likes": 0,
    "comments": 0
   },
   {
@@ -321,20 +357,11 @@
    "comments": 0
   },
   {
-   "id": "ku1NKOMX8AI",
-   "title": "Zukunft der Medizin, Folge 1: Gen-Editing, KI-Krebsdiagnostik & Exoskelett",
-   "published": "2026-11-14T09:52:05Z",
-   "privacy": "public",
-   "views": 5,
-   "likes": 0,
-   "comments": 0
-  },
-  {
    "id": "GcCJuGQyb2g",
    "title": "Ebola-Ausbruch in Afrika: Wie groß ist das Risiko für uns? (KW 45) #Shorts",
    "published": "2026-11-11T07:05:28Z",
    "privacy": "public",
-   "views": 3,
+   "views": 4,
    "likes": 0,
    "comments": 0
   },
@@ -555,36 +582,9 @@
    "comments": 0
   },
   {
-   "id": "wNSmHkzgLXw",
-   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
-   "published": "2026-11-16T09:32:55Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
    "id": "XcGzufP_C5Y",
    "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
    "published": "2026-11-16T08:58:22Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "hHw6Z1Ar-YI",
-   "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
-   "published": "2026-11-16T08:58:19Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "87xvSWG6ZmQ",
-   "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
-   "published": "2026-11-16T08:58:17Z",
    "privacy": "private",
    "views": 0,
    "likes": 0,
