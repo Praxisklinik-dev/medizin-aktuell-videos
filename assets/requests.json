@@ -1,0 +1,8 @@
+[
+ {"key":"lpa_blutprobe","query":"blood sample test tubes laboratory","kind":"photo","n":4},
+ {"key":"lpa_labor","query":"medical laboratory analyzer blood","kind":"photo","n":3},
+ {"key":"lpa_herz","query":"human heart anatomy model","kind":"photo","n":3},
+ {"key":"lpa_familie","query":"three generations family","kind":"photo","n":3},
+ {"key":"lpa_arzt","query":"doctor patient consultation","kind":"photo","n":3},
+ {"key":"lpa_dna","query":"DNA double helix model","kind":"photo","n":3}
+]
