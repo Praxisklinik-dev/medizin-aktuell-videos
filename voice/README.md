@@ -10,7 +10,7 @@ uv pip install chatterbox-tts faster-whisper noisereduce soundfile "setuptools<8
 Erzeugen: `python voice/gen_voice.py lines.json out_dir voice/ref.wav`
 - lines.json: `[{"id":"s1","say":"Gesprochener Text","check":"Text wie er erkannt werden soll"}]`
 - Höchstens ~6 Zeilen pro Prozess (sonst Absturz durch Speicher); für lange Texte in Blöcken aufrufen.
-- Ergebnis: out_dir/<id>.wav (24 kHz, Pausen gestillt und auf 0,16 s gekürzt, Tempo ×1,10, Lautheit −16 LUFS) und report.json (Erkennungs-Score je Zeile; < 0,85 prüfen).
+- Ergebnis: out_dir/<id>.wav (24 kHz, Pausen gestillt und auf 0,16 s gekürzt, Tempo ×1,20, Lautheit −16 LUFS) und report.json (Erkennungs-Score je Zeile; < 0,85 prüfen).
 - Aussprache: schwierige Wörter lautschriftlich in "say" (z. B. „Kolesterin“, „Ell-Pe-A“), Original in "check".
 - Hinweis in Video/Text: „Stimme: KI-Nachbildung von Dr. G. Atalay, autorisiert.“
 - Referenz ref.wav: Aufnahme Dr. Atalay 15.11.2026, Ausschnitt 18,4–35,7 s, Hochpass + leichte Entrauschung.

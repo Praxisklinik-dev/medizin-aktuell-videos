@@ -8,7 +8,7 @@ import json, os, sys, difflib, re, subprocess
 import numpy as np, soundfile as sf, torch
 
 SR = 24000
-TEMPO = float(os.environ.get("TEMPO", "1.10"))      # zeitliche Straffung ohne Tonhöhenänderung
+TEMPO = float(os.environ.get("TEMPO", "1.20"))      # zeitliche Straffung ohne Tonhöhenänderung
 MAX_PAUSE = float(os.environ.get("MAX_PAUSE", "0.16"))  # max. Pause innerhalb eines Satzes (s)
 TRIES = int(os.environ.get("TRIES", "3"))
 
