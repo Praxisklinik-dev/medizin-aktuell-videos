@@ -99,6 +99,18 @@ def upload(yt, e):
     return resp["id"], status["privacyStatus"]
 
 
+def unlist(yt, video_id):
+    """Altes Video auf "nicht gelistet" stellen (nicht löschen) – für ersetzte Fassungen."""
+    r = yt.videos().list(part="status", id=video_id).execute()
+    if not r.get("items"):
+        return False
+    st = r["items"][0]["status"]
+    st["privacyStatus"] = "unlisted"
+    st.pop("publishAt", None)
+    yt.videos().update(part="status", body={"id": video_id, "status": st}).execute()
+    return True
+
+
 def comment(yt, video_id, text):
     yt.commentThreads().insert(
         part="snippet",
@@ -130,6 +142,17 @@ def main():
                 if err.resp.status in (403, 429):  # Kontingent erschöpft
                     break
             save_state(state)
+        # 1b. Ersetzte alte Fassung auf "nicht gelistet" stellen (sobald neue öffentlich ist)
+        if s.get("video_id") and e.get("replaces") and not s.get("replaced_done"):
+            pub = dt.datetime.fromisoformat(e["publish_at"].replace("Z", "+00:00"))
+            if pub <= now():
+                try:
+                    if unlist(yt, e["replaces"]):
+                        print(f"Alte Fassung nicht gelistet: https://youtu.be/{e['replaces']}")
+                    s["replaced_done"] = True
+                except HttpError as err:
+                    print(f"Alte Fassung noch nicht umgestellt: {err.resp.status}")
+                save_state(state)
         # 2. Erster Kommentar, sobald veröffentlicht
         if s.get("video_id") and not s.get("comment_done") and e.get("first_comment"):
             pub = dt.datetime.fromisoformat(e["publish_at"].replace("Z", "+00:00"))
