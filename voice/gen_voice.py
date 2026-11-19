@@ -1,16 +1,27 @@
 #!/usr/bin/env python3
-"""Stimme Dr. Atalay (KI-Nachbildung, autorisiert) – Version 3 (18.11.2026).
-Verbesserungen gegenüber v2: zügigeres Tempo, stille und kurze Pausen, Qualitätsprüfung per Spracherkennung.
+"""Stimme Dr. Atalay (KI-Nachbildung, autorisiert) – Version 4 „Probe B“ (19.11.2026, freigegeben als Richtung).
+Prinzip: ganze Absätze (1–2 Sätze) statt Einzelsätze erzeugen → natürliche Satzmelodie; mehrere Versuche je Absatz,
+Spracherkennung wählt den deutlichsten; nur zu lange Pausen kürzen (natürliche Atempausen bleiben);
+Tempo per Rubberband (Stimmhöhe und Klangfarbe bleiben erhalten); Sprecher-Klangkette (Hochpass, sanfte Kompression,
+Präsenz, Entrauschung, −16 LUFS).
 Aufruf: gen_voice.py lines.json out_dir [ref.wav]
-lines.json: [{"id": "s1_1", "say": "Text", "check": "erwarteter Wortlaut (optional)"}]
+lines.json: [{"id": "a1", "say": "Ein oder zwei Sätze in Lautschrift", "check": "Originaltext (optional)"}]
+Höchstens ~6 Einträge pro Prozess (Speicher).
 """
 import json, os, sys, difflib, re, subprocess
 import numpy as np, soundfile as sf, torch
 
 SR = 24000
-TEMPO = float(os.environ.get("TEMPO", "1.20"))      # zeitliche Straffung ohne Tonhöhenänderung
-MAX_PAUSE = float(os.environ.get("MAX_PAUSE", "0.16"))  # max. Pause innerhalb eines Satzes (s)
+TEMPO = float(os.environ.get("TEMPO", "1.12"))
 TRIES = int(os.environ.get("TRIES", "3"))
+EXAG = float(os.environ.get("EXAG", "0.55"))
+CFG = float(os.environ.get("CFG", "0.5"))
+TEMP = float(os.environ.get("VOICE_TEMP", "0.8"))
+PAUSE_MAX, PAUSE_KEEP = 0.35, 0.30   # Pausen über 0,35 s auf 0,30 s kürzen
+CHAIN = ("highpass=f=75,afftdn=nf=-50,"
+         "acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120:makeup=2,"
+         "equalizer=f=3200:t=q:w=1.2:g=2,deesser=i=0.35,"
+         "loudnorm=I=-16:TP=-1.5:LRA=7")
 
 
 def norm(t):
@@ -22,50 +33,40 @@ def score(a, b):
     return difflib.SequenceMatcher(None, norm(a), norm(b)).ratio()
 
 
-def clean(x):
-    """Pausen stumm schalten und kürzen, Anfang/Ende trimmen."""
-    x = x.astype(np.float32)
+def shape_pauses(x):
     f = int(0.01 * SR)
     n = len(x) // f
     e = np.array([np.sqrt(np.mean(x[i * f:(i + 1) * f] ** 2)) + 1e-9 for i in range(n)])
-    db = 20 * np.log10(e / (np.max(e) + 1e-9))
-    voiced = db > -38                                         # relativ zum lautesten Teil
-    # kurze Lücken (<40 ms) innerhalb von Lauten nicht als Pause zählen
-    v = voiced.copy()
-    for i in range(1, n - 4):
-        if not v[i] and v[i - 1] and v[i + 1:i + 5].any():
-            v[i] = True
-    idx = np.where(v)[0]
-    if len(idx) == 0:
-        return x
-    out, i, start = [], idx[0], idx[0]
-    segs = []
-    run_s = idx[0]
-    for a, b in zip(idx[:-1], idx[1:]):
-        if b - a > 1:
-            segs.append((run_s, a + 1)); run_s = b
-    segs.append((run_s, idx[-1] + 1))
-    fade = int(0.008 * SR)
-    for k, (s, e_) in enumerate(segs):
-        seg = x[max(0, s * f - fade):min(len(x), e_ * f + fade)].copy()
-        seg[:fade] *= np.linspace(0, 1, fade)[:len(seg[:fade])]
-        seg[-fade:] *= np.linspace(1, 0, fade)[:len(seg[-fade:])]
+    sil = 20 * np.log10(e / e.max()) < -40
+    out, i = [], 0
+    while i < n:
+        j = i
+        while j < n and sil[j] == sil[i]:
+            j += 1
+        seg = x[i * f:j * f]
+        if sil[i] and (j - i) * 0.01 > PAUSE_MAX:
+            k = int(PAUSE_KEEP * SR)
+            seg = np.concatenate([seg[:k // 2], seg[-k // 2:]])
         out.append(seg)
-        if k < len(segs) - 1:
-            gap = (segs[k + 1][0] - e_) * f / SR
-            out.append(np.zeros(int(min(gap, MAX_PAUSE) * SR), np.float32))
-    return np.concatenate(out)
+        i = j
+    out.append(x[n * f:])
+    y = np.concatenate(out)
+    # Anfang/Ende auf 60 ms Ruhe trimmen
+    nz = np.where(np.abs(y) > 10 ** (-40 / 20) * np.abs(y).max())[0]
+    if len(nz):
+        y = y[max(0, nz[0] - int(.06 * SR)):nz[-1] + int(.06 * SR)]
+    return y.astype(np.float32)
 
 
-def tempo(path_in, path_out):
-    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", path_in, "-af",
-                    f"atempo={TEMPO},highpass=f=60,lowpass=f=11000,loudnorm=I=-16:TP=-1.5:LRA=7", "-ar", str(SR), path_out], check=True)
+def finish(src, dst):
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", src, "-af",
+                    f"rubberband=tempo={TEMPO}:pitchq=quality:formant=preserved," + CHAIN, "-ar", str(SR), dst], check=True)
 
 
 def main():
     lines = json.load(open(sys.argv[1])); out = sys.argv[2]; os.makedirs(out, exist_ok=True)
-    ref = sys.argv[3] if len(sys.argv) > 3 else os.path.join(os.path.dirname(__file__), "ref.wav")
-    torch.manual_seed(int(os.environ.get("SEED", "41")))
+    ref = sys.argv[3] if len(sys.argv) > 3 else os.path.join(os.path.dirname(os.path.abspath(__file__)), "ref.wav")
+    torch.manual_seed(int(os.environ.get("SEED", "7")))
     from chatterbox.mtl_tts import ChatterboxMultilingualTTS
     from faster_whisper import WhisperModel
     tts = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
@@ -74,22 +75,20 @@ def main():
     for ln in lines:
         best = None
         for t in range(TRIES):
-            wav = tts.generate(ln["say"], language_id=ln.get("lang", "de"), audio_prompt_path=ref,
-                               exaggeration=float(os.environ.get("EXAG", "0.55")),
-                               cfg_weight=float(os.environ.get("CFG", "0.35")), temperature=0.75)
-            x = wav.squeeze().numpy()
+            x = tts.generate(ln["say"], language_id=ln.get("lang", "de"), audio_prompt_path=ref,
+                             exaggeration=EXAG, cfg_weight=CFG, temperature=TEMP).squeeze().numpy()
             raw = os.path.join(out, f"{ln['id']}_raw{t}.wav"); sf.write(raw, x, SR)
             segs, _ = asr.transcribe(raw, language=ln.get("lang", "de"), beam_size=1)
-            heard = " ".join(s.text for s in segs)
+            heard = " ".join(s.text for s in segs).strip()
             sc = score(ln.get("check", ln["say"]), heard)
-            print(f"{ln['id']} Versuch {t + 1}: {sc:.2f} | {heard.strip()}", flush=True)
+            print(f"{ln['id']} Versuch {t + 1}: {sc:.2f} | {heard}", flush=True)
             if best is None or sc > best[0]:
                 best = (sc, x, heard)
-            if sc >= 0.92:
+            if sc >= 0.97:
                 break
-        c = clean(best[1]); tmp = os.path.join(out, f"{ln['id']}_clean.wav"); sf.write(tmp, c, SR)
-        final = os.path.join(out, f"{ln['id']}.wav"); tempo(tmp, final)
-        report.append({"id": ln["id"], "score": round(best[0], 3), "heard": best[2].strip(), "dur": round(len(sf.read(final)[0]) / SR, 2)})
+        tmp = os.path.join(out, f"{ln['id']}_shaped.wav"); sf.write(tmp, shape_pauses(best[1]), SR)
+        fin = os.path.join(out, f"{ln['id']}.wav"); finish(tmp, fin)
+        report.append({"id": ln["id"], "score": round(best[0], 3), "heard": best[2], "dur": round(len(sf.read(fin)[0]) / SR, 2)})
     json.dump(report, open(os.path.join(out, "report.json"), "w"), ensure_ascii=False, indent=1)
 
 
