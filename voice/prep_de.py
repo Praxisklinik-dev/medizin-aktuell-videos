@@ -1,0 +1,39 @@
+"""Deutschen Sprechtext für die Stimmkopie aufbereiten: Zahlen ausschreiben, Abkürzungen auflösen, Aussprache-Lexikon."""
+import re
+from num2words import num2words
+
+LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht)
+    "Lp(a)HORIZON": "El-Pe-A-Horizon", "Lp(a)": "El-Pe-A", "vs.": "gegenüber", "Lipoprotein(a)": "Lipoprotein A", "LDL": "El-De-El", "HDL": "Ha-De-El",
+    "KI": "Ka-I", "EU": "E-U", "EMA": "E-M-A", "FDA": "F-D-A", "WHO": "W-H-O", "RKI": "R-K-I", "CRISPR": "Krisper",
+    "Pelacarsen": "Pelazarsen", "Olpasiran": "Olpasiran", "Retatrutid": "Reta-trutid", "Semaglutid": "Sema-glutid",
+    "mg/dL": "Milligramm pro Deziliter", "mmol/L": "Millimol pro Liter", "nmol/L": "Nanomol pro Liter",
+    "medizin-aktuell.eu": "medizin aktuell punkt e u", "z. B.": "zum Beispiel", "bzw.": "beziehungsweise", "ca.": "zirka",
+    "Dr.": "Doktor", "Prof.": "Professor", "u. a.": "unter anderem", "d. h.": "das heißt", "NEJM": "New England Journal of Medicine",
+    "Ezetimib": "Ezeti-mib", "Rosuvastatin": "Rosuva-statin",
+}
+
+
+def num(m):
+    s = m.group(0).replace(".", "").replace(",", ".")
+    try:
+        if "." in s:
+            a, b = s.split(".")
+            return num2words(int(a), lang="de") + " Komma " + " ".join(num2words(int(c), lang="de") for c in b)
+        return num2words(int(s), lang="de")
+    except Exception:
+        return m.group(0)
+
+
+def prep(t):
+    for k in sorted(LEX, key=len, reverse=True):
+        t = t.replace(k, LEX[k])
+    t = re.sub(r"(\d)\s*%", r"\1 Prozent", t)
+    t = re.sub(r"(\d)\s*×", r"\1 mal", t)
+    t = re.sub(r"\b(\d{1,3}(?:\.\d{3})+|\d+(?:,\d+)?)\b", num, t)
+    t = t.replace(" – ", ", ").replace("–", " bis ").replace("„", "").replace("“", "")
+    return re.sub(r"\s+", " ", t).strip()
+
+
+if __name__ == "__main__":
+    import sys
+    print(prep(" ".join(sys.argv[1:])))

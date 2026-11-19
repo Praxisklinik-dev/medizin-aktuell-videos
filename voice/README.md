@@ -1,4 +1,4 @@
-# Stimme Dr. Atalay (KI-Nachbildung, autorisiert) – Version 4 „Probe B“, 19.11.2026 (von Dr. Atalay als Richtung gewählt)
+# Stimme Dr. Atalay (KI-Nachbildung, autorisiert) – Version 5, 19.11.2026
 
 Einrichtung (CPU reicht, ca. 10 Min.):
 ```
@@ -15,3 +15,10 @@ Erzeugen: `python voice/gen_voice.py lines.json out_dir voice/ref.wav`
 - Aussprache: schwierige Wörter lautschriftlich in "say" (z. B. „Kolesterin“, „Ell-Pe-A“), Original in "check".
 - Hinweis in Video/Text: „Stimme: KI-Nachbildung von Dr. G. Atalay, autorisiert.“
 - Referenz ref.wav: Aufnahme Dr. Atalay 15.11.2026, Ausschnitt 18,4–35,7 s, Hochpass + leichte Entrauschung.
+
+## Version 5 (19.11.2026, nach Rückmeldung „künstlich, abgehackt“)
+- KEINE Schnitte in den Pausen, KEINE Zeitdehnung mehr (das hat abgehackt geklungen). Nur Anfang/Ende getrimmt, sanfte Klangkette.
+- Tempo und Ausdruck über das Modell: EXAG 0,7, CFG 0,7 (Test mit 8 Kombinationen: zügig ~140 Wörter/Min, Erkennung 98 %).
+- Text nur noch als "text" angeben – prep_de.py schreibt Zahlen aus, löst Abkürzungen auf und setzt die Aussprachehilfen (LEX erweitern!).
+- Cholesterin NICHT umschreiben (Original wird am besten gesprochen). Schwierige Arzneinamen (z. B. Pelacarsen) im Sprechtext möglichst umschreiben („ein neues Medikament“), Name nur in der Einblendung.
+- Zwischen Szenen 0,42 s Stille.
