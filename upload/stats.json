@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-18T07:23Z",
+ "stand": "2026-11-19T07:24Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 4,
- "aufrufe_gesamt": 1645,
- "videos_gesamt": 41,
+ "aufrufe_gesamt": 1765,
+ "videos_gesamt": 43,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -24,11 +24,20 @@
    "comments": 0
   },
   {
+   "id": "87xvSWG6ZmQ",
+   "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
+   "published": "2026-11-17T11:30:28Z",
+   "privacy": "public",
+   "views": 101,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "h7SFv1Ay0TM",
    "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
    "published": "2026-11-16T11:30:09Z",
    "privacy": "public",
-   "views": 95,
+   "views": 97,
    "likes": 3,
    "comments": 1
   },
@@ -46,18 +55,9 @@
    "title": "Bremst Semaglutid das Altern? Was epigenetische Uhren zeigen #Shorts",
    "published": "2026-11-14T10:13:59Z",
    "privacy": "public",
-   "views": 83,
+   "views": 80,
    "likes": 0,
    "comments": 0
-  },
-  {
-   "id": "87xvSWG6ZmQ",
-   "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
-   "published": "2026-11-17T11:30:28Z",
-   "privacy": "public",
-   "views": 69,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "EVik4YMCAfA",
@@ -78,15 +78,6 @@
    "comments": 0
   },
   {
-   "id": "5tKJOMuN_lc",
-   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
-   "published": "2026-11-16T00:35:44Z",
-   "privacy": "public",
-   "views": 57,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "JNxxc8zZxSU",
    "title": "Wie sieht die Medizin 2031 aus? #Shorts",
    "published": "2026-10-31T22:04:02Z",
@@ -105,6 +96,15 @@
    "comments": 0
   },
   {
+   "id": "5tKJOMuN_lc",
+   "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
+   "published": "2026-11-16T00:35:44Z",
+   "privacy": "public",
+   "views": 53,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "dKObFQy8f44",
    "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
    "published": "2026-10-31T22:12:04Z",
@@ -118,7 +118,7 @@
    "title": "KI am Laser: Welche Regeln gelten? #Shorts",
    "published": "2026-11-16T02:10:43Z",
    "privacy": "public",
-   "views": 42,
+   "views": 41,
    "likes": 0,
    "comments": 1
   },
@@ -130,6 +130,33 @@
    "views": 40,
    "likes": 2,
    "comments": 0
+  },
+  {
+   "id": "XcGzufP_C5Y",
+   "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-18T11:30:01Z",
+   "privacy": "public",
+   "views": 38,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "G4ZQIvhVa48",
+   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
+   "published": "2026-11-16T17:00:33Z",
+   "privacy": "public",
+   "views": 38,
+   "likes": 2,
+   "comments": 1
+  },
+  {
+   "id": "ptw2DPOgLiM",
+   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
+   "published": "2026-11-16T02:10:59Z",
+   "privacy": "public",
+   "views": 38,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "kDFYGeFWeqQ",
@@ -154,18 +181,9 @@
    "title": "Fleck weglasern? Erst zur Ärztin – auch mit KI #Shorts",
    "published": "2026-11-14T10:05:06Z",
    "privacy": "public",
-   "views": 36,
+   "views": 34,
    "likes": 1,
    "comments": 0
-  },
-  {
-   "id": "ptw2DPOgLiM",
-   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
-   "published": "2026-11-16T02:10:59Z",
-   "privacy": "public",
-   "views": 32,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "miSHmAanHIw",
@@ -177,6 +195,15 @@
    "comments": 1
   },
   {
+   "id": "pcgk5kRVvWM",
+   "title": "Erkennt KI Hautkrebs? Studie, Gerät und Apps im Check #Shorts",
+   "published": "2026-11-02T06:31:34Z",
+   "privacy": "public",
+   "views": 31,
+   "likes": 3,
+   "comments": 0
+  },
+  {
    "id": "JjxPYQ5GyqU",
    "title": "Der erste Lasereingriff am Menschen – New York 1961 #Shorts",
    "published": "2026-11-08T11:31:49Z",
@@ -186,21 +213,12 @@
    "comments": 0
   },
   {
-   "id": "pcgk5kRVvWM",
-   "title": "Erkennt KI Hautkrebs? Studie, Gerät und Apps im Check #Shorts",
-   "published": "2026-11-02T06:31:34Z",
-   "privacy": "public",
-   "views": 30,
-   "likes": 3,
-   "comments": 0
-  },
-  {
-   "id": "G4ZQIvhVa48",
-   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
-   "published": "2026-11-16T17:00:33Z",
+   "id": "YlMH5Y6K9KI",
+   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+   "published": "2026-11-16T18:45:22Z",
    "privacy": "public",
    "views": 27,
-   "likes": 2,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -211,15 +229,6 @@
    "views": 24,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "YlMH5Y6K9KI",
-   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
-   "published": "2026-11-16T18:45:22Z",
-   "privacy": "public",
-   "views": 22,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "00yXBBJCV18",
@@ -240,11 +249,20 @@
    "comments": 0
   },
   {
+   "id": "OnAY27Frq-E",
+   "title": "Ärzte ohne Grenzen im November 2026: von Darfur bis Dnipro #Shorts",
+   "published": "2026-11-05T23:31:45Z",
+   "privacy": "public",
+   "views": 18,
+   "likes": 0,
+   "comments": 0
+  },
+  {
    "id": "Ivu1BlrmIoc",
    "title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
    "published": "2026-11-15T23:48:06Z",
    "privacy": "public",
-   "views": 18,
+   "views": 17,
    "likes": 0,
    "comments": 1
   },
@@ -255,15 +273,6 @@
    "privacy": "public",
    "views": 17,
    "likes": 1,
-   "comments": 0
-  },
-  {
-   "id": "OnAY27Frq-E",
-   "title": "Ärzte ohne Grenzen im November 2026: von Darfur bis Dnipro #Shorts",
-   "published": "2026-11-05T23:31:45Z",
-   "privacy": "public",
-   "views": 16,
-   "likes": 0,
    "comments": 0
   },
   {
@@ -285,6 +294,15 @@
    "comments": 0
   },
   {
+   "id": "wNSmHkzgLXw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-17T18:45:30Z",
+   "privacy": "public",
+   "views": 12,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "hHw6Z1Ar-YI",
    "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
    "published": "2026-11-17T17:00:13Z",
@@ -303,13 +321,13 @@
    "comments": 0
   },
   {
-   "id": "wNSmHkzgLXw",
-   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
-   "published": "2026-11-17T18:45:30Z",
+   "id": "ku1NKOMX8AI",
+   "title": "Zukunft der Medizin, Folge 1: Gen-Editing, KI-Krebsdiagnostik & Exoskelett",
+   "published": "2026-11-14T09:52:05Z",
    "privacy": "public",
    "views": 9,
-   "likes": 1,
-   "comments": 1
+   "likes": 0,
+   "comments": 0
   },
   {
    "id": "aMFbTNCwxf8",
@@ -321,13 +339,13 @@
    "comments": 0
   },
   {
-   "id": "ku1NKOMX8AI",
-   "title": "Zukunft der Medizin, Folge 1: Gen-Editing, KI-Krebsdiagnostik & Exoskelett",
-   "published": "2026-11-14T09:52:05Z",
+   "id": "waTSYVtvsLI",
+   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
+   "published": "2026-11-18T17:00:27Z",
    "privacy": "public",
    "views": 7,
    "likes": 0,
-   "comments": 0
+   "comments": 1
   },
   {
    "id": "lm3Q6RH9ZxM",
@@ -352,7 +370,7 @@
    "title": "Die KI hört beim Arzt mit? #Shorts",
    "published": "2026-10-31T22:13:43Z",
    "privacy": "public",
-   "views": 6,
+   "views": 7,
    "likes": 2,
    "comments": 0
   },
@@ -567,24 +585,6 @@
    "id": "4Oey1JvGgc4",
    "title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
    "published": "2026-11-16T09:33:01Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "waTSYVtvsLI",
-   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
-   "published": "2026-11-16T09:32:58Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "XcGzufP_C5Y",
-   "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
-   "published": "2026-11-16T08:58:22Z",
    "privacy": "private",
    "views": 0,
    "likes": 0,
