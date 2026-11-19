@@ -1,0 +1,104 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#07101d}
+body{font-family:"Fira Sans","DM Sans",sans-serif;color:#F4F7FB}
+#stage{position:absolute;inset:0;overflow:hidden}
+.ph{position:absolute;inset:-6%;background-size:cover;background-position:center;will-change:transform,filter}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,16,29,.55) 0%,rgba(7,16,29,.05) 28%,rgba(7,16,29,.15) 55%,rgba(7,16,29,.92) 100%)}
+.vign{position:absolute;inset:0;box-shadow:inset 0 0 260px rgba(0,0,0,.55)}
+#bars{position:absolute;top:58px;left:48px;right:48px;display:flex;gap:10px}
+#bars i{flex:1;height:7px;border-radius:4px;background:rgba(255,255,255,.28);overflow:hidden}
+#bars i b{display:block;height:100%;width:0;background:#fff}
+#brand{position:absolute;top:96px;left:48px;display:flex;align-items:center;gap:14px;font:700 30px "Fira Sans";letter-spacing:.3px}
+#brand .dot{width:46px;height:46px;border-radius:50%;background:#E8455A;display:grid;place-items:center;font:900 26px "Fira Sans"}
+#kicker{position:absolute;top:168px;left:48px;padding:10px 22px;border-radius:30px;background:rgba(244,208,63,.95);color:#10203a;font:800 30px "Fira Sans";letter-spacing:.5px}
+.layer{position:absolute;inset:0}
+.title{position:absolute;left:60px;right:60px;top:560px;font:900 112px/1.02 "Fira Sans";letter-spacing:-1.5px;text-shadow:0 6px 30px rgba(0,0,0,.55)}
+.title span{display:inline-block;margin-right:22px}
+.title .hl{color:#F4D03F}
+.card{position:absolute;left:60px;right:60px;border-radius:34px;background:rgba(10,22,40,.82);backdrop-filter:blur(8px);border:2px solid rgba(255,255,255,.14);padding:44px 48px;box-shadow:0 30px 80px rgba(0,0,0,.45)}
+.big{font:900 150px/1 "Fira Sans";letter-spacing:-3px;color:#F4D03F}
+.lab{font:700 44px/1.2 "Fira Sans";margin-top:12px}
+.sub{font:500 34px/1.3 "DM Sans";color:#C9D4E5;margin-top:14px}
+#cap{position:absolute;left:56px;right:56px;bottom:300px;text-align:center;font:800 70px/1.18 "Fira Sans";text-shadow:0 4px 18px rgba(0,0,0,.8),0 0 2px #000}
+#cap span{display:inline-block;margin:0 10px;transition:none}
+#cap .on{color:#F4D03F}
+#src{position:absolute;left:48px;bottom:170px;right:48px;font:500 24px "DM Sans";color:rgba(255,255,255,.7)}
+#credit{position:absolute;right:30px;bottom:132px;font:400 19px "DM Sans";color:rgba(255,255,255,.55);text-align:right}
+#foot{position:absolute;left:48px;right:48px;bottom:70px;font:500 22px "DM Sans";color:rgba(255,255,255,.6)}
+</style></head><body><div id="stage"></div>
+<script>
+const W=1080,H=1920;
+const cl=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const ease=t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2, out=t=>1-Math.pow(1-t,3), back=t=>{const c=1.7;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)};
+const P=(t,a,b,f=ease)=>f(cl((t-a)/(b-a)));
+let D=null;
+function setup(d){D=d;document.getElementById('stage').innerHTML='';}
+function people(n,hi,k){let s='';for(let i=0;i<n;i++){const on=i===hi&&k>.5;const y=0;s+=`<svg width="120" height="170" viewBox="0 0 120 170" style="opacity:${cl(k*3-i*.35)};transform:translateY(${(1-cl(k*3-i*.35))*40}px)"><circle cx="60" cy="38" r="30" fill="${on?'#E8455A':'#9FB3D1'}"/><path d="M14 168 C14 104 106 104 106 168 Z" fill="${on?'#E8455A':'#9FB3D1'}"/></svg>`;}return s}
+function vis(sc,lt,dur){
+  const k=P(lt,.1,.9,out);
+  switch(sc.vis){
+  case 'hook': {
+    const w=sc.title.map((x,i)=>{const kk=P(lt,.15+i*.18,.55+i*.18,back);return `<span class="${x.hl?'hl':''}" style="opacity:${cl(kk)};transform:translateY(${(1-kk)*60}px) scale(${.8+.2*kk})">${x.t}</span>`}).join('');
+    return `<div class="title">${w}</div>`;}
+  case 'genes': {
+    const n=Math.round(90*P(lt,.4,1.8,out));
+    return `<div class="card" style="top:${560+(1-k)*80}px;opacity:${k}"><div class="big">&gt; ${n} %</div><div class="lab">durch die Gene bestimmt</div></div>
+    <div class="card" style="top:1000px;opacity:${P(lt,dur*.45,dur*.45+.5)}"><div style="display:flex;justify-content:space-between">${people(5,2,P(lt,dur*.45,dur*.45+1.2,out))}</div><div class="lab" style="text-align:center">etwa jeder Fünfte hat einen erhöhten Wert</div></div>`;}
+  case 'gauge': {
+    const m=P(lt,dur*.15,dur*.45)*30+P(lt,dur*.55,dur*.8)*25; const x=m/100*860;
+    const seg=(a,b,c)=>`<div style="position:absolute;left:${a/100*860}px;width:${(b-a)/100*860}px;top:0;height:64px;background:${c};${a==0?'border-radius:32px 0 0 32px;':''}${b==100?'border-radius:0 32px 32px 0;':''}"></div>`;
+    return `<div class="card" style="top:${620+(1-k)*80}px;opacity:${k}"><div class="lab" style="margin:0 0 30px">Lp(a) im Blut, mg/dL</div>
+    <div style="position:relative;height:64px">${seg(0,30,'#4ADE9A')}${seg(30,50,'#F4D03F')}${seg(50,100,'#E8455A')}
+    <div style="position:absolute;left:${x-16}px;top:-26px;width:32px;height:116px;border-radius:16px;background:#fff;box-shadow:0 0 30px rgba(255,255,255,.7)"></div></div>
+    <div style="position:relative;height:60px;margin-top:22px;font:700 36px 'Fira Sans'"><span style="position:absolute;left:${30/100*860-20}px">30</span><span style="position:absolute;left:${50/100*860-20}px">50</span></div>
+    <div style="display:flex;justify-content:space-between;font:700 34px 'Fira Sans'"><span style="color:#4ADE9A;opacity:${P(lt,dur*.3,dur*.4)}">unauffällig</span><span style="color:#E8455A;opacity:${P(lt,dur*.75,dur*.85)}">deutlich erhöht</span></div></div>`;}
+  case 'check': {
+    const c=P(lt,dur*.25,dur*.4,back);
+    return `<div class="card" style="top:${600+(1-k)*80}px;opacity:${k};display:flex;align-items:center;gap:36px">
+      <svg width="150" height="150" viewBox="0 0 150 150"><circle cx="75" cy="75" r="68" fill="none" stroke="#4ADE9A" stroke-width="10" stroke-dasharray="${428*c} 428" transform="rotate(-90 75 75)"/><path d="M42 78 L66 102 L110 52" fill="none" stroke="#4ADE9A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="${110*P(lt,dur*.35,dur*.5)} 110"/></svg>
+      <div><div class="big" style="font-size:96px;color:#fff">1× im Leben</div><div class="lab">messen lassen</div></div></div>
+      <div class="card" style="top:1010px;opacity:${P(lt,dur*.55,dur*.65)}"><div class="lab" style="margin:0">besonders bei frühen Herzinfarkten in der Familie</div></div>`;}
+  case 'study': {
+    const a=P(lt,dur*.15,dur*.45,out), b=P(lt,dur*.6,dur*.85,out);
+    const bar=(lab,v,max,col,kk,txt)=>`<div style="display:flex;align-items:center;gap:22px;margin:22px 0"><div style="width:230px;font:700 34px 'Fira Sans'">${lab}</div><div style="flex:1;height:70px;background:rgba(255,255,255,.1);border-radius:16px;overflow:hidden"><div style="height:100%;width:${v/max*100*kk}%;background:${col};border-radius:16px"></div></div><div style="width:150px;font:900 44px 'Fira Sans';color:${col};opacity:${cl(kk*2-1)}">${txt}</div></div>`;
+    return `<div class="card" style="top:${520+(1-k)*80}px;opacity:${k}"><div class="sub" style="margin:0 0 10px">Lp(a)HORIZON · 8.322 Menschen</div>
+      <div class="lab">Lp(a)-Wert</div>${bar('Pelacarsen',78,100,'#F4D03F',a,'−78 %')}
+      <div class="lab" style="margin-top:30px;opacity:${cl(b*3)}">Herzinfarkt & Co.</div>${bar('Placebo',12.1,20,'#9FB3D1',b,'12,1 %')}${bar('Pelacarsen',12.3,20,'#F4D03F',b,'12,3 %')}</div>`;}
+  case 'cta': {
+    const items=['LDL-Cholesterin','Blutdruck','Blutzucker','Nichtrauchen'];
+    const end=P(lt,dur-3.2,dur-2.4,out);
+    return `<div class="card" style="top:${520+(1-k)*80}px;opacity:${k*(1-end)}">${items.map((t,i)=>`<div style="display:flex;align-items:center;gap:26px;margin:14px 0;opacity:${P(lt,.3+i*.35,.7+i*.35)}"><svg width="60" height="60" viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#4ADE9A"/><path d="M17 31 L26 40 L44 21" fill="none" stroke="#07101d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="lab" style="margin:0">${t}</div></div>`).join('')}<div class="sub">gut einstellen lassen</div></div>
+      <div style="position:absolute;inset:0;background:#07101d;opacity:${end*.86}"></div>
+      <div style="position:absolute;left:0;right:0;top:${640+(1-end)*60}px;text-align:center;opacity:${end}">
+        <div style="width:170px;height:170px;margin:0 auto 34px;border-radius:50%;background:#E8455A;display:grid;place-items:center;font:900 96px 'Fira Sans'">M</div>
+        <div style="font:900 86px 'Fira Sans'">Medizin Aktuell</div><div class="sub" style="font-size:44px;color:#F4D03F;margin-top:20px">medizin-aktuell.eu</div>
+        <div style="display:inline-block;margin-top:50px;padding:24px 54px;border-radius:60px;background:#E8455A;font:800 46px 'Fira Sans';transform:scale(${1+.04*Math.sin(lt*6)})">Abonnieren</div></div>`;}
+  }
+  return '';
+}
+function render(t){
+  const sc=D.scenes.find(s=>t>=s.t0&&t<s.t1)||D.scenes[D.scenes.length-1];
+  const lt=t-sc.t0, dur=sc.t1-sc.t0, i=D.scenes.indexOf(sc);
+  // Foto mit Kamerafahrt; Überblendung am Szenenanfang
+  const z=1.04+.10*(lt/dur), px=(sc.pan||0)*(lt/dur)*40, fin=P(lt,0,.45);
+  const prev=i>0?D.scenes[i-1]:null;
+  const ph=(s,o,zz,x)=>`<div class="ph" style="background-image:url(${s.photo});opacity:${o};transform:scale(${zz}) translateX(${x}px);filter:${s.blur?'blur(14px) brightness(.55)':'brightness(.92) saturate(1.08)'}"></div>`;
+  let html=(prev&&fin<1?ph(prev,1,1.14,(prev.pan||0)*40):'')+ph(sc,fin,z,px)+'<div class="shade"></div><div class="vign"></div>';
+  html+=`<div id="bars">${D.scenes.map((s,j)=>`<i><b style="width:${j<i?100:j>i?0:cl(lt/dur)*100}%"></b></i>`).join('')}</div>`;
+  html+=`<div id="brand"><div class="dot">M</div>Medizin Aktuell</div>`;
+  if(sc.kicker) html+=`<div id="kicker" style="opacity:${P(lt,.1,.5)}">${sc.kicker}</div>`;
+  html+=`<div class="layer">${vis(sc,lt,dur)}</div>`;
+  // Untertitel Wort für Wort
+  const ws=D.words.filter(w=>w.sc===i);
+  let cap='';
+  if(ws.length){const ch=ws.findIndex(w=>t<w.e+0.05);const c=ch<0?ws.length-1:ch;const g=Math.floor(c/4)*4;const grp=ws.slice(g,g+4);
+    if(!(sc.vis==='cta'&&lt>dur-3.2)) cap=grp.map((w,j)=>{const on=(g+j)===c&&t>=w.s-.05;return `<span class="${on?'on':''}" style="transform:scale(${on?1.06:1})">${w.w}</span>`}).join('');}
+  html+=`<div id="cap">${cap}</div>`;
+  if(sc.src) html+=`<div id="src">Quelle: ${sc.src}</div>`;
+  if(sc.credit) html+=`<div id="credit">Foto: ${sc.credit}</div>`;
+  html+=`<div id="foot">Stimme: KI-Nachbildung von Dr. G. Atalay, autorisiert · Allgemeine Information, keine ärztliche Beratung</div>`;
+  document.getElementById('stage').innerHTML=html;
+}
+</script></body></html>

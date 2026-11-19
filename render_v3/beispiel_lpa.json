@@ -1,0 +1,14 @@
+{"seed":3,"root":50,"scenes":[
+ {"id":"s1","audio":"/home/claude/voice/out_v4/a1.wav","vis":"hook","photo":"/home/claude/medizin-aktuell-videos/assets/lpa_blutprobe/01.jpg","pan":-1,"kicker":"Erklärt · Herz","title":[{"t":"Kennen"},{"t":"Sie"},{"t":"Ihren"},{"t":"Lp(a)-Wert?","hl":true}],
+  "credit":"Frankincense Diala, CC0","text":"Ihr Cholesterin kennen viele. Aber kaum jemand kennt seinen Lp(a)-Wert."},
+ {"id":"s2","audio":"/home/claude/voice/out_v4/a2/a2.wav","vis":"genes","photo":"/home/claude/medizin-aktuell-videos/assets/lpa_dna/02.jpg","blur":true,"pan":1,"src":"ESC/EAS-Leitlinie, Update 2025",
+  "credit":"Flocci Nivis, CC BY 4.0","text":"Lipoprotein(a) wird zu über 90 Prozent durch die Gene bestimmt. Etwa jeder Fünfte hat einen erhöhten Wert, meist ohne es zu wissen."},
+ {"id":"s3","audio":"/home/claude/voice/out_v4/a3b/a3.wav","vis":"gauge","photo":"/home/claude/medizin-aktuell-videos/assets/lpa_blutprobe/01.jpg","blur":true,"pan":-1,"src":"Bioscientia, Laborinformation Lp(a)",
+  "credit":"Frankincense Diala, CC0","text":"Unter 30 Milligramm pro Deziliter gilt als unauffällig. Über 50 ist der Wert deutlich erhöht, und das Herzinfarkt-Risiko steigt."},
+ {"id":"s4","audio":"/home/claude/voice/out_v4/a4/a4.wav","vis":"check","photo":"/home/claude/medizin-aktuell-videos/assets/lpa_herz/01.jpg","pan":1,"src":"ESC/EAS-Leitlinie, Update 2025",
+  "credit":"Public Domain","text":"Die europäische Leitlinie empfiehlt deshalb: Lassen Sie den Wert einmal im Leben messen. Besonders, wenn es in Ihrer Familie früh Herzinfarkte gab."},
+ {"id":"s5","audio":"/home/claude/voice/out_v4/a5/a5.wav","vis":"study","photo":"/home/claude/medizin-aktuell-videos/assets/lpa_herz/01.jpg","blur":true,"pan":-1,"src":"Lp(a)HORIZON, NEJM 2026",
+  "credit":"Public Domain","text":"In einer großen Studie senkte das Medikament Pelacarsen den Wert um 78 Prozent. Herzinfarkte und Schlaganfälle wurden aber nicht seltener."},
+ {"id":"s6","audio":"/home/claude/voice/out_v4/a6/a6.wav","vis":"cta","photo":"/home/claude/medizin-aktuell-videos/assets/lpa_arzt/01.jpg","pan":1,
+  "credit":"Shixart1985, CC BY 2.0","text":"Ist Ihr Wert hoch, behandeln Sie alle anderen Risikofaktoren besonders gut. Sprechen Sie Ihre Ärztin oder Ihren Arzt darauf an. Mehr dazu auf medizin-aktuell.eu."}
+]}
