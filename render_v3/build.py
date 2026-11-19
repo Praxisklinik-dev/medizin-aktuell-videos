@@ -24,7 +24,7 @@ v = np.concatenate(voice).astype(np.float32); TOTAL = len(v) / SR
 sf.write(f"{WORK}/voice.wav", v, SR)
 
 # 2) Wortzeiten (Spracherkennung liefert Zeiten, Wortlaut kommt aus dem Skript)
-subprocess.run(["/home/claude/cbx/bin/python", os.path.join(HERE, "words.py"), f"{WORK}/hw.json"] + [P(s["audio"]) for s in D["scenes"]], check=True, capture_output=True)
+subprocess.run([os.environ.get("CBX_PY", "/home/claude/cbx/bin/python"), os.path.join(HERE, "words.py"), f"{WORK}/hw.json"] + [P(s["audio"]) for s in D["scenes"]], check=True, capture_output=True)
 HW = json.load(open(f"{WORK}/hw.json"))
 words = []
 for i, s in enumerate(D["scenes"]):

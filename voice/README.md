@@ -3,7 +3,7 @@
 Einrichtung (CPU reicht, ca. 10 Min.):
 ```
 uv venv -p 3.11 cbx && . cbx/bin/activate
-uv pip install chatterbox-tts faster-whisper noisereduce soundfile "setuptools<81"
+uv pip install chatterbox-tts faster-whisper noisereduce soundfile num2words "setuptools<81"
 ```
 (PyTorch-Index download.pytorch.org ist im Sandbox-Proxy gesperrt → normales PyPI verwenden.)
 
