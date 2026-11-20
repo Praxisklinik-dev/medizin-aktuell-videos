@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-19T07:24Z",
+ "stand": "2026-11-20T07:24Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 4,
- "aufrufe_gesamt": 1765,
- "videos_gesamt": 43,
+ "aufrufe_gesamt": 1837,
+ "videos_gesamt": 45,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -28,7 +28,7 @@
    "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
    "published": "2026-11-17T11:30:28Z",
    "privacy": "public",
-   "views": 101,
+   "views": 97,
    "likes": 0,
    "comments": 1
   },
@@ -37,7 +37,7 @@
    "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
    "published": "2026-11-16T11:30:09Z",
    "privacy": "public",
-   "views": 97,
+   "views": 96,
    "likes": 3,
    "comments": 1
   },
@@ -73,7 +73,7 @@
    "title": "Verstecktes Kortison in Hautcremes? Was ein Labortest fand #Shorts",
    "published": "2026-11-09T17:08:10Z",
    "privacy": "public",
-   "views": 63,
+   "views": 64,
    "likes": 1,
    "comments": 0
   },
@@ -100,8 +100,17 @@
    "title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
    "published": "2026-11-16T00:35:44Z",
    "privacy": "public",
-   "views": 53,
+   "views": 52,
    "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "XcGzufP_C5Y",
+   "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-18T11:30:01Z",
+   "privacy": "public",
+   "views": 47,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -132,12 +141,12 @@
    "comments": 0
   },
   {
-   "id": "XcGzufP_C5Y",
-   "title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
-   "published": "2026-11-18T11:30:01Z",
+   "id": "ptw2DPOgLiM",
+   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
+   "published": "2026-11-16T02:10:59Z",
    "privacy": "public",
-   "views": 38,
-   "likes": 1,
+   "views": 39,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -147,15 +156,6 @@
    "privacy": "public",
    "views": 38,
    "likes": 2,
-   "comments": 1
-  },
-  {
-   "id": "ptw2DPOgLiM",
-   "title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
-   "published": "2026-11-16T02:10:59Z",
-   "privacy": "public",
-   "views": 38,
-   "likes": 0,
    "comments": 1
   },
   {
@@ -181,7 +181,7 @@
    "title": "Fleck weglasern? Erst zur Ärztin – auch mit KI #Shorts",
    "published": "2026-11-14T10:05:06Z",
    "privacy": "public",
-   "views": 34,
+   "views": 35,
    "likes": 1,
    "comments": 0
   },
@@ -192,6 +192,15 @@
    "privacy": "public",
    "views": 32,
    "likes": 2,
+   "comments": 1
+  },
+  {
+   "id": "soQgBKySNzw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-19T21:53:33Z",
+   "privacy": "public",
+   "views": 31,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -217,8 +226,17 @@
    "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
    "published": "2026-11-16T18:45:22Z",
    "privacy": "public",
-   "views": 27,
+   "views": 29,
    "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "4Oey1JvGgc4",
+   "title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-19T11:30:39Z",
+   "privacy": "public",
+   "views": 28,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -276,6 +294,24 @@
    "comments": 0
   },
   {
+   "id": "lPKaNqOdtmU",
+   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
+   "published": "2026-11-19T17:00:11Z",
+   "privacy": "public",
+   "views": 16,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "wNSmHkzgLXw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-17T18:45:30Z",
+   "privacy": "unlisted",
+   "views": 13,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "O4uUA9HzUps",
    "title": "Eine Infusion gegen hohes Cholesterin? Gen-Editierung VERVE-102 #Shorts",
    "published": "2026-11-04T17:06:46Z",
@@ -292,15 +328,6 @@
    "views": 13,
    "likes": 4,
    "comments": 0
-  },
-  {
-   "id": "wNSmHkzgLXw",
-   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
-   "published": "2026-11-17T18:45:30Z",
-   "privacy": "public",
-   "views": 12,
-   "likes": 1,
-   "comments": 1
   },
   {
    "id": "hHw6Z1Ar-YI",
@@ -321,6 +348,15 @@
    "comments": 0
   },
   {
+   "id": "waTSYVtvsLI",
+   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
+   "published": "2026-11-18T17:00:27Z",
+   "privacy": "public",
+   "views": 9,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "ku1NKOMX8AI",
    "title": "Zukunft der Medizin, Folge 1: Gen-Editing, KI-Krebsdiagnostik & Exoskelett",
    "published": "2026-11-14T09:52:05Z",
@@ -337,15 +373,6 @@
    "views": 9,
    "likes": 1,
    "comments": 0
-  },
-  {
-   "id": "waTSYVtvsLI",
-   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
-   "published": "2026-11-18T17:00:27Z",
-   "privacy": "public",
-   "views": 7,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "lm3Q6RH9ZxM",
@@ -567,24 +594,6 @@
    "id": "V-nj1mGzBIw",
    "title": "Im Sommer nie lasern? Laser-Mythen im Check #Shorts",
    "published": "2026-11-16T09:33:10Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "lPKaNqOdtmU",
-   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
-   "published": "2026-11-16T09:33:06Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "4Oey1JvGgc4",
-   "title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
-   "published": "2026-11-16T09:33:01Z",
    "privacy": "private",
    "views": 0,
    "likes": 0,
