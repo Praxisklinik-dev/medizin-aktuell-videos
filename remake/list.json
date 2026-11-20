@@ -1,74 +1,508 @@
 {
- "plan": "Dr. Atalay 19.11.2026: die 10 meistgesehenen Shorts mit Stimme v5 und Stil v3 neu machen, 3 pro Woche (Mo/Mi/Fr). Alte Fassung wird nicht gelistet (nicht gelöscht).",
+ "plan": "Dr. Atalay 20.11.2026: ALLE Shorts mit alter Stimme neu machen (Stimme v5 'Probe D', Stil v3). 2 pro Tag (Lauf 08:07 -> Veröffentlichung 12:30, Lauf 14:07 -> 18:30 Berliner Zeit). Abwechselnd: angehaltene geplante Shorts (alte Fassung bleibt privat) und veröffentlichte Shorts nach Aufrufen (alte Fassung wird nicht gelistet). Nichts wird gelöscht.",
  "items": [
   {
+   "art": "geplant",
+   "old_id": "V-nj1mGzBIw",
+   "old_key": "426378551",
+   "old_title": "Im Sommer nie lasern? Laser-Mythen im Check #Shorts",
    "nr": 1,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "nishehCx2pA",
    "old_title": "Wie der erste Laser entstand – von Einstein bis zum Rubin #Shorts",
    "views_at_plan": 315,
+   "nr": 2,
    "status": "offen"
   },
   {
-   "nr": 2,
+   "art": "geplant",
+   "old_id": "-g9DwS8BXPU",
+   "old_key": "426378946",
+   "old_title": "Was verrät ein EKG mit KI? Herzschwäche und Vorhofflimmern #Shorts",
+   "nr": 3,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "Hzxqy_fC5MY",
    "old_title": "Medizin 2041: Gentherapie, Schweineniere, Klinik im Wohnzimmer? #Shorts",
    "views_at_plan": 108,
+   "nr": 4,
    "status": "offen"
   },
   {
-   "nr": 3,
+   "art": "geplant",
+   "old_id": "U6e5YCyaB90",
+   "old_key": "426379300",
+   "old_title": "Wirken Heimgeräte wie Praxislaser? Laser-Mythen (4) #Shorts",
+   "nr": 5,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "87xvSWG6ZmQ",
    "old_title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
-   "views_at_plan": 101,
+   "views_at_plan": 97,
+   "nr": 6,
    "status": "offen"
   },
   {
-   "nr": 4,
+   "art": "geplant",
+   "old_id": "k3CEM5J_imo",
+   "old_key": "426379740",
+   "old_title": "Erfindet KI Medikamente? Nobelpreis, AlphaFold und erste Studie #Shorts",
+   "nr": 7,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "h7SFv1Ay0TM",
    "old_title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
-   "views_at_plan": 97,
+   "views_at_plan": 96,
+   "nr": 8,
    "status": "offen"
   },
   {
-   "nr": 5,
+   "art": "geplant",
+   "old_id": "6c70rVRek80",
+   "old_key": "426380078",
+   "old_title": "Tattoos komplett weglasern? Laser-Mythen im Check (5) #Shorts",
+   "nr": 9,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "QWOaZuI1oe8",
    "old_title": "Kann KI Krebs im Gewebe erkennen? KI in der Pathologie #Shorts",
    "views_at_plan": 87,
+   "nr": 10,
    "status": "offen"
   },
   {
-   "nr": 6,
+   "art": "geplant",
+   "old_id": "UP7LjaFlY-o",
+   "old_key": "426380440",
+   "old_title": "Findet KI mehr Polypen? Darmspiegelung und die Kehrseite #Shorts",
+   "nr": 11,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "o5End1h8vT0",
    "old_title": "Bremst Semaglutid das Altern? Was epigenetische Uhren zeigen #Shorts",
    "views_at_plan": 80,
+   "nr": 12,
    "status": "offen"
   },
   {
-   "nr": 7,
+   "art": "geplant",
+   "old_id": "WBW1h33hOcs",
+   "old_key": "426380737",
+   "old_title": "Mythos-Check: Macht Fingerknacken Arthrose? #Shorts",
+   "nr": 13,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "EVik4YMCAfA",
    "old_title": "Sind Süßstoffe harmlos für den Darm? 39 Süßstoffe im Labortest #Shorts",
    "views_at_plan": 67,
+   "nr": 14,
    "status": "offen"
   },
   {
-   "nr": 8,
+   "art": "geplant",
+   "old_id": "1v0s-Oyyl2E",
+   "old_key": "426380974",
+   "old_title": "Pigmentflecken lasern: Vorbereitung, Nachpflege, Vitamin C 30 % #Shorts",
+   "nr": 15,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "kdWcEPnBkKM",
    "old_title": "Verstecktes Kortison in Hautcremes? Was ein Labortest fand #Shorts",
-   "views_at_plan": 63,
+   "views_at_plan": 64,
+   "nr": 16,
    "status": "offen"
   },
   {
-   "nr": 9,
+   "art": "geplant",
+   "old_id": "ONl8B0ggF84",
+   "old_key": "426478560",
+   "old_title": "Daumen gebrochen? Bennett, Rolando, Winterstein #Shorts",
+   "nr": 17,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "JNxxc8zZxSU",
    "old_title": "Wie sieht die Medizin 2031 aus? #Shorts",
    "views_at_plan": 56,
+   "nr": 18,
    "status": "offen"
   },
   {
-   "nr": 10,
+   "art": "geplant",
+   "old_id": "id0eW4D8J_o",
+   "old_key": "426381193",
+   "old_title": "Zell-Verjüngung am Auge: erste Daten zur Gentherapie ER-100 #Shorts",
+   "nr": 19,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
    "old_id": "StpwTPaH4pA",
    "old_title": "Warum Laser nur das Ziel treffen – selektive Photothermolyse #Shorts",
    "views_at_plan": 54,
+   "nr": 20,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "9_D0AewScfg",
+   "old_key": "426478773",
+   "old_title": "Grapefruit und Tabletten: Warum Vorsicht gilt #Shorts",
+   "nr": 21,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "5tKJOMuN_lc",
+   "old_title": "Plasmaaustausch gegen das Altern? Die erste Placebo-Studie #Shorts",
+   "views_at_plan": 52,
+   "nr": 22,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "hzuhJSvsd40",
+   "old_key": "426381445",
+   "old_title": "Hyaluronsäure zum Trinken: Was eine Placebo-Studie zeigt #Shorts",
+   "nr": 23,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "XcGzufP_C5Y",
+   "old_title": "Laser-Haarentfernung für immer? Laser-Mythen im Check #Shorts",
+   "views_at_plan": 47,
+   "nr": 24,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "lFJY7EkNbtk",
+   "old_key": "426478962",
+   "old_title": "Operiert bald ein Roboter allein? Stand 2026 #Shorts",
+   "nr": 25,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "dKObFQy8f44",
+   "old_title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
+   "views_at_plan": 47,
+   "nr": 26,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "BA63XXVt77c",
+   "old_key": "426381672",
+   "old_title": "Gen-Schere für ein einziges Kind: Was der Fall Baby KJ verändert #Shorts",
+   "nr": 27,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "OsKvbOD_8cI",
+   "old_title": "KI am Laser: Welche Regeln gelten? #Shorts",
+   "views_at_plan": 41,
+   "nr": 28,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "Uv_vZu7DBuw",
+   "old_key": "426479136",
+   "old_title": "Faust gegen Zähne: Warum die Wunde gefährlich ist #Shorts",
+   "nr": 29,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "rmVhKwY89IM",
+   "old_title": "Wie viel Krafttraining ist optimal? 90 Minuten pro Woche #Shorts",
+   "views_at_plan": 40,
+   "nr": 30,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "7O3i9bnEU3E",
+   "old_key": "426381968",
+   "old_title": "Älter werden heißt nicht abbauen: Fast jeder Zweite über 65 legt zu #Shorts",
+   "nr": 31,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "ptw2DPOgLiM",
+   "old_title": "Abnehmspritze gegen Knieschmerzen? Retatrutid bei Arthrose #Shorts",
+   "views_at_plan": 39,
+   "nr": 32,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "oMo8bE1cPAo",
+   "old_key": "426479308",
+   "old_title": "Wenn KI sich irrt: 4 belegte Risiken in der Medizin #Shorts",
+   "nr": 33,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "G4ZQIvhVa48",
+   "old_title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
+   "views_at_plan": 38,
+   "nr": 34,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "9ZQV_ZDPkSc",
+   "old_key": "426382207",
+   "old_title": "Hunde als Vorreiter: Kommt das erste Langlebigkeits-Medikament? #Shorts",
+   "nr": 35,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "kDFYGeFWeqQ",
+   "old_title": "Notfall nach dem Filler: Gefäßverschluss erkennen und handeln #Shorts",
+   "views_at_plan": 38,
+   "nr": 36,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "4g71iBxDb5g",
+   "old_key": "426479483",
+   "old_title": "Handgelenk-Schmerz ausschalten, Gelenk behalten? #Shorts",
+   "nr": 37,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "P_o69w47L4U",
+   "old_title": "Findet KI Brustkrebs früher? #Shorts",
+   "views_at_plan": 37,
+   "nr": 38,
+   "status": "offen"
+  },
+  {
+   "art": "geplant",
+   "old_id": "U1vJ6WeRjpA",
+   "old_key": "426382467",
+   "old_title": "Medizin 2051: Versorgung für Hochbetagte – Zukunft der Medizin, Teil 4 #Shorts",
+   "nr": 39,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "mBBR47y3Kek",
+   "old_title": "Fleck weglasern? Erst zur Ärztin – auch mit KI #Shorts",
+   "views_at_plan": 35,
+   "nr": 40,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "miSHmAanHIw",
+   "old_title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
+   "views_at_plan": 32,
+   "nr": 41,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "pcgk5kRVvWM",
+   "old_title": "Erkennt KI Hautkrebs? Studie, Gerät und Apps im Check #Shorts",
+   "views_at_plan": 31,
+   "nr": 42,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "JjxPYQ5GyqU",
+   "old_title": "Der erste Lasereingriff am Menschen – New York 1961 #Shorts",
+   "views_at_plan": 30,
+   "nr": 43,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "YlMH5Y6K9KI",
+   "old_title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+   "views_at_plan": 29,
+   "nr": 44,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "4Oey1JvGgc4",
+   "old_title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
+   "views_at_plan": 28,
+   "nr": 45,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "1Sw54r-KVI0",
+   "old_title": "Nur winzige Punkte behandeln – fraktionierte Laser und die Gegenwart #Shorts",
+   "views_at_plan": 24,
+   "nr": 46,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "00yXBBJCV18",
+   "old_title": "Erfindet KI neue Medikamente? #Shorts",
+   "views_at_plan": 22,
+   "nr": 47,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "iVfDYVimeVE",
+   "old_title": "Was verrät ein EKG mit KI? #Shorts",
+   "views_at_plan": 21,
+   "nr": 48,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "OnAY27Frq-E",
+   "old_title": "Ärzte ohne Grenzen im November 2026: von Darfur bis Dnipro #Shorts",
+   "views_at_plan": 18,
+   "nr": 49,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "Ivu1BlrmIoc",
+   "old_title": "Augenlaser & Nierenstein: Wie viel KI steckt drin? #Shorts",
+   "views_at_plan": 17,
+   "nr": 50,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "3rAK7ATHr7g",
+   "old_title": "Augenlasern begann mit einem Truthahn #Shorts",
+   "views_at_plan": 17,
+   "nr": 51,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "lPKaNqOdtmU",
+   "old_title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
+   "views_at_plan": 16,
+   "nr": 52,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "O4uUA9HzUps",
+   "old_title": "Eine Infusion gegen hohes Cholesterin? Gen-Editierung VERVE-102 #Shorts",
+   "views_at_plan": 13,
+   "nr": 53,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "lhwI83duuSw",
+   "old_title": "Findet KI mehr Polypen? #Shorts",
+   "views_at_plan": 13,
+   "nr": 54,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "hHw6Z1Ar-YI",
+   "old_title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
+   "views_at_plan": 12,
+   "nr": 55,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "J7RirqEnNaE",
+   "old_title": "Krankheiten erkennen, bevor sie ausbrechen? Medizin 2036 #Shorts",
+   "views_at_plan": 11,
+   "nr": 56,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "waTSYVtvsLI",
+   "old_title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
+   "views_at_plan": 9,
+   "nr": 57,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "aMFbTNCwxf8",
+   "old_title": "Diagnose ohne Arzt? KI prüft die Netzhaut bei Diabetes #Shorts",
+   "views_at_plan": 9,
+   "nr": 58,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "lm3Q6RH9ZxM",
+   "old_title": "KI am Laser: Was kann sie wirklich? #Shorts",
+   "views_at_plan": 7,
+   "nr": 59,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "m_hDWFGmlms",
+   "old_title": "Ärzte ohne Grenzen: Mitarbeiten oder helfen – auch aus Aachen? #Shorts",
+   "views_at_plan": 7,
+   "nr": 60,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "Eu7rPH-mZFQ",
+   "old_title": "Die KI hört beim Arzt mit? #Shorts",
+   "views_at_plan": 7,
+   "nr": 61,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "GcCJuGQyb2g",
+   "old_title": "Ebola-Ausbruch in Afrika: Wie groß ist das Risiko für uns? (KW 45) #Shorts",
+   "views_at_plan": 4,
+   "nr": 62,
+   "status": "offen"
+  },
+  {
+   "art": "öffentlich",
+   "old_id": "lUkG7ZJ5Fos",
+   "old_title": "Rotes Fleisch und Diabetes: Steckt ein Zucker dahinter? #Shorts",
+   "views_at_plan": 2,
+   "nr": 63,
    "status": "offen"
   }
  ]
