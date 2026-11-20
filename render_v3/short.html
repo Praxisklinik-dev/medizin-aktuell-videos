@@ -43,9 +43,15 @@ function vis(sc,lt,dur){
     const w=sc.title.map((x,i)=>{const kk=P(lt,.15+i*.18,.55+i*.18,back);return `<span class="${x.hl?'hl':''}" style="opacity:${cl(kk)};transform:translateY(${(1-kk)*60}px) scale(${.8+.2*kk})">${x.t}</span>`}).join('');
     return `<div class="title">${w}</div>`;}
   case 'genes': {
-    const n=Math.round(90*P(lt,.4,1.8,out));
-    return `<div class="card" style="top:${560+(1-k)*80}px;opacity:${k}"><div class="big">&gt; ${n} %</div><div class="lab">durch die Gene bestimmt</div></div>
-    <div class="card" style="top:1000px;opacity:${P(lt,dur*.45,dur*.45+.5)}"><div style="display:flex;justify-content:space-between">${people(5,2,P(lt,dur*.45,dur*.45+1.2,out))}</div><div class="lab" style="text-align:center">etwa jeder Fünfte hat einen erhöhten Wert</div></div>`;}
+    // Felder (optional): count+pre+suf (Zahl zählt hoch) oder big (Text), lab, people {n,hi,lab} oder card2 (Text)
+    const cnt=sc.count!==undefined?sc.count:(sc.big===undefined?90:null);
+    const bigTxt=cnt!==null?`${sc.pre!==undefined?sc.pre:'&gt; '}${Math.round(cnt*P(lt,.4,1.8,out))}${sc.suf!==undefined?sc.suf:' %'}`:sc.big;
+    const lab=sc.lab||'durch die Gene bestimmt';
+    const pp=sc.people===undefined&&sc.card2===undefined?{n:5,hi:2,lab:'etwa jeder Fünfte hat einen erhöhten Wert'}:sc.people;
+    const k2=P(lt,dur*.45,dur*.45+.5);
+    const c2=pp?`<div class="card" style="top:1000px;opacity:${k2}"><div style="display:flex;justify-content:space-between">${people(pp.n,pp.hi,P(lt,dur*.45,dur*.45+1.2,out))}</div><div class="lab" style="text-align:center">${pp.lab}</div></div>`
+      :(sc.card2?`<div class="card" style="top:${(sc.top2||1000)+(1-k2)*60}px;opacity:${k2}"><div class="lab" style="margin:0">${sc.card2}</div></div>`:'');
+    return `<div class="card" style="top:${560+(1-k)*80}px;opacity:${k}"><div class="big">${bigTxt}</div><div class="lab">${lab}</div></div>${c2}`;}
   case 'gauge': {
     const m=P(lt,dur*.15,dur*.45)*30+P(lt,dur*.55,dur*.8)*25; const x=m/100*860;
     const seg=(a,b,c)=>`<div style="position:absolute;left:${a/100*860}px;width:${(b-a)/100*860}px;top:0;height:64px;background:${c};${a==0?'border-radius:32px 0 0 32px;':''}${b==100?'border-radius:0 32px 32px 0;':''}"></div>`;
@@ -58,8 +64,8 @@ function vis(sc,lt,dur){
     const c=P(lt,dur*.25,dur*.4,back);
     return `<div class="card" style="top:${600+(1-k)*80}px;opacity:${k};display:flex;align-items:center;gap:36px">
       <svg width="150" height="150" viewBox="0 0 150 150"><circle cx="75" cy="75" r="68" fill="none" stroke="#4ADE9A" stroke-width="10" stroke-dasharray="${428*c} 428" transform="rotate(-90 75 75)"/><path d="M42 78 L66 102 L110 52" fill="none" stroke="#4ADE9A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="${110*P(lt,dur*.35,dur*.5)} 110"/></svg>
-      <div><div class="big" style="font-size:96px;color:#fff">1× im Leben</div><div class="lab">messen lassen</div></div></div>
-      <div class="card" style="top:1010px;opacity:${P(lt,dur*.55,dur*.65)}"><div class="lab" style="margin:0">besonders bei frühen Herzinfarkten in der Familie</div></div>`;}
+      <div><div class="big" style="font-size:96px;color:#fff">${sc.big||'1× im Leben'}</div><div class="lab">${sc.lab||'messen lassen'}</div></div></div>
+      ${(sc.note===undefined?'besonders bei frühen Herzinfarkten in der Familie':sc.note)?`<div class="card" style="top:1010px;opacity:${P(lt,dur*.55,dur*.65)}"><div class="lab" style="margin:0">${sc.note===undefined?'besonders bei frühen Herzinfarkten in der Familie':sc.note}</div></div>`:''}`;}
   case 'study': {
     const a=P(lt,dur*.15,dur*.45,out), b=P(lt,dur*.6,dur*.85,out);
     const bar=(lab,v,max,col,kk,txt)=>`<div style="display:flex;align-items:center;gap:22px;margin:22px 0"><div style="width:230px;font:700 34px 'Fira Sans'">${lab}</div><div style="flex:1;height:70px;background:rgba(255,255,255,.1);border-radius:16px;overflow:hidden"><div style="height:100%;width:${v/max*100*kk}%;background:${col};border-radius:16px"></div></div><div style="width:150px;font:900 44px 'Fira Sans';color:${col};opacity:${cl(kk*2-1)}">${txt}</div></div>`;
@@ -67,9 +73,9 @@ function vis(sc,lt,dur){
       <div class="lab">Lp(a)-Wert</div>${bar('Pelacarsen',78,100,'#F4D03F',a,'−78 %')}
       <div class="lab" style="margin-top:30px;opacity:${cl(b*3)}">Herzinfarkt & Co.</div>${bar('Placebo',12.1,20,'#9FB3D1',b,'12,1 %')}${bar('Pelacarsen',12.3,20,'#F4D03F',b,'12,3 %')}</div>`;}
   case 'cta': {
-    const items=['LDL-Cholesterin','Blutdruck','Blutzucker','Nichtrauchen'];
+    const items=sc.items||['LDL-Cholesterin','Blutdruck','Blutzucker','Nichtrauchen'];
     const end=P(lt,dur-3.2,dur-2.4,out);
-    return `<div class="card" style="top:${520+(1-k)*80}px;opacity:${k*(1-end)}">${items.map((t,i)=>`<div style="display:flex;align-items:center;gap:26px;margin:14px 0;opacity:${P(lt,.3+i*.35,.7+i*.35)}"><svg width="60" height="60" viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#4ADE9A"/><path d="M17 31 L26 40 L44 21" fill="none" stroke="#07101d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="lab" style="margin:0">${t}</div></div>`).join('')}<div class="sub">gut einstellen lassen</div></div>
+    return `<div class="card" style="top:${520+(1-k)*80}px;opacity:${k*(1-end)}">${items.map((t,i)=>`<div style="display:flex;align-items:center;gap:26px;margin:14px 0;opacity:${P(lt,.3+i*.35,.7+i*.35)}"><svg width="60" height="60" viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="#4ADE9A"/><path d="M17 31 L26 40 L44 21" fill="none" stroke="#07101d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="lab" style="margin:0">${t}</div></div>`).join('')}<div class="sub">${sc.sub===undefined?'gut einstellen lassen':sc.sub}</div></div>
       <div style="position:absolute;inset:0;background:#07101d;opacity:${end*.86}"></div>
       <div style="position:absolute;left:0;right:0;top:${640+(1-end)*60}px;text-align:center;opacity:${end}">
         <div style="width:170px;height:170px;margin:0 auto 34px;border-radius:50%;background:#E8455A;display:grid;place-items:center;font:900 96px 'Fira Sans'">M</div>
@@ -94,7 +100,7 @@ function render(t){
   const ws=D.words.filter(w=>w.sc===i);
   let cap='';
   if(ws.length){const ch=ws.findIndex(w=>t<w.e+0.05);const c=ch<0?ws.length-1:ch;const g=Math.floor(c/4)*4;const grp=ws.slice(g,g+4);
-    if(!(sc.vis==='cta'&&lt>dur-3.2)) cap=grp.map((w,j)=>{const on=(g+j)===c&&t>=w.s-.05;return `<span class="${on?'on':''}" style="transform:scale(${on?1.06:1})">${w.w}</span>`}).join('');}
+    if(!(sc.vis==='cta'&&lt>dur-3.2)) cap=grp.map((w,j)=>{const on=(g+j)===c&&t>=w.s-.05;return `<span class="${on?'on':''}" style="transform:scale(${on&&w.w.length<12?1.06:1})">${w.w}</span>`}).join('');}
   html+=`<div id="cap">${cap}</div>`;
   if(sc.src) html+=`<div id="src">Quelle: ${sc.src}</div>`;
   if(sc.credit) html+=`<div id="credit">Foto: ${sc.credit}</div>`;
