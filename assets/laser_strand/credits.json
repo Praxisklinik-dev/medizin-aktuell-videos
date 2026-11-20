@@ -1,0 +1,42 @@
+{
+ "query": "beach umbrella sun sky",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Beach_umbrella_and_sun_shadows.jpg/1920px-Beach_umbrella_and_sun_shadows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Alessandro Cossu",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_umbrella_and_sun_shadows.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Morning_On_The_Beach_%28263999951%29.jpeg/1920px-Morning_On_The_Beach_%28263999951%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ruslan Keba",
+   "source": "https://commons.wikimedia.org/wiki/File:Morning_On_The_Beach_(263999951).jpeg",
+   "license": "CC BY 3.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Beach_scene_with_sun_loungers_and_umbrellas_during_twilight_hours_by_the_ocean.jpg/1920px-Beach_scene_with_sun_loungers_and_umbrellas_during_twilight_hours_by_the_ocean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_scene_with_sun_loungers_and_umbrellas_during_twilight_hours_by_the_ocean.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Relaxing_under_a_fringed_umbrella_while_enjoying_a_sunny_day_at_the_beach.jpg/1920px-Relaxing_under_a_fringed_umbrella_while_enjoying_a_sunny_day_at_the_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:Relaxing_under_a_fringed_umbrella_while_enjoying_a_sunny_day_at_the_beach.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}

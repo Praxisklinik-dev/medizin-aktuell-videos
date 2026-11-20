@@ -1,0 +1,15 @@
+{
+ "query": "ophthalmology eye examination slit lamp",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Slit_lamp_Eye_examination_by_Ophthalmologist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Rakesh Ahuja, MD",
+   "source": "https://commons.wikimedia.org/wiki/File:Slit_lamp_Eye_examination_by_Ophthalmologist.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  }
+ ]
+}

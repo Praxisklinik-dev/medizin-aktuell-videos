@@ -1,0 +1,42 @@
+{
+ "query": "laser hair removal",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Laser-hair-removal-face-ama-regenerative-medicine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Amaregenmed (Alice Pien, MD)",
+   "source": "https://commons.wikimedia.org/wiki/File:Laser-hair-removal-face-ama-regenerative-medicine.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hair_removal_laser_-_Cynosure_Apogee_Elite.jpg/1920px-Hair_removal_laser_-_Cynosure_Apogee_Elite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Secretlondon",
+   "source": "https://commons.wikimedia.org/wiki/File:Hair_removal_laser_-_Cynosure_Apogee_Elite.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Dr_Braun_Performing_Laser_Hair_Removal.jpg/1920px-Dr_Braun_Performing_Laser_Hair_Removal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Dr. Braun",
+   "source": "https://commons.wikimedia.org/wiki/File:Dr_Braun_Performing_Laser_Hair_Removal.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Male_laser_hair_removal_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Figurestudy",
+   "source": "https://commons.wikimedia.org/wiki/File:Male_laser_hair_removal_04.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}
