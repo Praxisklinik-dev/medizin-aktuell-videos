@@ -13,7 +13,7 @@ Erzeugen: `python voice/gen_voice.py lines.json out_dir voice/ref.wav`
 - Jeder Eintrag = ein kleiner Absatz (1–2 Sätze); das ergibt eine natürlichere Satzmelodie als Einzelsätze.
 - Ergebnis: out_dir/<id>.wav (24 kHz, Pausen > 0,35 s auf 0,30 s gekürzt, Tempo ×1,12 per Rubberband, Sprecher-Klangkette, −16 LUFS); zwischen Absätzen 0,38 s Stille einfügen und report.json (Erkennungs-Score je Zeile; < 0,85 prüfen).
 - Aussprache: schwierige Wörter lautschriftlich in "say" (z. B. „Kolesterin“, „Ell-Pe-A“), Original in "check".
-- Hinweis in Video/Text: „Stimme: KI-Nachbildung von Dr. G. Atalay, autorisiert.“
+- Hinweis in Video/Text: „Stimme: KI-Nachbildung von Dr. Görkem Atalay, autorisiert.“
 - Referenz ref.wav: Aufnahme Dr. Atalay 15.11.2026, Ausschnitt 18,4–35,7 s, Hochpass + leichte Entrauschung.
 
 ## Version 5 (19.11.2026, nach Rückmeldung „künstlich, abgehackt“)
