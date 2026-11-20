@@ -52,6 +52,8 @@ def main():
     now = dt.datetime.now(dt.timezone.utc)
     done = 0
     for e in queue:
+        if e.get("skip"):
+            continue
         if done >= MAX_PER_RUN:
             break
         k = e["key"]; st = state.setdefault(k, {})
