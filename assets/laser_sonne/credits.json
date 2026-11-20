@@ -1,0 +1,42 @@
+{
+ "query": "sunbathing beach summer sun",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Sunbathing_at_Meshcherskiy_Prud_%282009%29.jpg/1920px-Sunbathing_at_Meshcherskiy_Prud_%282009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Andrey from Russia",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunbathing_at_Meshcherskiy_Prud_(2009).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Beach_Girl_%2850358257686%29.jpg/1920px-Beach_Girl_%2850358257686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "WabbitWanderer from London, Canada",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_Girl_(50358257686).jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Laurits_Tuxen_-_Studie_af_en_solbadende_ung_kvinde_p%C3%A5_Skagen_S%C3%B8nderstrand_-_1909.png/1920px-Laurits_Tuxen_-_Studie_af_en_solbadende_ung_kvinde_p%C3%A5_Skagen_S%C3%B8nderstrand_-_1909.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Laurits Tuxen",
+   "source": "https://commons.wikimedia.org/wiki/File:Laurits_Tuxen_-_Studie_af_en_solbadende_ung_kvinde_p%C3%A5_Skagen_S%C3%B8nderstrand_-_1909.png",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Laurits_Tuxen_-_En_ung_n%C3%B8gen_kvinde_ligger_i_lyngen_-_1910.png/1920px-Laurits_Tuxen_-_En_ung_n%C3%B8gen_kvinde_ligger_i_lyngen_-_1910.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Laurits Tuxen",
+   "source": "https://commons.wikimedia.org/wiki/File:Laurits_Tuxen_-_En_ung_n%C3%B8gen_kvinde_ligger_i_lyngen_-_1910.png",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}

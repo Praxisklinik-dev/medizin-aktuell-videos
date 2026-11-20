@@ -1,0 +1,15 @@
+{
+ "query": "dermatologist examining skin",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/MEDRETE_serves_more_than_8%2C500_La_Blanca_residents_160602-F-RC891-258.jpg/1920px-MEDRETE_serves_more_than_8%2C500_La_Blanca_residents_160602-F-RC891-258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Senior Airman Dillon Davis",
+   "source": "https://commons.wikimedia.org/wiki/File:MEDRETE_serves_more_than_8,500_La_Blanca_residents_160602-F-RC891-258.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  }
+ ]
+}
