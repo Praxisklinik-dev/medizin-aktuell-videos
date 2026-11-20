@@ -105,7 +105,9 @@ def unlist(yt, video_id):
     if not r.get("items"):
         return False
     st = r["items"][0]["status"]
-    st["privacyStatus"] = "unlisted"
+    # Geplante (private) Fassung bleibt privat und verliert nur den Termin; öffentliche wird "nicht gelistet"
+    if st.get("privacyStatus") != "private":
+        st["privacyStatus"] = "unlisted"
     st.pop("publishAt", None)
     yt.videos().update(part="status", body={"id": video_id, "status": st}).execute()
     return True
@@ -127,6 +129,17 @@ def main():
     for e in sorted(queue, key=lambda x: x["publish_at"]):
         s = state.setdefault(e["key"], {})
         if e.get("skip"):
+            continue
+        # Angehalten: geplantes Video bleibt privat (Termin entfernt), z. B. bis Neuauflage fertig ist
+        if e.get("hold"):
+            if s.get("video_id") and not s.get("held"):
+                try:
+                    unlist(yt, s["video_id"])
+                    s["held"] = True
+                    print(f"Angehalten (bleibt privat): {e['title']}")
+                except HttpError as err:
+                    print(f"Anhalten fehlgeschlagen {e['title']}: {err.resp.status}")
+                save_state(state)
             continue
         # 1. Hochladen
         if "video_id" not in s and uploaded < MAX_UPLOADS_PER_RUN:
