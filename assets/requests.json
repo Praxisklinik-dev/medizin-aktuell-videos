@@ -130,5 +130,11 @@
   "query": "slit lamp eye examination",
   "kind": "photo",
   "n": 6
+ },
+ {
+  "key": "lasergesch_iris",
+  "query": "human eye iris macro",
+  "kind": "photo",
+  "n": 8
  }
 ]
