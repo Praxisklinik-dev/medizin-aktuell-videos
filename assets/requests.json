@@ -274,5 +274,23 @@
   "query": "skin dermatology laser treatment",
   "kind": "photo",
   "n": 8
+ },
+ {
+  "key": "heimlaser_schutzbrille",
+  "query": "safety glasses protective eyewear",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "heimlaser_blitz",
+  "query": "xenon flash tube lamp",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "heimlaser_beine",
+  "query": "shaved legs skin",
+  "kind": "photo",
+  "n": 8
  }
 ]
