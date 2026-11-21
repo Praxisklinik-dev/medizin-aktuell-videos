@@ -166,5 +166,35 @@
   "query": "doctor stethoscope consultation",
   "kind": "photo",
   "n": 6
+ },
+ {
+  "key": "ekg_monitor",
+  "query": "electrocardiogram monitor hospital",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "ekg_streifen",
+  "query": "electrocardiography",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "ekg_uhr",
+  "query": "smart watch",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "ekg_notfall",
+  "query": "ambulance emergency",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "ekg_stethoskop",
+  "query": "stethoscope",
+  "kind": "photo",
+  "n": 8
  }
 ]
