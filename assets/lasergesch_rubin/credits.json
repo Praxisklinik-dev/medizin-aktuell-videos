@@ -1,0 +1,24 @@
+{
+ "query": "ruby crystal gemstone red",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Tumbled_gemstone_pebbles_arp.jpg/1920px-Tumbled_gemstone_pebbles_arp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Arpingstone",
+   "source": "https://commons.wikimedia.org/wiki/File:Tumbled_gemstone_pebbles_arp.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Synthetic_star_sapphire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "James St. John",
+   "source": "https://commons.wikimedia.org/wiki/File:Synthetic_star_sapphire.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  }
+ ]
+}

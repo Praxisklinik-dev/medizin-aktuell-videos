@@ -1,0 +1,60 @@
+{
+ "query": "red laser beam light",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Light_festival%2C_Light_projections%2C_Red_Square%2C_Moscow%2C_Russia.jpg/1920px-Light_festival%2C_Light_projections%2C_Red_Square%2C_Moscow%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Vyacheslav Argenberg",
+   "source": "https://commons.wikimedia.org/wiki/File:Light_festival,_Light_projections,_Red_Square,_Moscow,_Russia.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Laser_Interference.JPG/1920px-Laser_Interference.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Wisky",
+   "source": "https://commons.wikimedia.org/wiki/File:Laser_Interference.JPG",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/LASER.jpg/1920px-LASER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "彭家杰",
+   "source": "https://commons.wikimedia.org/wiki/File:LASER.jpg",
+   "license": "CC BY 2.5",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Red_Laser_through_irregular_glass_mj1.jpg/1920px-Red_Laser_through_irregular_glass_mj1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Mariojan photo",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Laser_through_irregular_glass_mj1.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Optical_fiber_in_protective_coating_that_transports_a_Laser_beam_-_Laser_Physics_Lab_-_NTNU-NT.jpg/1920px-Optical_fiber_in_protective_coating_that_transports_a_Laser_beam_-_Laser_Physics_Lab_-_NTNU-NT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "NTNU, Faculty of Natural Sciences and Technology",
+   "source": "https://commons.wikimedia.org/wiki/File:Optical_fiber_in_protective_coating_that_transports_a_Laser_beam_-_Laser_Physics_Lab_-_NTNU-NT.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Laser_refraction_patterns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Dylan O'Donnell",
+   "source": "https://commons.wikimedia.org/wiki/File:Laser_refraction_patterns.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "06.jpg"
+  }
+ ]
+}
