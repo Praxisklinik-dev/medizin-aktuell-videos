@@ -136,5 +136,35 @@
   "query": "human eye iris macro",
   "kind": "photo",
   "n": 8
+ },
+ {
+  "key": "ekg_kurve",
+  "query": "electrocardiogram ECG paper",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "ekg_elektroden",
+  "query": "ECG electrodes patient chest",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "ekg_smartwatch",
+  "query": "smartwatch wrist heart rate",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "ekg_herz",
+  "query": "human heart anatomy",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "ekg_arzt",
+  "query": "doctor stethoscope consultation",
+  "kind": "photo",
+  "n": 6
  }
 ]
