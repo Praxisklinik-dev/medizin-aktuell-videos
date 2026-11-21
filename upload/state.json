@@ -278,6 +278,9 @@
   "comment_done": true
  },
  "remake_3_ekg_ki": {
-  "last_error": "<HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'loca"
+  "video_id": "GuXlh1Hf4MQ",
+  "uploaded_at": "2026-11-21T10:59:29+00:00",
+  "title": "Was verrät ein EKG mit KI? Herzschwäche & Vorhofflimmern #Shorts",
+  "publish_at": "2026-11-21T12:30:00Z"
  }
 }
