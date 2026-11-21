@@ -1,1 +1,116 @@
-[{"key": "lpa_blutprobe", "query": "blood sample test tubes laboratory", "kind": "photo", "n": 4}, {"key": "lpa_labor", "query": "medical laboratory analyzer blood", "kind": "photo", "n": 3}, {"key": "lpa_herz", "query": "human heart anatomy model", "kind": "photo", "n": 3}, {"key": "lpa_familie", "query": "three generations family", "kind": "photo", "n": 3}, {"key": "lpa_arzt", "query": "doctor patient consultation", "kind": "photo", "n": 3}, {"key": "lpa_dna", "query": "DNA double helix model", "kind": "photo", "n": 3}, {"key": "laser_behandlung", "query": "laser skin treatment clinic", "kind": "photo", "n": 4}, {"key": "laser_sonne", "query": "sunbathing beach summer sun", "kind": "photo", "n": 4}, {"key": "laser_sonnencreme", "query": "sunscreen lotion skin", "kind": "photo", "n": 4}, {"key": "laser_hautarzt", "query": "dermatologist examining skin", "kind": "photo", "n": 4}, {"key": "laser_geraet", "query": "laser hair removal", "kind": "photo", "n": 4}, {"key": "laser_strand", "query": "beach umbrella sun sky", "kind": "photo", "n": 4}, {"key": "laser_auge", "query": "ophthalmology eye examination slit lamp", "kind": "photo", "n": 3}, {"key": "laser_haut", "query": "tanned skin shoulder sun", "kind": "photo", "n": 4}, {"key": "laser_praxis", "query": "dermatology clinic treatment room", "kind": "photo", "n": 4}]
+[
+ {
+  "key": "lpa_blutprobe",
+  "query": "blood sample test tubes laboratory",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "lpa_labor",
+  "query": "medical laboratory analyzer blood",
+  "kind": "photo",
+  "n": 3
+ },
+ {
+  "key": "lpa_herz",
+  "query": "human heart anatomy model",
+  "kind": "photo",
+  "n": 3
+ },
+ {
+  "key": "lpa_familie",
+  "query": "three generations family",
+  "kind": "photo",
+  "n": 3
+ },
+ {
+  "key": "lpa_arzt",
+  "query": "doctor patient consultation",
+  "kind": "photo",
+  "n": 3
+ },
+ {
+  "key": "lpa_dna",
+  "query": "DNA double helix model",
+  "kind": "photo",
+  "n": 3
+ },
+ {
+  "key": "laser_behandlung",
+  "query": "laser skin treatment clinic",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "laser_sonne",
+  "query": "sunbathing beach summer sun",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "laser_sonnencreme",
+  "query": "sunscreen lotion skin",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "laser_hautarzt",
+  "query": "dermatologist examining skin",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "laser_geraet",
+  "query": "laser hair removal",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "laser_strand",
+  "query": "beach umbrella sun sky",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "laser_auge",
+  "query": "ophthalmology eye examination slit lamp",
+  "kind": "photo",
+  "n": 3
+ },
+ {
+  "key": "laser_haut",
+  "query": "tanned skin shoulder sun",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "laser_praxis",
+  "query": "dermatology clinic treatment room",
+  "kind": "photo",
+  "n": 4
+ },
+ {
+  "key": "lasergesch_strahl",
+  "query": "red laser beam light",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "lasergesch_rubin",
+  "query": "ruby crystal gemstone red",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "lasergesch_optik",
+  "query": "laser optics laboratory experiment",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "lasergesch_auge",
+  "query": "eye retina ophthalmoscope examination",
+  "kind": "photo",
+  "n": 6
+ }
+]
