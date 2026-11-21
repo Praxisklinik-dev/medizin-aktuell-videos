@@ -196,5 +196,35 @@
   "query": "stethoscope",
   "kind": "photo",
   "n": 8
+ },
+ {
+  "key": "m2041_dna",
+  "query": "DNA double helix",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "m2041_schwein",
+  "query": "domestic pig",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "m2041_niere",
+  "query": "kidney anatomy",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "m2041_gehirn",
+  "query": "human brain",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "m2041_zuhause",
+  "query": "telemedicine",
+  "kind": "photo",
+  "n": 8
  }
 ]
