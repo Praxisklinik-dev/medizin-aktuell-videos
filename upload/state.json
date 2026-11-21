@@ -268,5 +268,8 @@
   "uploaded_at": "2026-11-21T02:28:46+00:00",
   "title": "Zukunft der Medizin, Folge 2: Gen-Schere, Blutkrebs-KI, Stimme aus dem Gehirn | Medizin Aktuell",
   "publish_at": "2026-11-22T17:30:00Z"
+ },
+ "remake_2_laser_geschichte": {
+  "last_error": "<HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'loca"
  }
 }
