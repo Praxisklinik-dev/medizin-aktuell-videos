@@ -226,5 +226,29 @@
   "query": "telemedicine",
   "kind": "photo",
   "n": 8
+ },
+ {
+  "key": "m2041_ferkel",
+  "query": "piglets farm USDA",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "m2041_op",
+  "query": "kidney transplant surgery",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "m2041_operation",
+  "query": "operating room surgeons",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "m2041_pflege",
+  "query": "home health care nurse",
+  "kind": "photo",
+  "n": 8
  }
 ]
