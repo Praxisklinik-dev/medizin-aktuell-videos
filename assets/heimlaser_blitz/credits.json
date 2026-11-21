@@ -1,0 +1,24 @@
+{
+ "query": "xenon flash tube lamp",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0_%D0%98%D0%A4%D0%9A-120.JPG/1920px-%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0_%D0%98%D0%A4%D0%9A-120.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Andshel",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0_%D0%98%D0%A4%D0%9A-120.JPG",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Flashlamp_ion_spectral_line_radiation_output.JPG/1920px-Flashlamp_ion_spectral_line_radiation_output.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Zaereth (talk)",
+   "source": "https://commons.wikimedia.org/wiki/File:Flashlamp_ion_spectral_line_radiation_output.JPG",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  }
+ ]
+}

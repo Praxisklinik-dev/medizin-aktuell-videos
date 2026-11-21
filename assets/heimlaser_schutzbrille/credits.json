@@ -1,0 +1,78 @@
+{
+ "query": "safety glasses protective eyewear",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Calvin_Borel.jpg/1920px-Calvin_Borel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Joe Schneid, Louisville, Kentucky",
+   "source": "https://commons.wikimedia.org/wiki/File:Calvin_Borel.jpg",
+   "license": "CC BY 3.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/20200222_FIS_NC_COC_Eisenerz_PRC_HS109_Men_Manuel_Einkemmer_850_4588.jpg/1920px-20200222_FIS_NC_COC_Eisenerz_PRC_HS109_Men_Manuel_Einkemmer_850_4588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Granada",
+   "source": "https://commons.wikimedia.org/wiki/File:20200222_FIS_NC_COC_Eisenerz_PRC_HS109_Men_Manuel_Einkemmer_850_4588.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Safety_Eyewear.jpg/1920px-Safety_Eyewear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "DJSparky",
+   "source": "https://commons.wikimedia.org/wiki/File:Safety_Eyewear.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2023_Okulary_ochronne_%281%29.jpg/1920px-2023_Okulary_ochronne_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Jacek Halicki",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Okulary_ochronne_(1).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2020-01-22_Ski_Jumping_Competition_Round_Nordic_Mixed_Team_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93166.jpg/1920px-2020-01-22_Ski_Jumping_Competition_Round_Nordic_Mixed_Team_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Sandro Halank, Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2020-01-22_Ski_Jumping_Competition_Round_Nordic_Mixed_Team_(2020_Winter_Youth_Olympics)_by_Sandro_Halank%E2%80%93166.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Goggles.tif/lossy-page1-1280px-Goggles.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "David Ring",
+   "source": "https://commons.wikimedia.org/wiki/File:Goggles.tif",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Empiral_Vision_Grey_goggles.jpg/1920px-Empiral_Vision_Grey_goggles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Wishofflying",
+   "source": "https://commons.wikimedia.org/wiki/File:Empiral_Vision_Grey_goggles.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/ACE_Didymium_Glasses_RX-1205-BK_Z87%2B.JPG/1920px-ACE_Didymium_Glasses_RX-1205-BK_Z87%2B.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Карма2",
+   "source": "https://commons.wikimedia.org/wiki/File:ACE_Didymium_Glasses_RX-1205-BK_Z87%2B.JPG",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  }
+ ]
+}
