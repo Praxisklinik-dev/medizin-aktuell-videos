@@ -10,6 +10,10 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "medizin-aktuell.eu": "medizin aktuell punkt e u", "z. B.": "zum Beispiel", "bzw.": "beziehungsweise", "ca.": "zirka",
     "Dr.": "Doktor", "Prof.": "Professor", "u. a.": "unter anderem", "d. h.": "das heißt", "NEJM": "New England Journal of Medicine",
     "Ezetimib": "Ezeti-mib", "Rosuvastatin": "Rosuva-statin",
+    # Folge 2 Zukunft der Medizin (21.11.2026)
+    "USA": "U-S-A", "US-": "U-S-", "ALS": "A-L-S", "Angioödem": "Angio-ödem", "Bradykinin": "Brady-kinin",
+    "Locked-in-Syndrom": "Lockt-inn-Sündrom", "Seoul": "Se-ul", "Seattle": "Siättl", "Smartphone": "Smartfon",
+    "Lymphdrüsenkrebs": "Lümf-drüsenkrebs", "Mammographien": "Mammografien",
 }
 
 
