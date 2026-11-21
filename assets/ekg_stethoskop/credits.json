@@ -1,0 +1,78 @@
+{
+ "query": "stethoscope",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2023_Stetoskop.jpg/1920px-2023_Stetoskop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Jacek Halicki",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Stetoskop.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg/1920px-Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ivan2010",
+   "source": "https://commons.wikimedia.org/wiki/File:Instrumentos_medicos_de_uso_en_Cardiolog%C3%ADa.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Stethoscope-ja-2019.jpg/1920px-Stethoscope-ja-2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "melvil",
+   "source": "https://commons.wikimedia.org/wiki/File:Stethoscope-ja-2019.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Stethoscope_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "ernstl",
+   "source": "https://commons.wikimedia.org/wiki/File:Stethoscope_1.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Doctors_stethoscope_2.jpg/1920px-Doctors_stethoscope_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Stethoscopes",
+   "source": "https://commons.wikimedia.org/wiki/File:Doctors_stethoscope_2.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Doctors_stethoscope_1.jpg/1920px-Doctors_stethoscope_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Stethoscopes",
+   "source": "https://commons.wikimedia.org/wiki/File:Doctors_stethoscope_1.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Stethoscope_in_use.jpg/1920px-Stethoscope_in_use.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Stethoscopes",
+   "source": "https://commons.wikimedia.org/wiki/File:Stethoscope_in_use.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stethoscope_No.120.JPG/1920px-Stethoscope_No.120.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Tama998",
+   "source": "https://commons.wikimedia.org/wiki/File:Stethoscope_No.120.JPG",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "08.jpg"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "query": "ambulance emergency",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bedford_J1_Ambulance_1966.jpg/1920px-Bedford_J1_Ambulance_1966.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "DeFacto",
+   "source": "https://commons.wikimedia.org/wiki/File:Bedford_J1_Ambulance_1966.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1949_Humber_Pullman_Ambulance_-_Flickr_-_111_Emergency_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "111 Emergency from New Zealand",
+   "source": "https://commons.wikimedia.org/wiki/File:1949_Humber_Pullman_Ambulance_-_Flickr_-_111_Emergency_2.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/American_Emergency_Ambulance_at_a_car_show_in_Puerto_Rico_in_2013.jpg/1920px-American_Emergency_Ambulance_at_a_car_show_in_Puerto_Rico_in_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Tomás Del Coro",
+   "source": "https://commons.wikimedia.org/wiki/File:American_Emergency_Ambulance_at_a_car_show_in_Puerto_Rico_in_2013.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cleveland_Ohio_Emergency_Medical_Service_International_ambulance_-_14178270376.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Raymond Wambsgans",
+   "source": "https://commons.wikimedia.org/wiki/File:Cleveland_Ohio_Emergency_Medical_Service_International_ambulance_-_14178270376.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg/1920px-Emergency_Ambulance_%28Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1%29_%28T%C3%BCrkiye%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Zalasem1",
+   "source": "https://commons.wikimedia.org/wiki/File:Emergency_Ambulance_(Sa%C4%9Fl%C4%B1k_Bakanl%C4%B1%C4%9F%C4%B1)_(T%C3%BCrkiye).jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RNZAF_Range_Rover_Ambulance_-_Flickr_-_111_Emergency.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "111 Emergency from New Zealand",
+   "source": "https://commons.wikimedia.org/wiki/File:RNZAF_Range_Rover_Ambulance_-_Flickr_-_111_Emergency.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ambulance_on_an_Emergency_-_geograph.org.uk_-_6059469.jpg/1920px-Ambulance_on_an_Emergency_-_geograph.org.uk_-_6059469.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Billy McCrorie",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambulance_on_an_Emergency_-_geograph.org.uk_-_6059469.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Private_medical_emergency_ambulance_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/1920px-Private_medical_emergency_ambulance_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "WrS.tm.pl",
+   "source": "https://commons.wikimedia.org/wiki/File:Private_medical_emergency_ambulance_in_Tomasz%C3%B3w_Mazowiecki,_Poland.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "08.jpg"
+  }
+ ]
+}

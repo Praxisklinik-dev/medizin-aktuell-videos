@@ -1,0 +1,78 @@
+{
+ "query": "electrocardiography",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bare_chest_of_a_old_man_for_ECG_with_probes_%2836506%29.jpg/1920px-Bare_chest_of_a_old_man_for_ECG_with_probes_%2836506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Suyash.dwivedi",
+   "source": "https://commons.wikimedia.org/wiki/File:Bare_chest_of_a_old_man_for_ECG_with_probes_(36506).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/12_lead_ECG.jpg/1920px-12_lead_ECG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Peterhcharlton",
+   "source": "https://commons.wikimedia.org/wiki/File:12_lead_ECG.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ECG_sinus_arrhythmia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Jmarchn",
+   "source": "https://commons.wikimedia.org/wiki/File:ECG_sinus_arrhythmia.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bare_chest_of_a_old_man_for_ECG_with_probes.jpg/1920px-Bare_chest_of_a_old_man_for_ECG_with_probes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Suyash.dwivedi",
+   "source": "https://commons.wikimedia.org/wiki/File:Bare_chest_of_a_old_man_for_ECG_with_probes.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ekg_normal_bionerd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Bionerd",
+   "source": "https://commons.wikimedia.org/wiki/File:Ekg_normal_bionerd.jpg",
+   "license": "CC BY 3.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/24-hour_pH-metry_and_electrocardiography_%28Gastroscan-ECG%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Miheev",
+   "source": "https://commons.wikimedia.org/wiki/File:24-hour_pH-metry_and_electrocardiography_(Gastroscan-ECG).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Recording_single-lead_ECG_using_a_Withings_Move_ECG_watch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Peterhcharlton",
+   "source": "https://commons.wikimedia.org/wiki/File:Recording_single-lead_ECG_using_a_Withings_Move_ECG_watch.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/PMC6092634_Valdes_2018_JET_ECG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Santiago O. Valdés et al.",
+   "source": "https://commons.wikimedia.org/wiki/File:PMC6092634_Valdes_2018_JET_ECG.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  }
+ ]
+}
