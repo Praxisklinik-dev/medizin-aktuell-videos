@@ -1,0 +1,42 @@
+{
+ "query": "piglets farm USDA",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/K9441-1_%288432665303%29.jpg/1920px-K9441-1_%288432665303%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "USDAgov",
+   "source": "https://commons.wikimedia.org/wiki/File:K9441-1_(8432665303).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/K1681-15_%288411791397%29.jpg/1920px-K1681-15_%288411791397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "USDAgov",
+   "source": "https://commons.wikimedia.org/wiki/File:K1681-15_(8411791397).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Agriculture_Research_Service_%28ARS%29_%288411803593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "USDAgov",
+   "source": "https://commons.wikimedia.org/wiki/File:Agriculture_Research_Service_(ARS)_(8411803593).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/20160521-RD-LSC-0697_%2827641871261%29.jpg/1920px-20160521-RD-LSC-0697_%2827641871261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "U.S. Department of Agriculture\n\nLance Cheung/Multimedia PhotoJournalist/USDA/Lance Cheung",
+   "source": "https://commons.wikimedia.org/wiki/File:20160521-RD-LSC-0697_(27641871261).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}
