@@ -250,5 +250,29 @@
   "query": "home health care nurse",
   "kind": "photo",
   "n": 8
+ },
+ {
+  "key": "heimlaser_geraet",
+  "query": "IPL hair removal device",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "heimlaser_brille",
+  "query": "laser safety goggles",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "heimlaser_auge",
+  "query": "human eye close-up iris",
+  "kind": "photo",
+  "n": 8
+ },
+ {
+  "key": "heimlaser_haut",
+  "query": "skin dermatology laser treatment",
+  "kind": "photo",
+  "n": 8
  }
 ]
