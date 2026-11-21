@@ -1,0 +1,60 @@
+{
+ "query": "slit lamp eye examination",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Slit-lamp_Examination.jpg/1920px-Slit-lamp_Examination.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "JeevaMuthuramalingam",
+   "source": "https://commons.wikimedia.org/wiki/File:Slit-lamp_Examination.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Slit_lamp_Eye_examination_by_Ophthalmologist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Rakesh Ahuja, MD",
+   "source": "https://commons.wikimedia.org/wiki/File:Slit_lamp_Eye_examination_by_Ophthalmologist.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Slit_lamp_ocular_examination.jpg/1920px-Slit_lamp_ocular_examination.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "OKJaguar",
+   "source": "https://commons.wikimedia.org/wiki/File:Slit_lamp_ocular_examination.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Slit_lamp_eye_examination.jpg/1920px-Slit_lamp_eye_examination.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "OKJaguar",
+   "source": "https://commons.wikimedia.org/wiki/File:Slit_lamp_eye_examination.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Slit_lamp_eye_exam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Mike Blyth",
+   "source": "https://commons.wikimedia.org/wiki/File:Slit_lamp_eye_exam.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Slit_lamp_examination_of_eye_of_the_patient_with_hereditary_gelsolin_amyloidosis_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Potrč, M., Volk, M., de Rosa, M., Pižem, J., Teran, N., Jaklič, H., Maver, A., Drnovšek-Olup, B., Bollati, M., Vogelnik, K., Hočevar, A., Gornik, A., Pfeifer, V., Peterlin, B., Hawlina, M., &amp; Fakin, A.",
+   "source": "https://commons.wikimedia.org/wiki/File:Slit_lamp_examination_of_eye_of_the_patient_with_hereditary_gelsolin_amyloidosis_(cropped).png",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  }
+ ]
+}

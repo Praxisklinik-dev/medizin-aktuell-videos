@@ -1,0 +1,60 @@
+{
+ "query": "ruby corundum",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Corundum_6.jpg/1920px-Corundum_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "James St. John",
+   "source": "https://commons.wikimedia.org/wiki/File:Corundum_6.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Corundum_5.jpg/1920px-Corundum_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "James St. John",
+   "source": "https://commons.wikimedia.org/wiki/File:Corundum_5.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ruby_%28GeoDIL_number_-_1026%29.jpg/1920px-Ruby_%28GeoDIL_number_-_1026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Darla Sondrol",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruby_(GeoDIL_number_-_1026).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ruby_in_zoisite_%28GeoDIL_number_-_1434%29.jpg/1920px-Ruby_in_zoisite_%28GeoDIL_number_-_1434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nessa Eull",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruby_in_zoisite_(GeoDIL_number_-_1434).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Corundum_%28GeoDIL_number_-_447%29.jpg/1920px-Corundum_%28GeoDIL_number_-_447%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Neil Kadrmas",
+   "source": "https://commons.wikimedia.org/wiki/File:Corundum_(GeoDIL_number_-_447).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gemstone_Collection_-_Ruby_Crystal_%2815635576883%29.jpg/1920px-Gemstone_Collection_-_Ruby_Crystal_%2815635576883%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Marco Hazard from Hong Kong, Hong Kong",
+   "source": "https://commons.wikimedia.org/wiki/File:Gemstone_Collection_-_Ruby_Crystal_(15635576883).jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  }
+ ]
+}
