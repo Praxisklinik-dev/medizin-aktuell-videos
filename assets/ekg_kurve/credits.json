@@ -1,0 +1,15 @@
+{
+ "query": "electrocardiogram ECG paper",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/18_years_old_boy_normal_ECG.jpg/1920px-18_years_old_boy_normal_ECG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Mahdi2ha",
+   "source": "https://commons.wikimedia.org/wiki/File:18_years_old_boy_normal_ECG.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  }
+ ]
+}

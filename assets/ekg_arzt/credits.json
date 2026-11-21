@@ -1,0 +1,15 @@
+{
+ "query": "doctor stethoscope consultation",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Middle-aged_female_doctor_working_on_a_laptop_at_home_during_a_remote_consultation_session_in_a_cozy_room.jpg/1920px-Middle-aged_female_doctor_working_on_a_laptop_at_home_during_a_remote_consultation_session_in_a_cozy_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:Middle-aged_female_doctor_working_on_a_laptop_at_home_during_a_remote_consultation_session_in_a_cozy_room.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  }
+ ]
+}

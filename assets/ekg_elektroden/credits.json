@@ -1,0 +1,24 @@
+{
+ "query": "ECG electrodes patient chest",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/13089_2019_122_Fig3_HTML.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Pablo Blanco",
+   "source": "https://commons.wikimedia.org/wiki/File:13089_2019_122_Fig3_HTML.webp",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Trachealtubus_mit_der_Spitze_im_rechten_Hauptbronchus_79W_-_CR_ap_-_001.jpg/1920px-Trachealtubus_mit_der_Spitze_im_rechten_Hauptbronchus_79W_-_CR_ap_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Hellerhoff",
+   "source": "https://commons.wikimedia.org/wiki/File:Trachealtubus_mit_der_Spitze_im_rechten_Hauptbronchus_79W_-_CR_ap_-_001.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  }
+ ]
+}
