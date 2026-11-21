@@ -69,6 +69,9 @@ function vis(sc,lt,dur){
   case 'study': {
     const a=P(lt,dur*.15,dur*.45,out), b=P(lt,dur*.6,dur*.85,out);
     const bar=(lab,v,max,col,kk,txt)=>`<div style="display:flex;align-items:center;gap:22px;margin:22px 0"><div style="width:230px;font:700 34px 'Fira Sans'">${lab}</div><div style="flex:1;height:70px;background:rgba(255,255,255,.1);border-radius:16px;overflow:hidden"><div style="height:100%;width:${v/max*100*kk}%;background:${col};border-radius:16px"></div></div><div style="width:150px;font:900 44px 'Fira Sans';color:${col};opacity:${cl(kk*2-1)}">${txt}</div></div>`;
+    // Optional generisch: head (Text), groups [{lab, bars:[[Name,Wert,Max,Farbe,Anzeige],…]}] – Gruppe 1 animiert früh, weitere später
+    if(sc.groups) return `<div class="card" style="top:${520+(1-k)*80}px;opacity:${k}"><div class="sub" style="margin:0 0 10px">${sc.head||''}</div>`+
+      sc.groups.map((g,gi)=>{const kk=gi==0?a:b;return `<div class="lab" style="${gi?'margin-top:30px;':''}opacity:${gi?cl(b*3):1}">${g.lab}</div>`+g.bars.map(x=>bar(x[0],x[1],x[2],x[3],kk,x[4])).join('')}).join('')+`</div>`;
     return `<div class="card" style="top:${520+(1-k)*80}px;opacity:${k}"><div class="sub" style="margin:0 0 10px">Lp(a)HORIZON · 8.322 Menschen</div>
       <div class="lab">Lp(a)-Wert</div>${bar('Pelacarsen',78,100,'#F4D03F',a,'−78 %')}
       <div class="lab" style="margin-top:30px;opacity:${cl(b*3)}">Herzinfarkt & Co.</div>${bar('Placebo',12.1,20,'#9FB3D1',b,'12,1 %')}${bar('Pelacarsen',12.3,20,'#F4D03F',b,'12,3 %')}</div>`;}
