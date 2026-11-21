@@ -14,7 +14,13 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "USA": "U-S-A", "US-": "U-S-", "ALS": "A-L-S", "Angioödem": "Angio-ödem", "Bradykinin": "Brady-kinin",
     "Locked-in-Syndrom": "Lockt-inn-Sündrom", "Seoul": "Se-ul", "Seattle": "Siättl", "Smartphone": "Smartfon",
     "Lymphdrüsenkrebs": "Lümf-drüsenkrebs", "Mammographien": "Mammografien",
+    # Neuauflage Nr. 2 Laser-Geschichte (21.11.2026)
+    "Maiman": "Mei-män", "Maser": "Meiser",
 }
+
+
+def year(m):
+    return num2words(int(m.group(0)), lang="de", to="year")
 
 
 def num(m):
@@ -33,6 +39,7 @@ def prep(t):
         t = t.replace(k, LEX[k])
     t = re.sub(r"(\d)\s*%", r"\1 Prozent", t)
     t = re.sub(r"(\d)\s*×", r"\1 mal", t)
+    t = re.sub(r"(?<![\d.,])1[1-9]\d\d(?![\d.,]\d)", year, t)  # Jahreszahlen 1100–1999: neunzehnhundert…
     t = re.sub(r"\b(\d{1,3}(?:\.\d{3})+|\d+(?:,\d+)?)\b", num, t)
     t = t.replace(" – ", ", ").replace("–", " bis ").replace("„", "").replace("“", "")
     return re.sub(r"\s+", " ", t).strip()

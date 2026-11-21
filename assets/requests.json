@@ -112,5 +112,23 @@
   "query": "eye retina ophthalmoscope examination",
   "kind": "photo",
   "n": 6
+ },
+ {
+  "key": "lasergesch_rubin2",
+  "query": "ruby corundum",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "lasergesch_netzhaut",
+  "query": "fundus photograph retina",
+  "kind": "photo",
+  "n": 6
+ },
+ {
+  "key": "lasergesch_augenarzt",
+  "query": "slit lamp eye examination",
+  "kind": "photo",
+  "n": 6
  }
 ]
