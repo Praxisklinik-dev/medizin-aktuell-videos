@@ -1,0 +1,33 @@
+{
+ "query": "protein structure model",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Homemade_Protein_Structural_Model.jpg/1920px-Homemade_Protein_Structural_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Bennettscience",
+   "source": "https://commons.wikimedia.org/wiki/File:Homemade_Protein_Structural_Model.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/TMEM171_Structure_Model.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Bauma319",
+   "source": "https://commons.wikimedia.org/wiki/File:TMEM171_Structure_Model.png",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Computed_Structure_Models_from_AI_and_PDB_Experimental_Structures.png/1920px-Computed_Structure_Models_from_AI_and_PDB_Experimental_Structures.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Mariaurszula",
+   "source": "https://commons.wikimedia.org/wiki/File:Computed_Structure_Models_from_AI_and_PDB_Experimental_Structures.png",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  }
+ ]
+}
