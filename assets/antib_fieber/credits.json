@@ -1,0 +1,96 @@
+{
+ "query": "thermometer fever",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Thermometer_Fever_blank.png/1920px-Thermometer_Fever_blank.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ian Furst",
+   "source": "https://commons.wikimedia.org/wiki/File:Thermometer_Fever_blank.png",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Thermometer_Fever_40.png/1920px-Thermometer_Fever_40.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ian Furst",
+   "source": "https://commons.wikimedia.org/wiki/File:Thermometer_Fever_40.png",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Thermometer_%28Fever%29_%2850838273611%29.jpg/1920px-Thermometer_%28Fever%29_%2850838273611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Alabama Extension",
+   "source": "https://commons.wikimedia.org/wiki/File:Thermometer_(Fever)_(50838273611).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Thermometer_%28Fever%29_with_Mask_%2850838355502%29.jpg/1920px-Thermometer_%28Fever%29_with_Mask_%2850838355502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Alabama Extension",
+   "source": "https://commons.wikimedia.org/wiki/File:Thermometer_(Fever)_with_Mask_(50838355502).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/2023_Elektroniczny_termometr_lekarski.jpg/1920px-2023_Elektroniczny_termometr_lekarski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Jacek Halicki",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Elektroniczny_termometr_lekarski.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Digital_Thermometer_%2851825721879%29.jpg/1920px-Digital_Thermometer_%2851825721879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "ajay_suresh",
+   "source": "https://commons.wikimedia.org/wiki/File:Digital_Thermometer_(51825721879).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Clinical_thermometer%2C_Europe%2C_1851-1900_Wellcome_L0058018.jpg/1920px-Clinical_thermometer%2C_Europe%2C_1851-1900_Wellcome_L0058018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Clinical_thermometer,_Europe,_1851-1900_Wellcome_L0058018.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Circular-_%E2%80%9CA_New_Clinical_Fever_Thermometer%2C%E2%80%9D_manufactured_by_Aloe_and_Hernstein%2C_300_North_4th_Street%2C_St._Louis%2C_Mo.%2C_1879-1884.jpg/1920px-Circular-_%E2%80%9CA_New_Clinical_Fever_Thermometer%2C%E2%80%9D_manufactured_by_Aloe_and_Hernstein%2C_300_North_4th_Street%2C_St._Louis%2C_Mo.%2C_1879-1884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Unknown authorUnknown author",
+   "source": "https://commons.wikimedia.org/wiki/File:Circular-_%E2%80%9CA_New_Clinical_Fever_Thermometer,%E2%80%9D_manufactured_by_Aloe_and_Hernstein,_300_North_4th_Street,_St._Louis,_Mo.,_1879-1884.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Circular-_%22A_New_Clinical_Fever_Thermometer%2C%22_manufactured_by_Aloe_and_Hernstein%2C_300_North_4th_Street%2C_St._Louis%2C_Mo.%2C_1879-1884_-_DPLA_-_28020711a43713933c86fe26b9347122.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Circular-_%22A_New_Clinical_Fever_Thermometer,%22_manufactured_by_Aloe_and_Hernstein,_300_North_4th_Street,_St._Louis,_Mo.,_1879-1884_-_DPLA_-_28020711a43713933c86fe26b9347122.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Fever38.4.jpg/1920px-Fever38.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "ProjectManhattan",
+   "source": "https://commons.wikimedia.org/wiki/File:Fever38.4.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}

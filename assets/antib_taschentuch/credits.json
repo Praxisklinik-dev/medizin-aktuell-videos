@@ -1,0 +1,24 @@
+{
+ "query": "tissue handkerchief cold",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/A_knotted_handkerchief_with_a_cold_Wellcome_V0047587.jpg/1920px-A_knotted_handkerchief_with_a_cold_Wellcome_V0047587.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Fougasse",
+   "source": "https://commons.wikimedia.org/wiki/File:A_knotted_handkerchief_with_a_cold_Wellcome_V0047587.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Ladies%27_home_journal_%281948%29_%2814579450768%29.jpg/1920px-The_Ladies%27_home_journal_%281948%29_%2814579450768%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Internet Archive Book Images",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Ladies%27_home_journal_(1948)_(14579450768).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  }
+ ]
+}
