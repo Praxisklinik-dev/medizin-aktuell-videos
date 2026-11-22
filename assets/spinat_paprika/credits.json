@@ -1,0 +1,60 @@
+{
+ "query": "red bell peppers vegetables",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red_bell_pepper.jpg/1920px-Red_bell_pepper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "AntanO",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_bell_pepper.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Bell_peppers_2020_G2.jpg/1920px-Bell_peppers_2020_G2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "George Chernilevsky",
+   "source": "https://commons.wikimedia.org/wiki/File:Bell_peppers_2020_G2.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bell_peppers_2020_G1.jpg/1920px-Bell_peppers_2020_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "George Chernilevsky",
+   "source": "https://commons.wikimedia.org/wiki/File:Bell_peppers_2020_G1.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Red_bell_peppers_on_a_kitchen_counter.jpg/1920px-Red_bell_peppers_on_a_kitchen_counter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_bell_peppers_on_a_kitchen_counter.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Peppers_in_basket_2025_G1.jpg/1920px-Peppers_in_basket_2025_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "George Chernilevsky",
+   "source": "https://commons.wikimedia.org/wiki/File:Peppers_in_basket_2025_G1.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Fresh_red_bell_peppers_arranged_in_a_wooden_crate_on_a_table.jpg/1920px-Fresh_red_bell_peppers_arranged_in_a_wooden_crate_on_a_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:Fresh_red_bell_peppers_arranged_in_a_wooden_crate_on_a_table.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  }
+ ]
+}
