@@ -358,5 +358,29 @@
   "query": "spinach salad",
   "kind": "photo",
   "n": 12
+ },
+ {
+  "key": "kima_labor",
+  "query": "pharmaceutical laboratory",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kima_protein",
+  "query": "protein structure model",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kima_lunge",
+  "query": "chest x-ray lungs",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kima_tabletten",
+  "query": "pills tablets",
+  "kind": "photo",
+  "n": 10
  }
 ]
