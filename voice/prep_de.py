@@ -23,6 +23,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Praxislaser": "Praxis-Laser", "Energiedichte": "Energie-Dichte", "Hautkontakt-Sensor": "Haut-Kontakt-Sensor", "IPL": "I-Pe-El",
     # Neuauflage Nr. 6 Spinat und Eisen (22.11.2026)
     "Oxalsäure": "Oxal-säure", "Polyphenole": "Poly-phenole", "Vitamin C": "Vitamin Zeh", "Kommafehler": "Komma-Fehler",
+    # Neuauflage Nr. 7 KI-Medikamente (22.11.2026)
+    "AlphaFold": "Alpha-Fold", "Placebo": "Plazebo", "Lungenfibrose": "Lungen-Fibrose",
     "EKG": "E-Ka-Ge", "Smartwatches": "Smart-wotsches", "Smartwatch": "Smart-wotsch", "die 112": "die eins eins zwei", "Vorhofflimmern": "Vorhof-flimmern",
 }
 
