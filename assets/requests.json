@@ -406,5 +406,29 @@
   "query": "thermometer fever",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "tattoo_arm",
+  "query": "tattoo arm",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "tattoo_farbe",
+  "query": "tattoo ink colors",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "tattoo_laser",
+  "query": "laser treatment skin clinic",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "tattoo_haut",
+  "query": "skin close up",
+  "kind": "photo",
+  "n": 10
  }
 ]
