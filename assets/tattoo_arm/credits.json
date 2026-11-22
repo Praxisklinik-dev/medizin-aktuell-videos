@@ -1,0 +1,96 @@
+{
+ "query": "tattoo arm",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/1920px-Ambigram_tattoo_New_York_Rich_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Basile Morin",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambigram_tattoo_New_York_Rich_Man.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ambigram_tattoo_Texas_Sexy.jpg/1920px-Ambigram_tattoo_Texas_Sexy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Basile Morin",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambigram_tattoo_Texas_Sexy.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/India_-_Varanasi_green_peas_-_2714.jpg/1920px-India_-_Varanasi_green_peas_-_2714.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Jorge Royan",
+   "source": "https://commons.wikimedia.org/wiki/File:India_-_Varanasi_green_peas_-_2714.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Samarjit_by_Rudhra_Varma.jpg/1920px-Samarjit_by_Rudhra_Varma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Rudhra Varma",
+   "source": "https://commons.wikimedia.org/wiki/File:Samarjit_by_Rudhra_Varma.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Arm_tattoo_of_Neptune.jpg/1920px-Arm_tattoo_of_Neptune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Tony Alter",
+   "source": "https://commons.wikimedia.org/wiki/File:Arm_tattoo_of_Neptune.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Olya%27s_fans_%28arm_tattoo%29.jpg/1920px-Olya%27s_fans_%28arm_tattoo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "PeteBura",
+   "source": "https://commons.wikimedia.org/wiki/File:Olya%27s_fans_(arm_tattoo).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Man_with_arm_tattoo_at_the_International_Brussels_Tattoo_Convention_2023.jpg/1920px-Man_with_arm_tattoo_at_the_International_Brussels_Tattoo_Convention_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Miguel Discart",
+   "source": "https://commons.wikimedia.org/wiki/File:Man_with_arm_tattoo_at_the_International_Brussels_Tattoo_Convention_2023.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Right_arm_with_a_temporary_tattoo_depicting_a_spider_web_with_a_spider.jpg/1920px-Right_arm_with_a_temporary_tattoo_depicting_a_spider_web_with_a_spider.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Dispe",
+   "source": "https://commons.wikimedia.org/wiki/File:Right_arm_with_a_temporary_tattoo_depicting_a_spider_web_with_a_spider.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Female_tattoo_artist_at_work_at_the_International_Brussels_Tattoo_Convention_2023.jpg/1920px-Female_tattoo_artist_at_work_at_the_International_Brussels_Tattoo_Convention_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Miguel Discart",
+   "source": "https://commons.wikimedia.org/wiki/File:Female_tattoo_artist_at_work_at_the_International_Brussels_Tattoo_Convention_2023.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Arm_tattoo_1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Muffet",
+   "source": "https://commons.wikimedia.org/wiki/File:Arm_tattoo_1r.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}
