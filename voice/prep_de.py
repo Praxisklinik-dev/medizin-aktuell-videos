@@ -21,6 +21,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Schweineniere": "Schweine-Niere", "Genschere": "Gen-Schere",
     # Neuauflage Nr. 5 Heimgeräte (21.11.2026)
     "Praxislaser": "Praxis-Laser", "Energiedichte": "Energie-Dichte", "Hautkontakt-Sensor": "Haut-Kontakt-Sensor", "IPL": "I-Pe-El",
+    # Neuauflage Nr. 6 Spinat und Eisen (22.11.2026)
+    "Oxalsäure": "Oxal-säure", "Polyphenole": "Poly-phenole", "Vitamin C": "Vitamin Zeh", "Kommafehler": "Komma-Fehler",
     "EKG": "E-Ka-Ge", "Smartwatches": "Smart-wotsches", "Smartwatch": "Smart-wotsch", "die 112": "die eins eins zwei", "Vorhofflimmern": "Vorhof-flimmern",
 }
 
