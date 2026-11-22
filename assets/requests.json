@@ -382,5 +382,29 @@
   "query": "pills tablets",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "antib_taschentuch",
+  "query": "tissue handkerchief cold",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "antib_bakterien",
+  "query": "bacteria microscope",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "antib_tabletten",
+  "query": "antibiotic capsules",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "antib_fieber",
+  "query": "thermometer fever",
+  "kind": "photo",
+  "n": 10
  }
 ]
