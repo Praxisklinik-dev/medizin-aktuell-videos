@@ -346,5 +346,17 @@
   "query": "spinach dish",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "spinat_baby",
+  "query": "baby spinach",
+  "kind": "photo",
+  "n": 15
+ },
+ {
+  "key": "spinat_salat",
+  "query": "spinach salad",
+  "kind": "photo",
+  "n": 12
  }
 ]
