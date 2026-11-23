@@ -430,5 +430,29 @@
   "query": "skin close up",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "patho_mikroskop",
+  "query": "microscope laboratory",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "patho_gewebe",
+  "query": "histology tissue microscope slide",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "patho_labor",
+  "query": "pathology laboratory",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "patho_arzt",
+  "query": "doctor computer screen",
+  "kind": "photo",
+  "n": 10
  }
 ]
