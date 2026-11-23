@@ -1,0 +1,87 @@
+{
+ "query": "pathology laboratory",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Goleisureintl",
+   "source": "https://commons.wikimedia.org/wiki/File:Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai,_India.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NABL_Accredited_Clinical_Pathology_Laboratory_in_Kharghar_Navi_Mumbai_Diagnostic_Services.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Goleisureintl",
+   "source": "https://commons.wikimedia.org/wiki/File:NABL_Accredited_Clinical_Pathology_Laboratory_in_Kharghar_Navi_Mumbai_Diagnostic_Services.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/College_plant_pathology_laboratory%2C_CoA_Vellanikkara.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Agricultural Technology Information Centre, Mannuthy",
+   "source": "https://commons.wikimedia.org/wiki/File:College_plant_pathology_laboratory,_CoA_Vellanikkara.png",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warwick_Hospital_Pathology_Laboratory%2C_Lakin_Road%2C_Warwick_-_geograph.org.uk_-_5856416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Robin Stott",
+   "source": "https://commons.wikimedia.org/wiki/File:Warwick_Hospital_Pathology_Laboratory,_Lakin_Road,_Warwick_-_geograph.org.uk_-_5856416.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Demolition_of_Pathology_Laboratory_%5E_Central_Outpatients%2C_University_Hospital_of_North_Staffordshire_-_geograph.org.uk_-_4152637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Jonathan Hutchins",
+   "source": "https://commons.wikimedia.org/wiki/File:Demolition_of_Pathology_Laboratory_%5E_Central_Outpatients,_University_Hospital_of_North_Staffordshire_-_geograph.org.uk_-_4152637.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/PSM_V84_D512_Laboratory_building_of_comparative_pathology_zoological_society_of_philadelphia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Uncredited; R. W. Shufeldt",
+   "source": "https://commons.wikimedia.org/wiki/File:PSM_V84_D512_Laboratory_building_of_comparative_pathology_zoological_society_of_philadelphia.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Clinical_pathology_laboratory_%28Unit_1%29.jpg/1920px-Clinical_pathology_laboratory_%28Unit_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Rafi Bin Tofa",
+   "source": "https://commons.wikimedia.org/wiki/File:Clinical_pathology_laboratory_(Unit_1).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Clinical_pathology_laboratory_%28Unit_2%29.jpg/1920px-Clinical_pathology_laboratory_%28Unit_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Rafi Bin Tofa",
+   "source": "https://commons.wikimedia.org/wiki/File:Clinical_pathology_laboratory_(Unit_2).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/INTERIOR%2C_VIEW_OF_PATHOLOGY_LABORATORY_-_Welfare_Island%2C_Strecker_Memorial_Laboratory%2C_New_York%2C_New_York_County%2C_NY_HABS_NY%2C31-WELFI%2C5-5.tif/lossy-page1-1920px-INTERIOR%2C_VIEW_OF_PATHOLOGY_LABORATORY_-_Welfare_Island%2C_Strecker_Memorial_Laboratory%2C_New_York%2C_New_York_County%2C_NY_HABS_NY%2C31-WELFI%2C5-5.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:INTERIOR,_VIEW_OF_PATHOLOGY_LABORATORY_-_Welfare_Island,_Strecker_Memorial_Laboratory,_New_York,_New_York_County,_NY_HABS_NY,31-WELFI,5-5.tif",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "09.jpg"
+  }
+ ]
+}
