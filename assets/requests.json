@@ -508,5 +508,29 @@
   "query": "elderly people walking park",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "knack_haende",
+  "query": "hands fingers knuckles",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "knack_roentgen",
+  "query": "hand x-ray radiograph",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "knack_mri",
+  "query": "mri scanner",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "knack_arzt",
+  "query": "doctor examining hand patient",
+  "kind": "photo",
+  "n": 10
  }
 ]
