@@ -4,7 +4,7 @@ from num2words import num2words
 
 LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht)
     "Lp(a)HORIZON": "El-Pe-A-Horizon", "Lp(a)": "El-Pe-A", "vs.": "gegenüber", "Lipoprotein(a)": "Lipoprotein A", "LDL": "El-De-El", "HDL": "Ha-De-El",
-    "KI": "Ka-I", "EU": "E-U", "EMA": "E-M-A", "FDA": "F-D-A", "WHO": "W-H-O", "RKI": "R-K-I", "CRISPR": "Krisper",
+    "KI": "Ka-I", "HIV": "Ha-I-Vau", "Abnehmspritze": "Abnehm-Spritze", "EU": "E-U", "EMA": "E-M-A", "FDA": "F-D-A", "WHO": "W-H-O", "RKI": "R-K-I", "CRISPR": "Krisper",
     "Pelacarsen": "Pelazarsen", "Olpasiran": "Olpasiran", "Retatrutid": "Reta-trutid", "Semaglutid": "Sema-glutid",
     "mg/dL": "Milligramm pro Deziliter", "mmol/L": "Millimol pro Liter", "nmol/L": "Nanomol pro Liter",
     "medizin-aktuell.eu": "medizin aktuell punkt e u", "z. B.": "zum Beispiel", "bzw.": "beziehungsweise", "ca.": "zirka",
