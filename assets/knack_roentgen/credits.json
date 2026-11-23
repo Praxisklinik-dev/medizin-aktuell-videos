@@ -1,0 +1,96 @@
+{
+ "query": "hand x-ray radiograph",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/1920px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Wilhelm Röntgen",
+   "source": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/X-Ray_of_a_hand_injured_by_shot-gun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Mihajlo Pupin",
+   "source": "https://commons.wikimedia.org/wiki/File:X-Ray_of_a_hand_injured_by_shot-gun.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Two_hands%2C_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_L0013210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_hands,_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_L0013210.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Two_hands%2C_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_V0029554.jpg/1920px-Two_hands%2C_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_V0029554.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_hands,_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_V0029554.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Two_hands%2C_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_V0029554_%28improved_contrast%29.jpg/1920px-Two_hands%2C_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_V0029554_%28improved_contrast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_hands,_viewed_through_x-ray._Photoprint_from_radiograph_Wellcome_V0029554_(improved_contrast).jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/X-ray_of_the_bones_of_a_hand_with_a_ring_on_one_finger_Wellcome_V0029523.jpg/1920px-X-ray_of_the_bones_of_a_hand_with_a_ring_on_one_finger_Wellcome_V0029523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Wilhelm Röntgen",
+   "source": "https://commons.wikimedia.org/wiki/File:X-ray_of_the_bones_of_a_hand_with_a_ring_on_one_finger_Wellcome_V0029523.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bones_of_a_hand._Radiograph%2C_1900-1904._Wellcome_L0026317.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Bones_of_a_hand._Radiograph,_1900-1904._Wellcome_L0026317.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/X-ray_of_hand_7_09_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Averbone",
+   "source": "https://commons.wikimedia.org/wiki/File:X-ray_of_hand_7_09_4.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/X-ray_of_hand_7_09_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Averbone",
+   "source": "https://commons.wikimedia.org/wiki/File:X-ray_of_hand_7_09_3.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/X-ray_of_hand_7_09_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Averbone",
+   "source": "https://commons.wikimedia.org/wiki/File:X-ray_of_hand_7_09_2.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}
