@@ -27,6 +27,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "AlphaFold": "Alpha-Fold", "Placebo": "Plazebo", "Lungenfibrose": "Lungen-Fibrose",
     # Neuauflage Nr. 8 Antibiotika und Erkältung (22.11.2026)
     "Cochrane": "Kockrän",
+    # Neuauflage Nr. 10 KI in der Pathologie (23.11.2026)
+    "Gigabyte": "Giga-beit", "Biopsien": "Bi-opsien", "Grundlagenmodelle": "Grundlagen-Modelle", "Schnittbilder": "Schnitt-Bilder",
     "EKG": "E-Ka-Ge", "Smartwatches": "Smart-wotsches", "Smartwatch": "Smart-wotsch", "die 112": "die eins eins zwei", "Vorhofflimmern": "Vorhof-flimmern",
 }
 
