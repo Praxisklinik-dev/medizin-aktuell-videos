@@ -532,5 +532,17 @@
   "query": "doctor examining hand patient",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "knack_hand2",
+  "query": "human hand close-up",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "knack_finger",
+  "query": "interlocked fingers hands",
+  "kind": "photo",
+  "n": 12
  }
 ]
