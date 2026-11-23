@@ -1,0 +1,33 @@
+{
+ "query": "endoscopy room hospital",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bronglais_General_Hospital_%28Aberystwyth%2C_Wales%29_-_part_of_department_guide.jpg/1920px-Bronglais_General_Hospital_%28Aberystwyth%2C_Wales%29_-_part_of_department_guide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Cassian Lodge",
+   "source": "https://commons.wikimedia.org/wiki/File:Bronglais_General_Hospital_(Aberystwyth,_Wales)_-_part_of_department_guide.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bronglais_General_Hospital_%28Aberystwyth%2C_Wales%29_department_map_and_department_guide.jpg/1920px-Bronglais_General_Hospital_%28Aberystwyth%2C_Wales%29_department_map_and_department_guide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Cassian Lodge",
+   "source": "https://commons.wikimedia.org/wiki/File:Bronglais_General_Hospital_(Aberystwyth,_Wales)_department_map_and_department_guide.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Bronglais_General_Hospital_%28Aberystwyth%2C_Wales%29_-_Department_guide_with_lifts.jpg/1920px-Bronglais_General_Hospital_%28Aberystwyth%2C_Wales%29_-_Department_guide_with_lifts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Cassian Lodge",
+   "source": "https://commons.wikimedia.org/wiki/File:Bronglais_General_Hospital_(Aberystwyth,_Wales)_-_Department_guide_with_lifts.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "03.jpg"
+  }
+ ]
+}
