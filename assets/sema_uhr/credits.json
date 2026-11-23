@@ -1,0 +1,96 @@
+{
+ "query": "hourglass time clock",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sand_clock_Enschede.jpg/1920px-Sand_clock_Enschede.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Gianluca Miscione",
+   "source": "https://commons.wikimedia.org/wiki/File:Sand_clock_Enschede.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sand_Clock.jpg/1920px-Sand_Clock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Thamizhpparithi Maari",
+   "source": "https://commons.wikimedia.org/wiki/File:Sand_Clock.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/3_Hourglasses_Wellcome_L0011331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:3_Hourglasses_Wellcome_L0011331.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Hourglasses.jpg/1920px-Hourglasses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Aaaatu",
+   "source": "https://commons.wikimedia.org/wiki/File:Hourglasses.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Hourglass_with_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "John Morgan",
+   "source": "https://commons.wikimedia.org/wiki/File:Hourglass_with_sand.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Reloxo_de_area_na_igrexa_de_Ekeby.jpg/1920px-Reloxo_de_area_na_igrexa_de_Ekeby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Bene Riobó",
+   "source": "https://commons.wikimedia.org/wiki/File:Reloxo_de_area_na_igrexa_de_Ekeby.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Multiple_hourglasses.jpg/1920px-Multiple_hourglasses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Sauvagette",
+   "source": "https://commons.wikimedia.org/wiki/File:Multiple_hourglasses.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Masonic_Hourglass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Unknown authorUnknown author",
+   "source": "https://commons.wikimedia.org/wiki/File:Masonic_Hourglass.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Liivakell%2C_AM_16704_PK_3548.tif/lossy-page1-1920px-Liivakell%2C_AM_16704_PK_3548.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Eesti Ajaloomuuseum",
+   "source": "https://commons.wikimedia.org/wiki/File:Liivakell,_AM_16704_PK_3548.tif",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Plate110_from_Wincklemann_Monumenti_antichi_inediti_1767_Peleus_waking_Thetis_from_Roman_sarcophagus_ca_350_AD_resized_white-balanced.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Johann Joachim Winckelmann",
+   "source": "https://commons.wikimedia.org/wiki/File:Plate110_from_Wincklemann_Monumenti_antichi_inediti_1767_Peleus_waking_Thetis_from_Roman_sarcophagus_ca_350_AD_resized_white-balanced.png",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}
