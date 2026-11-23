@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-22T07:16Z",
+ "stand": "2026-11-23T07:41Z",
  "kanal": "Medizin Aktuell ",
- "abonnenten": 4,
- "aufrufe_gesamt": 1919,
- "videos_gesamt": 48,
+ "abonnenten": 5,
+ "aufrufe_gesamt": 1959,
+ "videos_gesamt": 51,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -13,6 +13,15 @@
    "views": 315,
    "likes": 3,
    "comments": 0
+  },
+  {
+   "id": "fl_CfCA9-NI",
+   "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
+   "published": "2026-11-22T09:30:21Z",
+   "privacy": "public",
+   "views": 118,
+   "likes": 2,
+   "comments": 1
   },
   {
    "id": "Hzxqy_fC5MY",
@@ -27,7 +36,7 @@
    "id": "h7SFv1Ay0TM",
    "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
    "published": "2026-11-16T11:30:09Z",
-   "privacy": "public",
+   "privacy": "unlisted",
    "views": 97,
    "likes": 3,
    "comments": 1
@@ -36,9 +45,18 @@
    "id": "87xvSWG6ZmQ",
    "title": "Mythos-Check: Hat Spinat wirklich so viel Eisen? #Shorts",
    "published": "2026-11-17T11:30:28Z",
-   "privacy": "public",
+   "privacy": "unlisted",
    "views": 96,
    "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "GuXlh1Hf4MQ",
+   "title": "Was verrät ein EKG mit KI? Herzschwäche & Vorhofflimmern #Shorts",
+   "published": "2026-11-21T12:30:02Z",
+   "privacy": "public",
+   "views": 94,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -87,6 +105,15 @@
    "comments": 0
   },
   {
+   "id": "p0JaOuVv9hk",
+   "title": "Medizin 2041: Genschere, Schweineniere, Hirnimplantat? #Shorts",
+   "published": "2026-11-21T15:30:19Z",
+   "privacy": "public",
+   "views": 55,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "StpwTPaH4pA",
    "title": "Warum Laser nur das Ziel treffen – selektive Photothermolyse #Shorts",
    "published": "2026-11-09T11:32:14Z",
@@ -105,9 +132,9 @@
    "comments": 1
   },
   {
-   "id": "GuXlh1Hf4MQ",
-   "title": "Was verrät ein EKG mit KI? Herzschwäche & Vorhofflimmern #Shorts",
-   "published": "2026-11-21T12:30:02Z",
+   "id": "soQgBKySNzw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-19T21:53:33Z",
    "privacy": "public",
    "views": 50,
    "likes": 1,
@@ -123,15 +150,6 @@
    "comments": 1
   },
   {
-   "id": "soQgBKySNzw",
-   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
-   "published": "2026-11-19T21:53:33Z",
-   "privacy": "public",
-   "views": 48,
-   "likes": 1,
-   "comments": 1
-  },
-  {
    "id": "dKObFQy8f44",
    "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
    "published": "2026-10-31T22:12:04Z",
@@ -141,12 +159,12 @@
    "comments": 0
   },
   {
-   "id": "4Oey1JvGgc4",
-   "title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
-   "published": "2026-11-19T11:30:39Z",
+   "id": "Ed-FgJ2rkyA",
+   "title": "Laser-Heimgerät so gut wie die Praxis? Laser-Mythen (4) #Shorts",
+   "published": "2026-11-21T18:30:19Z",
    "privacy": "public",
-   "views": 43,
-   "likes": 2,
+   "views": 46,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -159,11 +177,47 @@
    "comments": 1
   },
   {
+   "id": "ZPfencLG988",
+   "title": "Mythos-Check: Hilft ein Antibiotikum gegen Erkältung? #Shorts",
+   "published": "2026-11-22T15:30:34Z",
+   "privacy": "public",
+   "views": 42,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "4Oey1JvGgc4",
+   "title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-19T11:30:39Z",
+   "privacy": "public",
+   "views": 41,
+   "likes": 2,
+   "comments": 1
+  },
+  {
    "id": "OsKvbOD_8cI",
    "title": "KI am Laser: Welche Regeln gelten? #Shorts",
    "published": "2026-11-16T02:10:43Z",
    "privacy": "public",
    "views": 41,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "kDFYGeFWeqQ",
+   "title": "Notfall nach dem Filler: Gefäßverschluss erkennen und handeln #Shorts",
+   "published": "2026-11-07T17:05:59Z",
+   "privacy": "public",
+   "views": 41,
+   "likes": 0,
+   "comments": 0
+  },
+  {
+   "id": "YlMH5Y6K9KI",
+   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+   "published": "2026-11-16T18:45:22Z",
+   "privacy": "public",
+   "views": 40,
    "likes": 0,
    "comments": 1
   },
@@ -186,15 +240,6 @@
    "comments": 0
   },
   {
-   "id": "kDFYGeFWeqQ",
-   "title": "Notfall nach dem Filler: Gefäßverschluss erkennen und handeln #Shorts",
-   "published": "2026-11-07T17:05:59Z",
-   "privacy": "public",
-   "views": 38,
-   "likes": 0,
-   "comments": 0
-  },
-  {
    "id": "P_o69w47L4U",
    "title": "Findet KI Brustkrebs früher? #Shorts",
    "published": "2026-10-31T22:05:45Z",
@@ -204,9 +249,9 @@
    "comments": 0
   },
   {
-   "id": "Ed-FgJ2rkyA",
-   "title": "Laser-Heimgerät so gut wie die Praxis? Laser-Mythen (4) #Shorts",
-   "published": "2026-11-21T18:30:19Z",
+   "id": "8Zi_7i-z4DM",
+   "title": "Tattoo komplett weglasern? Was wirklich möglich ist #Shorts",
+   "published": "2026-11-22T18:30:14Z",
    "privacy": "public",
    "views": 36,
    "likes": 1,
@@ -231,15 +276,6 @@
    "comments": 1
   },
   {
-   "id": "YlMH5Y6K9KI",
-   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
-   "published": "2026-11-16T18:45:22Z",
-   "privacy": "public",
-   "views": 31,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "pcgk5kRVvWM",
    "title": "Erkennt KI Hautkrebs? Studie, Gerät und Apps im Check #Shorts",
    "published": "2026-11-02T06:31:34Z",
@@ -247,6 +283,15 @@
    "views": 31,
    "likes": 3,
    "comments": 0
+  },
+  {
+   "id": "V7BJTvhoVbQ",
+   "title": "Im Sommer nie lasern? Laser-Mythos im Check #Shorts",
+   "published": "2026-11-20T17:30:13Z",
+   "privacy": "public",
+   "views": 30,
+   "likes": 1,
+   "comments": 1
   },
   {
    "id": "JjxPYQ5GyqU",
@@ -262,7 +307,16 @@
    "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
    "published": "2026-11-19T17:00:11Z",
    "privacy": "public",
-   "views": 26,
+   "views": 28,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "zQo4XoxIOGQ",
+   "title": "Erfindet KI neue Medikamente? Nobelpreis und erste Studien #Shorts",
+   "published": "2026-11-22T12:30:17Z",
+   "privacy": "public",
+   "views": 24,
    "likes": 1,
    "comments": 1
   },
@@ -283,15 +337,6 @@
    "views": 22,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "V7BJTvhoVbQ",
-   "title": "Im Sommer nie lasern? Laser-Mythos im Check #Shorts",
-   "published": "2026-11-20T17:30:13Z",
-   "privacy": "public",
-   "views": 21,
-   "likes": 1,
-   "comments": 1
   },
   {
    "id": "iVfDYVimeVE",
@@ -330,10 +375,28 @@
    "comments": 0
   },
   {
+   "id": "otOew-XiRHs",
+   "title": "Wie der erste Laser entstand: Von Einstein zum Rubin #Shorts",
+   "published": "2026-11-21T09:30:27Z",
+   "privacy": "public",
+   "views": 13,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "wNSmHkzgLXw",
    "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
    "published": "2026-11-17T18:45:30Z",
    "privacy": "unlisted",
+   "views": 13,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "hHw6Z1Ar-YI",
+   "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
+   "published": "2026-11-17T17:00:13Z",
+   "privacy": "public",
    "views": 13,
    "likes": 1,
    "comments": 1
@@ -357,33 +420,6 @@
    "comments": 0
   },
   {
-   "id": "p0JaOuVv9hk",
-   "title": "Medizin 2041: Genschere, Schweineniere, Hirnimplantat? #Shorts",
-   "published": "2026-11-21T15:30:19Z",
-   "privacy": "public",
-   "views": 12,
-   "likes": 1,
-   "comments": 1
-  },
-  {
-   "id": "hHw6Z1Ar-YI",
-   "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
-   "published": "2026-11-17T17:00:13Z",
-   "privacy": "public",
-   "views": 12,
-   "likes": 1,
-   "comments": 1
-  },
-  {
-   "id": "waTSYVtvsLI",
-   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
-   "published": "2026-11-18T17:00:27Z",
-   "privacy": "public",
-   "views": 11,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "J7RirqEnNaE",
    "title": "Krankheiten erkennen, bevor sie ausbrechen? Medizin 2036 #Shorts",
    "published": "2026-11-05T17:01:47Z",
@@ -393,12 +429,12 @@
    "comments": 0
   },
   {
-   "id": "otOew-XiRHs",
-   "title": "Wie der erste Laser entstand: Von Einstein zum Rubin #Shorts",
-   "published": "2026-11-21T09:30:27Z",
+   "id": "waTSYVtvsLI",
+   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
+   "published": "2026-11-18T17:00:27Z",
    "privacy": "public",
-   "views": 9,
-   "likes": 1,
+   "views": 10,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -447,6 +483,15 @@
    "comments": 0
   },
   {
+   "id": "lQs3hzp5OJo",
+   "title": "Zukunft der Medizin, Folge 2: Gen-Schere, Blutkrebs-KI, Stimme aus dem Gehirn | Medizin Aktuell",
+   "published": "2026-11-22T17:30:08Z",
+   "privacy": "public",
+   "views": 4,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "GcCJuGQyb2g",
    "title": "Ebola-Ausbruch in Afrika: Wie groß ist das Risiko für uns? (KW 45) #Shorts",
    "published": "2026-11-11T07:05:28Z",
@@ -462,15 +507,6 @@
    "privacy": "public",
    "views": 2,
    "likes": 1,
-   "comments": 0
-  },
-  {
-   "id": "lQs3hzp5OJo",
-   "title": "Zukunft der Medizin, Folge 2: Gen-Schere, Blutkrebs-KI, Stimme aus dem Gehirn | Medizin Aktuell",
-   "published": "2026-11-21T02:28:44Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
    "comments": 0
   },
   {
