@@ -592,5 +592,29 @@
   "query": "serum dropper bottle skincare",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "pigment_sommersprossen",
+  "query": "freckles face closeup",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_creme",
+  "query": "face cream jar skincare",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_pipette",
+  "query": "glass dropper pipette bottle",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_haut",
+  "query": "human skin closeup macro",
+  "kind": "photo",
+  "n": 10
  }
 ]
