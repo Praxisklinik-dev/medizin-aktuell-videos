@@ -1,0 +1,60 @@
+{
+ "query": "pharmacy medicine shelf",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Benylin_Mucus_Cough_Max_liquid_medicine_bottles_displayed_on_a_pharmacy_shelf_at_Osbon_Pharmacy%2C_1a_Railway_Street%2C_Gillingham%2C_Kent%2C_England%2C_on_16_October_2025.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "OathOn",
+   "source": "https://commons.wikimedia.org/wiki/File:Benylin_Mucus_Cough_Max_liquid_medicine_bottles_displayed_on_a_pharmacy_shelf_at_Osbon_Pharmacy,_1a_Railway_Street,_Gillingham,_Kent,_England,_on_16_October_2025.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Empty_shelf_for_cold_relieve_drugs_in_a_pharmacy_in_Suzhou-20221207.jpg/1920px-Empty_shelf_for_cold_relieve_drugs_in_a_pharmacy_in_Suzhou-20221207.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shwangtianyuan",
+   "source": "https://commons.wikimedia.org/wiki/File:Empty_shelf_for_cold_relieve_drugs_in_a_pharmacy_in_Suzhou-20221207.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Albarello_pharmacy_jar_for_mercury_ointment%2C_Italy%2C_1520-156_Wellcome_L0057161.jpg/1920px-Albarello_pharmacy_jar_for_mercury_ointment%2C_Italy%2C_1520-156_Wellcome_L0057161.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Albarello_pharmacy_jar_for_mercury_ointment,_Italy,_1520-156_Wellcome_L0057161.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Antique_medicine_and_chemical_bottles_in_Cedar_Key_Historical_Museum_in_Cedar_Key%2C_Florida%2C_US%2C_on_23_January_2021.jpg/1920px-Antique_medicine_and_chemical_bottles_in_Cedar_Key_Historical_Museum_in_Cedar_Key%2C_Florida%2C_US%2C_on_23_January_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "MatthewHoobin",
+   "source": "https://commons.wikimedia.org/wiki/File:Antique_medicine_and_chemical_bottles_in_Cedar_Key_Historical_Museum_in_Cedar_Key,_Florida,_US,_on_23_January_2021.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Albarello_vase_used_to_store_smallage_seeds%2C_Italy%2C_1550_Wellcome_L0057176.jpg/1920px-Albarello_vase_used_to_store_smallage_seeds%2C_Italy%2C_1550_Wellcome_L0057176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Albarello_vase_used_to_store_smallage_seeds,_Italy,_1550_Wellcome_L0057176.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Albarello_vase%2C_Italy%2C_1520-1580_Wellcome_L0057160.jpg/1920px-Albarello_vase%2C_Italy%2C_1520-1580_Wellcome_L0057160.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Albarello_vase,_Italy,_1520-1580_Wellcome_L0057160.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  }
+ ]
+}

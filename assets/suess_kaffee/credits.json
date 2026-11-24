@@ -1,0 +1,96 @@
+{
+ "query": "sugar cubes coffee cup",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Paper_coffee_cups_and_sugar_cubes_in_cafeteria.jpg/1920px-Paper_coffee_cups_and_sugar_cubes_in_cafeteria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Santeri Viinamäki",
+   "source": "https://commons.wikimedia.org/wiki/File:Paper_coffee_cups_and_sugar_cubes_in_cafeteria.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Coffee_with_cream_and_sugar_-_Evan_Swigart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Evan Swigart from Chicago, USA",
+   "source": "https://commons.wikimedia.org/wiki/File:Coffee_with_cream_and_sugar_-_Evan_Swigart.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Black_coffee_with_sugar_-_Evan_Swigart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Evan Swigart from Chicago, USA",
+   "source": "https://commons.wikimedia.org/wiki/File:Black_coffee_with_sugar_-_Evan_Swigart.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Coffee-563797.jpg/1920px-Coffee-563797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "shixugang",
+   "source": "https://commons.wikimedia.org/wiki/File:Coffee-563797.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Two_black_coffees_and_sugar_from_above._%2851535520012%29.jpg/1920px-Two_black_coffees_and_sugar_from_above._%2851535520012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nenad Stojkovic",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_black_coffees_and_sugar_from_above._(51535520012).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Coffee_and_vintage_photos_%28Unsplash%29.jpg/1920px-Coffee_and_vintage_photos_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Annie Spratt anniespratt",
+   "source": "https://commons.wikimedia.org/wiki/File:Coffee_and_vintage_photos_(Unsplash).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Glass_tea_cup.jpg/1920px-Glass_tea_cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Zeynel Cebeci",
+   "source": "https://commons.wikimedia.org/wiki/File:Glass_tea_cup.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Turska_kava.jpg/1920px-Turska_kava.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Silverije",
+   "source": "https://commons.wikimedia.org/wiki/File:Turska_kava.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/%D0%9A%D0%BE%D1%84%D0%B5_%D1%81_%D0%BA%D0%BE%D1%80%D0%B8%D1%86%D0%B5%D0%B9_%D0%B8_%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC.jpg/1920px-%D0%9A%D0%BE%D1%84%D0%B5_%D1%81_%D0%BA%D0%BE%D1%80%D0%B8%D1%86%D0%B5%D0%B9_%D0%B8_%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Flamel123",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%84%D0%B5_%D1%81_%D0%BA%D0%BE%D1%80%D0%B8%D1%86%D0%B5%D0%B9_%D0%B8_%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Caf%C3%A9_au_Lait_in_Lyon.JPG/1920px-Caf%C3%A9_au_Lait_in_Lyon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Cadaverexquisito",
+   "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_au_Lait_in_Lyon.JPG",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}
