@@ -616,5 +616,29 @@
   "query": "human skin closeup macro",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "pigment_freckles",
+  "query": "freckles",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_lentigo",
+  "query": "solar lentigo",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_moisturizer",
+  "query": "moisturizer",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_sunscreen",
+  "query": "sunscreen",
+  "kind": "photo",
+  "n": 10
  }
 ]
