@@ -1,0 +1,51 @@
+{
+ "query": "dermatoscope skin examination",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dermatoscope1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Frank33",
+   "source": "https://commons.wikimedia.org/wiki/File:Dermatoscope1.JPG",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/IDS-1100_Dermatoscope.jpg/1920px-IDS-1100_Dermatoscope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Abessemans94",
+   "source": "https://commons.wikimedia.org/wiki/File:IDS-1100_Dermatoscope.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Nevus_melanoc%C3%ADtico_intrad%C3%A9rmico_%28RPS_09-12-2019%29_imagen_dermatosc%C3%B3pica.jpg/1920px-Nevus_melanoc%C3%ADtico_intrad%C3%A9rmico_%28RPS_09-12-2019%29_imagen_dermatosc%C3%B3pica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Raimundo Pastor",
+   "source": "https://commons.wikimedia.org/wiki/File:Nevus_melanoc%C3%ADtico_intrad%C3%A9rmico_(RPS_09-12-2019)_imagen_dermatosc%C3%B3pica.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Dermatoscopio_ottico_a_Contatto.jpg/1920px-Dermatoscopio_ottico_a_Contatto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Marcobiomed",
+   "source": "https://commons.wikimedia.org/wiki/File:Dermatoscopio_ottico_a_Contatto.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Micrograph_of_microcystic_adnexal_carcinoma_-_superficial_follicular_keratin-filled_cysts_-_infiltrative_aggregates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Mike Inskip, Jill Magee",
+   "source": "https://commons.wikimedia.org/wiki/File:Micrograph_of_microcystic_adnexal_carcinoma_-_superficial_follicular_keratin-filled_cysts_-_infiltrative_aggregates.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  }
+ ]
+}
