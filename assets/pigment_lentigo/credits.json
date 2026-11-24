@@ -1,0 +1,96 @@
+{
+ "query": "solar lentigo",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lentigo_s%C3%A9nile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Alain Gérard",
+   "source": "https://commons.wikimedia.org/wiki/File:Lentigo_s%C3%A9nile.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Lentigo.jpg/1920px-Lentigo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Dgingold2",
+   "source": "https://commons.wikimedia.org/wiki/File:Lentigo.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Liver_spot_on_left_forearm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Invertzoo",
+   "source": "https://commons.wikimedia.org/wiki/File:Liver_spot_on_left_forearm.JPG",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Liver_spots%2C_light-skinned_Caucasian_man%2C_age_63.jpg/1920px-Liver_spots%2C_light-skinned_Caucasian_man%2C_age_63.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Beyond My Ken",
+   "source": "https://commons.wikimedia.org/wiki/File:Liver_spots,_light-skinned_Caucasian_man,_age_63.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Lentigo_maligna_-_intermed_mag.jpg/1920px-Lentigo_maligna_-_intermed_mag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nephron",
+   "source": "https://commons.wikimedia.org/wiki/File:Lentigo_maligna_-_intermed_mag.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Lentigo_maligna_-_high_mag.jpg/1920px-Lentigo_maligna_-_high_mag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nephron",
+   "source": "https://commons.wikimedia.org/wiki/File:Lentigo_maligna_-_high_mag.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lentigo_maligna_-_very_high_mag.jpg/1920px-Lentigo_maligna_-_very_high_mag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nephron",
+   "source": "https://commons.wikimedia.org/wiki/File:Lentigo_maligna_-_very_high_mag.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Skin_Tumors-182.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "LWozniak&amp;KWZielinski",
+   "source": "https://commons.wikimedia.org/wiki/File:Skin_Tumors-182.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Age_Spots_%282968030195%29.jpg/1920px-Age_Spots_%282968030195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Sharon Mollerus",
+   "source": "https://commons.wikimedia.org/wiki/File:Age_Spots_(2968030195).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Skin_tumors_181.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "LWozniak&amp;KWZielinski",
+   "source": "https://commons.wikimedia.org/wiki/File:Skin_tumors_181.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}

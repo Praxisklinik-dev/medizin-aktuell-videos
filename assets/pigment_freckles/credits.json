@@ -1,0 +1,96 @@
+{
+ "query": "freckles",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Computer_Generated_Freckles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Maximilian Schönherr",
+   "source": "https://commons.wikimedia.org/wiki/File:Computer_Generated_Freckles.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Jackie_Condon_and_Jay_R._Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Hal Roach Studios",
+   "source": "https://commons.wikimedia.org/wiki/File:Jackie_Condon_and_Jay_R._Smith.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Freckles_%2814052401039%29.jpg/1920px-Freckles_%2814052401039%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Lies Thru a Lens",
+   "source": "https://commons.wikimedia.org/wiki/File:Freckles_(14052401039).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg/1920px-Silent_film_juvenile_John_Fox_in_%22Freckles%22_%28SAYRE_16%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Unknown authorUnknown author",
+   "source": "https://commons.wikimedia.org/wiki/File:Silent_film_juvenile_John_Fox_in_%22Freckles%22_(SAYRE_16).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Freckles_-_Flickr_-_Stiller_Beobachter.jpg/1920px-Freckles_-_Flickr_-_Stiller_Beobachter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Stiller Beobachter from Ansbach, Germany",
+   "source": "https://commons.wikimedia.org/wiki/File:Freckles_-_Flickr_-_Stiller_Beobachter.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/FrecklesAfterSummertime.jpg/1920px-FrecklesAfterSummertime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Drymartini38",
+   "source": "https://commons.wikimedia.org/wiki/File:FrecklesAfterSummertime.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Freckles_%2820416067382%29.jpg/1920px-Freckles_%2820416067382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Lies Thru a Lens",
+   "source": "https://commons.wikimedia.org/wiki/File:Freckles_(20416067382).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Freckles_-_Flickr_-_Stiller_Beobachter_%281%29.jpg/1920px-Freckles_-_Flickr_-_Stiller_Beobachter_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Stiller Beobachter from Ansbach, Germany",
+   "source": "https://commons.wikimedia.org/wiki/File:Freckles_-_Flickr_-_Stiller_Beobachter_(1).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Freckles_%2819716375803%29.jpg/1920px-Freckles_%2819716375803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Lies Thru a Lens",
+   "source": "https://commons.wikimedia.org/wiki/File:Freckles_(19716375803).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Freckles_-_Flickr_-_Stiller_Beobachter_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Stiller Beobachter from Ansbach, Germany",
+   "source": "https://commons.wikimedia.org/wiki/File:Freckles_-_Flickr_-_Stiller_Beobachter_(2).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}
