@@ -640,5 +640,29 @@
   "query": "sunscreen",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "kortison_creme",
+  "query": "skin cream jar",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kortison_labor",
+  "query": "mass spectrometry laboratory",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kortison_ekzem",
+  "query": "eczema skin",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kortison_paket",
+  "query": "parcel delivery package",
+  "kind": "photo",
+  "n": 10
  }
 ]
