@@ -568,5 +568,29 @@
   "query": "pharmacy medicine shelf",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "pigment_dermatoskop",
+  "query": "dermatoscope skin examination",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_flecken",
+  "query": "age spots skin hand",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_sonnenschutz",
+  "query": "sunscreen cream application skin",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "pigment_serum",
+  "query": "serum dropper bottle skincare",
+  "kind": "photo",
+  "n": 10
  }
 ]
