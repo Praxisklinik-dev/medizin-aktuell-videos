@@ -688,5 +688,17 @@
   "query": "hand surgery operating room",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "daumen_gips2",
+  "query": "arm cast broken wrist",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "daumen_sturz",
+  "query": "slipping on ice fall",
+  "kind": "photo",
+  "n": 10
  }
 ]
