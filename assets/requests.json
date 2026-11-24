@@ -664,5 +664,29 @@
   "query": "parcel delivery package",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "daumen_roentgen",
+  "query": "thumb x-ray radiograph",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "daumen_hand",
+  "query": "thumb hand grip",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "daumen_gips",
+  "query": "hand cast plaster splint",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "daumen_op",
+  "query": "hand surgery operating room",
+  "kind": "photo",
+  "n": 10
  }
 ]
