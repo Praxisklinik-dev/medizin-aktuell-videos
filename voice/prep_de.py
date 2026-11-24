@@ -36,6 +36,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Dermatoskop": "Dermato-skop", "Lichtschutzfaktor": "Licht-schutz-faktor", "Pigmentflecken": "Pigment-Flecken", "Altersfleck": "Alters-Fleck", "weglasern": "weg-lasern", "Vitamin-C-": "Vitamin-Zeh-",
     # Neuauflage Nr. 16 Kortison in Hautcremes (24.11.2026)
     "Hautcremes": "Haut-Cremes", "Hautcreme": "Haut-Creme", "kortisonfreie": "kortison-freie", "Dehnungsstreifen": "Dehnungs-Streifen", "Online-Shops": "Onlein-Schops", "verschreibungspflichtigen": "verschreibungs-pflichtigen", "Stichprobe": "Stich-Probe",
+    # Neuauflage Nr. 17 Daumenbruch (24.11.2026)
+    "Bennett": "Bännett", "Daumensattelgelenk": "Daumen-Sattel-Gelenk", "Bruchstücken": "Bruch-Stücken", "Bruchstücke": "Bruch-Stücke", "Gelenkfläche": "Gelenk-Fläche", "Gelenkbrüchen": "Gelenk-Brüchen", "Gelenkbrüche": "Gelenk-Brüche", "Röntgenbild": "Röntgen-Bild", "ein CT": "ein Zeh-Teh", "Winterstein-Bruch": "Winterstein-Bruch",
 }
 
 
