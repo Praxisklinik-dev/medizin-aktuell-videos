@@ -544,5 +544,29 @@
   "query": "interlocked fingers hands",
   "kind": "photo",
   "n": 12
+ },
+ {
+  "key": "suess_kaffee",
+  "query": "sugar cubes coffee cup",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "suess_bakterien",
+  "query": "bacteria electron micrograph",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "suess_petri",
+  "query": "petri dish bacteria culture",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "suess_apotheke",
+  "query": "pharmacy medicine shelf",
+  "kind": "photo",
+  "n": 10
  }
 ]
