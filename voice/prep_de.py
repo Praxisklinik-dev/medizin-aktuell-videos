@@ -32,6 +32,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     # Neuauflage Nr. 13 Fingerknacken (23.11.2026)
     "Gelenkflüssigkeit": "Gelenk-Flüssigkeit", "Gelenkflächen": "Gelenk-Flächen", "Langzeitstudien": "Langzeit-Studien", "Hohlraum": "Hohl-Raum",
     "EKG": "E-Ka-Ge", "Smartwatches": "Smart-wotsches", "Smartwatch": "Smart-wotsch", "die 112": "die eins eins zwei", "Vorhofflimmern": "Vorhof-flimmern",
+    # Neuauflage Nr. 15 Pigmentflecken lasern (24.11.2026)
+    "Dermatoskop": "Dermato-skop", "Lichtschutzfaktor": "Licht-schutz-faktor", "Pigmentflecken": "Pigment-Flecken", "Altersfleck": "Alters-Fleck", "weglasern": "weg-lasern", "Vitamin-C-": "Vitamin-Zeh-",
 }
 
 
