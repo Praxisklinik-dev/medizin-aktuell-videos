@@ -1,0 +1,60 @@
+{
+ "query": "skin cream jar",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Person_applies_cream_for_skin_from_a_jar_closeup.jpg/1920px-Person_applies_cream_for_skin_from_a_jar_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:Person_applies_cream_for_skin_from_a_jar_closeup.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/People_open_a_jar_of_cream_and_apply_skincare_indoors_during_the_day.jpg/1920px-People_open_a_jar_of_cream_and_apply_skincare_indoors_during_the_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Shixart1985",
+   "source": "https://commons.wikimedia.org/wiki/File:People_open_a_jar_of_cream_and_apply_skincare_indoors_during_the_day.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Jar_of_%27Domolene%27_ointment%2C_London%2C_England%2C_1945-1965_Wellcome_L0058221.jpg/1920px-Jar_of_%27Domolene%27_ointment%2C_London%2C_England%2C_1945-1965_Wellcome_L0058221.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Jar_of_%27Domolene%27_ointment,_London,_England,_1945-1965_Wellcome_L0058221.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Bronze_Age_-_Iron_Age_pottery_vessel_handle_sherd_%28FindID_290426%29.jpg/1920px-Bronze_Age_-_Iron_Age_pottery_vessel_handle_sherd_%28FindID_290426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Derby Museums Trust, Rachel Atherton, 2010-04-01 15:38:49",
+   "source": "https://commons.wikimedia.org/wiki/File:Bronze_Age_-_Iron_Age_pottery_vessel_handle_sherd_(FindID_290426).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/ASC_Leiden_-_van_Achterberg_Collection_-_03_-_43_-_Deux_femmes_Wodaabe%2C_une_agenouill%C3%A9e%2C_regardent_les_pots_de_cr%C3%A8me_-_Tahoua%2C_Niger_-.tif/lossy-page1-1920px-ASC_Leiden_-_van_Achterberg_Collection_-_03_-_43_-_Deux_femmes_Wodaabe%2C_une_agenouill%C3%A9e%2C_regardent_les_pots_de_cr%C3%A8me_-_Tahoua%2C_Niger_-.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Angeline A. van Achterberg",
+   "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_03_-_43_-_Deux_femmes_Wodaabe,_une_agenouill%C3%A9e,_regardent_les_pots_de_cr%C3%A8me_-_Tahoua,_Niger_-.tif",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/The_Ladies%27_home_journal_%281948%29_%2814582305527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Internet Archive Book Images",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Ladies%27_home_journal_(1948)_(14582305527).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "06.jpg"
+  }
+ ]
+}

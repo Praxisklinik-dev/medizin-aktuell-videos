@@ -1,0 +1,96 @@
+{
+ "query": "eczema skin",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dermatitis2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "James Heilman, MD",
+   "source": "https://commons.wikimedia.org/wiki/File:Dermatitis2015.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Atopic_dermatitis_child_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Gzzz",
+   "source": "https://commons.wikimedia.org/wiki/File:Atopic_dermatitis_child_3.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/TSW_eczema_sleeves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Heidi Akselin",
+   "source": "https://commons.wikimedia.org/wiki/File:TSW_eczema_sleeves.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/4754647277_b6c6d94439_bEczemaPapillaris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Otis Historical Archives  of “National Museum of Health &amp; Medicine”  (OTIS Archive 1)Eczema",
+   "source": "https://commons.wikimedia.org/wiki/File:4754647277_b6c6d94439_bEczemaPapillaris.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Eczema_intertrigo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "George Henry Fox",
+   "source": "https://commons.wikimedia.org/wiki/File:Eczema_intertrigo.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pyemotes_ventricosus_dermatitis_with_classical_comet_sign.png/1920px-Pyemotes_ventricosus_dermatitis_with_classical_comet_sign.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Vellere, I., Di Felice, A., Botta, A., Angheben, A., Bartoloni, A., &amp; Zammarchi, L.",
+   "source": "https://commons.wikimedia.org/wiki/File:Pyemotes_ventricosus_dermatitis_with_classical_comet_sign.png",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Eczema_versus_Fingerprints_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Marek Isalski",
+   "source": "https://commons.wikimedia.org/wiki/File:Eczema_versus_Fingerprints_2009.jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Eczema_vaccinatum_infant.jpg/1920px-Eczema_vaccinatum_infant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Photo Credit:\nContent Providers(s): CDC/Arthur E. Kaye",
+   "source": "https://commons.wikimedia.org/wiki/File:Eczema_vaccinatum_infant.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Eczema_on_knuckle.jpg/1920px-Eczema_on_knuckle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "JIP",
+   "source": "https://commons.wikimedia.org/wiki/File:Eczema_on_knuckle.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Eczema_erythematosum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "George Henry Fox",
+   "source": "https://commons.wikimedia.org/wiki/File:Eczema_erythematosum.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}
