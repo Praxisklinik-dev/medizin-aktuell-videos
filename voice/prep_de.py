@@ -40,6 +40,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Bennett": "Bännett", "Daumensattelgelenk": "Daumen-Sattel-Gelenk", "Bruchstücken": "Bruch-Stücken", "Bruchstücke": "Bruch-Stücke", "Gelenkfläche": "Gelenk-Fläche", "Gelenkbrüchen": "Gelenk-Brüchen", "Gelenkbrüche": "Gelenk-Brüche", "Röntgenbild": "Röntgen-Bild", "ein CT": "ein Zeh-Teh", "Winterstein-Bruch": "Winterstein-Bruch",
     # Neuauflage Nr. 19 Zell-Verjüngung am Auge (25.11.2026)
     "Yamanaka-Faktoren": "Jamanaka-Faktoren", "Epigenom": "Epi-Genom", "Sehnerven": "Seh-Nerven", "Sehnerv": "Seh-Nerv", "Sehnerv-Infarkt": "Seh-Nerv-Infarkt", "Gesichtsfeld": "Gesichts-Feld", "Kontrollgruppe": "Kontroll-Gruppe", "Augenpraxis": "Augen-Praxis",
+    # Neuauflage Nr. 20 selektive Photothermolyse (25.11.2026)
+    "Photothermolyse": "Foto-Thermo-Lyse", "Wellenlänge": "Wellen-Länge", "Blutgefäß": "Blut-Gefäß", "Blutfarbstoff": "Blut-Farbstoff", "Tattoofarbe": "Tättu-Farbe", "Tattoos": "Tättus", "Lichtpuls": "Licht-Puls", "Gefäßlaser": "Gefäß-Laser", "Laser-Haarentfernung": "Laser-Haar-Entfernung", "Pigmentstörungen": "Pigment-Störungen", "Laserbehandlung": "Laser-Behandlung", "Tätowierfarbe": "Tätowier-Farbe", "Haarentfernung": "Haar-Entfernung",
 }
 
 
