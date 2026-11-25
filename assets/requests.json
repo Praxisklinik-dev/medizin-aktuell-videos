@@ -814,5 +814,29 @@
   "query": "pharmacy shelves medicines",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "grapefruit_frucht2",
+  "query": "grapefruit",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "grapefruit_pomelo",
+  "query": "pomelo citrus",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "grapefruit_rosa",
+  "query": "pink grapefruit slice",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "grapefruit_pillen",
+  "query": "pills",
+  "kind": "photo",
+  "n": 12
  }
 ]
