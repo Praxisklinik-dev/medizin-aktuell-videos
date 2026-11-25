@@ -724,5 +724,23 @@
     "query": "blood sample tubes laboratory",
     "kind": "photo",
     "n": 10
+  },
+  {
+    "key": "m2031_aeltere",
+    "query": "senior woman portrait smiling",
+    "kind": "photo",
+    "n": 10
+  },
+  {
+    "key": "m2031_pen",
+    "query": "injection pen diabetes",
+    "kind": "photo",
+    "n": 10
+  },
+  {
+    "key": "m2031_joggen",
+    "query": "jogging running park",
+    "kind": "photo",
+    "n": 10
   }
 ]
