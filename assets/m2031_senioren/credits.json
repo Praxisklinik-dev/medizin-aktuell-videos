@@ -1,0 +1,15 @@
+{
+ "query": "elderly couple walking outdoors",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Elderly_couple_walking_arm-in-arm_-_Harper%27s_Monthly_Magazine_%28March_1902%29_-_Alice_Barber_Stephens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Alice Barber Stephens",
+   "source": "https://commons.wikimedia.org/wiki/File:Elderly_couple_walking_arm-in-arm_-_Harper%27s_Monthly_Magazine_(March_1902)_-_Alice_Barber_Stephens.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "query": "laboratory scientist pipette research",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/CDC_scientist_transfers_H7N9.png/1920px-CDC_scientist_transfers_H7N9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Photo Credit: James Gathany\nContent Providers: CDC/ Douglas E. Jordan",
+   "source": "https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Stem_Cell_Research_%280443%29_%2813981985775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "The U.S. Food and Drug Administration",
+   "source": "https://commons.wikimedia.org/wiki/File:Stem_Cell_Research_(0443)_(13981985775).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/BioMek_FX_P200_96_liquid_handling_robot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "National Institute of Allergy and Infectious Diseases (NIAID)",
+   "source": "https://commons.wikimedia.org/wiki/File:BioMek_FX_P200_96_liquid_handling_robot.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  }
+ ]
+}
