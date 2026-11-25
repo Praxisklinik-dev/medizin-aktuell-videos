@@ -38,6 +38,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Hautcremes": "Haut-Cremes", "Hautcreme": "Haut-Creme", "kortisonfreie": "kortison-freie", "Dehnungsstreifen": "Dehnungs-Streifen", "Online-Shops": "Onlein-Schops", "verschreibungspflichtigen": "verschreibungs-pflichtigen", "Stichprobe": "Stich-Probe",
     # Neuauflage Nr. 17 Daumenbruch (24.11.2026)
     "Bennett": "Bännett", "Daumensattelgelenk": "Daumen-Sattel-Gelenk", "Bruchstücken": "Bruch-Stücken", "Bruchstücke": "Bruch-Stücke", "Gelenkfläche": "Gelenk-Fläche", "Gelenkbrüchen": "Gelenk-Brüchen", "Gelenkbrüche": "Gelenk-Brüche", "Röntgenbild": "Röntgen-Bild", "ein CT": "ein Zeh-Teh", "Winterstein-Bruch": "Winterstein-Bruch",
+    # Neuauflage Nr. 19 Zell-Verjüngung am Auge (25.11.2026)
+    "Yamanaka-Faktoren": "Jamanaka-Faktoren", "Epigenom": "Epi-Genom", "Sehnerven": "Seh-Nerven", "Sehnerv": "Seh-Nerv", "Sehnerv-Infarkt": "Seh-Nerv-Infarkt", "Gesichtsfeld": "Gesichts-Feld", "Kontrollgruppe": "Kontroll-Gruppe", "Augenpraxis": "Augen-Praxis",
 }
 
 
