@@ -838,5 +838,23 @@
   "query": "pills",
   "kind": "photo",
   "n": 12
+ },
+ {
+  "key": "grapefruit_haelfte",
+  "query": "grapefruit half",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "grapefruit_saft2",
+  "query": "grapefruit juice",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "grapefruit_markt",
+  "query": "grapefruits market",
+  "kind": "photo",
+  "n": 10
  }
 ]

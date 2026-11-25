@@ -42,6 +42,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Yamanaka-Faktoren": "Jamanaka-Faktoren", "Epigenom": "Epi-Genom", "Sehnerven": "Seh-Nerven", "Sehnerv": "Seh-Nerv", "Sehnerv-Infarkt": "Seh-Nerv-Infarkt", "Gesichtsfeld": "Gesichts-Feld", "Kontrollgruppe": "Kontroll-Gruppe", "Augenpraxis": "Augen-Praxis",
     # Neuauflage Nr. 20 selektive Photothermolyse (25.11.2026)
     "Photothermolyse": "Foto-Thermo-Lyse", "Wellenlänge": "Wellen-Länge", "Blutgefäß": "Blut-Gefäß", "Blutfarbstoff": "Blut-Farbstoff", "Tattoofarbe": "Tättu-Farbe", "Tattoos": "Tättus", "Lichtpuls": "Licht-Puls", "Gefäßlaser": "Gefäß-Laser", "Laser-Haarentfernung": "Laser-Haar-Entfernung", "Pigmentstörungen": "Pigment-Störungen", "Laserbehandlung": "Laser-Behandlung", "Tätowierfarbe": "Tätowier-Farbe", "Haarentfernung": "Haar-Entfernung",
+    # Neuauflage Nr. 21 Grapefruit und Tabletten (25.11.2026)
+    "Pomelo": "Pomelo", "Bitterorange": "Bitter-Orange", "Cholesterinsenker": "Cholesterin-Senker", "Wirkstoffe": "Wirk-Stoffe", "Wirkstoff": "Wirk-Stoff", "Mindestmenge": "Mindest-Menge", "Muskelschäden": "Muskel-Schäden", "Nierenversagen": "Nieren-Versagen", "Wechselwirkung": "Wechsel-Wirkung",
 }
 
 
