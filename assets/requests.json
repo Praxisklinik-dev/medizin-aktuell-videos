@@ -790,5 +790,29 @@
   "query": "dermatologist laser skin treatment",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "grapefruit_frucht",
+  "query": "grapefruit halved fruit",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "grapefruit_saft",
+  "query": "grapefruit juice glass breakfast",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "grapefruit_tabletten",
+  "query": "pills tablets medication",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "grapefruit_apotheke",
+  "query": "pharmacy shelves medicines",
+  "kind": "photo",
+  "n": 10
  }
 ]
