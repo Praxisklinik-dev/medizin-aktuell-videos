@@ -766,5 +766,29 @@
   "query": "ophthalmologist eye examination slit lamp",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "spt_laserstrahl",
+  "query": "red laser beam light",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "spt_haut",
+  "query": "human skin close up macro",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "spt_blutgefaesse",
+  "query": "capillaries blood vessels skin",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "spt_hautarzt",
+  "query": "dermatologist laser skin treatment",
+  "kind": "photo",
+  "n": 10
  }
 ]
