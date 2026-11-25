@@ -1,0 +1,15 @@
+{
+ "query": "pink grapefruit slice",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Sweet_breakfast_at_Quality_Hotel_Grand_Bor%C3%A5s.jpg/1920px-Sweet_breakfast_at_Quality_Hotel_Grand_Bor%C3%A5s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "JIP",
+   "source": "https://commons.wikimedia.org/wiki/File:Sweet_breakfast_at_Quality_Hotel_Grand_Bor%C3%A5s.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  }
+ ]
+}
