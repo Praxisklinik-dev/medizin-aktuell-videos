@@ -1,0 +1,42 @@
+{
+ "query": "dermatologist laser skin treatment",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The-novaskin-clinic-gurudwara-junction-visakhapatnam-dermatologists-741j1iqfev.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Novaskinclinic",
+   "source": "https://commons.wikimedia.org/wiki/File:The-novaskin-clinic-gurudwara-junction-visakhapatnam-dermatologists-741j1iqfev.webp",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Health_Care_Hero_Award_161007-F-AE629-059.jpg/1920px-Health_Care_Hero_Award_161007-F-AE629-059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Staff Sgt. Kevin Iinuma",
+   "source": "https://commons.wikimedia.org/wiki/File:Health_Care_Hero_Award_161007-F-AE629-059.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Health_Care_Hero_Award_161007-F-AE629-043.jpg/1920px-Health_Care_Hero_Award_161007-F-AE629-043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Staff Sgt. Kevin Iinuma",
+   "source": "https://commons.wikimedia.org/wiki/File:Health_Care_Hero_Award_161007-F-AE629-043.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Health_Care_Hero_Award_161007-F-AE629-060.jpg/1920px-Health_Care_Hero_Award_161007-F-AE629-060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Staff Sgt. Kevin Iinuma",
+   "source": "https://commons.wikimedia.org/wiki/File:Health_Care_Hero_Award_161007-F-AE629-060.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}
