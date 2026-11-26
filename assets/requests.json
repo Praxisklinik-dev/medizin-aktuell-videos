@@ -904,5 +904,29 @@
   "query": "dietary supplement capsules",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "haarentf_rasierer",
+  "query": "razor shaving legs",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "haarentf_laser",
+  "query": "laser hair removal treatment",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "haarentf_haare",
+  "query": "blonde grey hair close-up",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "haarentf_arzt",
+  "query": "doctor patient consultation",
+  "kind": "photo",
+  "n": 10
  }
 ]
