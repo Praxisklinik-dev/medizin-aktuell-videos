@@ -457,6 +457,10 @@
     "comment_done": true
   },
   "remake_25_op_roboter": {
-    "last_error": "<HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'loca"
+    "last_error": "<HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'loca",
+    "video_id": "4Nukwn3XuUA",
+    "uploaded_at": "2026-11-26T16:54:36+00:00",
+    "title": "Operiert bald ein Roboter allein? Was KI im OP heute kann #Shorts",
+    "publish_at": "2026-11-26T18:30:00Z"
   }
 }
