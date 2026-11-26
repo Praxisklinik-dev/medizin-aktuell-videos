@@ -1,0 +1,87 @@
+{
+ "query": "CT scan 3D reconstruction",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/3D_CT_reconstruction_of_human_lumbar_spine_and_sacrum_%28anterior_view%29_-_Navi_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Goleisureintl",
+   "source": "https://commons.wikimedia.org/wiki/File:3D_CT_reconstruction_of_human_lumbar_spine_and_sacrum_(anterior_view)_-_Navi_Mumbai.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Parry_Romberg_syndrome_CT_reconstruction%2C_bone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Desherinka",
+   "source": "https://commons.wikimedia.org/wiki/File:Parry_Romberg_syndrome_CT_reconstruction,_bone.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Parry_Romberg_syndrome_CT_reconstruction%2C_soft_tissues.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Desherinka",
+   "source": "https://commons.wikimedia.org/wiki/File:Parry_Romberg_syndrome_CT_reconstruction,_soft_tissues.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ocepeia_daouiensis_skull_3D_CT_scan_model_reconstruction.TIF/lossy-page1-1920px-Ocepeia_daouiensis_skull_3D_CT_scan_model_reconstruction.TIF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Emmanuel Gheerbrant, Mbarek Amaghzaz, Baadi Bouya, Florent Goussard, Charlène Letenneur",
+   "source": "https://commons.wikimedia.org/wiki/File:Ocepeia_daouiensis_skull_3D_CT_scan_model_reconstruction.TIF",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ocepeia_daouiensis_skull_3D_CT_scan_model_reconstruction.jpg/1920px-Ocepeia_daouiensis_skull_3D_CT_scan_model_reconstruction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Emmanuel Gheerbrant, Mbarek Amaghzaz, Baadi Bouya, Florent Goussard, Charlène Letenneur",
+   "source": "https://commons.wikimedia.org/wiki/File:Ocepeia_daouiensis_skull_3D_CT_scan_model_reconstruction.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/3D_rendered_CT_of_hip_bone_metastases.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Mikael Häggström",
+   "source": "https://commons.wikimedia.org/wiki/File:3D_rendered_CT_of_hip_bone_metastases.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mysteriomorphus_CT_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "David Peris, Robin Kundrata, Xavier Delclòs, Bastian Mähler, Michael A. Ivie, Jes Rust &amp; Conrad C. Labandeira",
+   "source": "https://commons.wikimedia.org/wiki/File:Mysteriomorphus_CT_(cropped).jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/CT_Spine_Back_Pain_Scan_Imaging_Navi_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Goleisureintl",
+   "source": "https://commons.wikimedia.org/wiki/File:CT_Spine_Back_Pain_Scan_Imaging_Navi_Mumbai.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Plos_One_e105877_Figure_3_whole_Maatidesmus_paachtun.png/1920px-Plos_One_e105877_Figure_3_whole_Maatidesmus_paachtun.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Riquelme et al",
+   "source": "https://commons.wikimedia.org/wiki/File:Plos_One_e105877_Figure_3_whole_Maatidesmus_paachtun.png",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  }
+ ]
+}
