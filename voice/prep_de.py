@@ -44,6 +44,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Photothermolyse": "Foto-Thermo-Lyse", "Wellenlänge": "Wellen-Länge", "Blutgefäß": "Blut-Gefäß", "Blutfarbstoff": "Blut-Farbstoff", "Tattoofarbe": "Tättu-Farbe", "Tattoos": "Tättus", "Lichtpuls": "Licht-Puls", "Gefäßlaser": "Gefäß-Laser", "Laser-Haarentfernung": "Laser-Haar-Entfernung", "Pigmentstörungen": "Pigment-Störungen", "Laserbehandlung": "Laser-Behandlung", "Tätowierfarbe": "Tätowier-Farbe", "Haarentfernung": "Haar-Entfernung",
     # Neuauflage Nr. 21 Grapefruit und Tabletten (25.11.2026)
     "Pomelo": "Pomelo", "Bitterorange": "Bitter-Orange", "Cholesterinsenker": "Cholesterin-Senker", "Wirkstoffe": "Wirk-Stoffe", "Wirkstoff": "Wirk-Stoff", "Mindestmenge": "Mindest-Menge", "Muskelschäden": "Muskel-Schäden", "Nierenversagen": "Nieren-Versagen", "Wechselwirkung": "Wechsel-Wirkung",
+    # Neuauflage Nr. 23 Hyaluronsäure zum Trinken (26.11.2026)
+    "Hyaluronsäure": "Hüalu-ron-säure", "Hautfeuchtigkeit": "Haut-Feuchtigkeit", "Hauttypen": "Haut-Typen", "Basispflege": "Basis-Pflege", "Sonnenschutz": "Sonnen-Schutz", "Unterarm": "Unter-Arm",
 }
 
 
