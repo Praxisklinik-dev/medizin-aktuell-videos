@@ -1,0 +1,24 @@
+{
+ "query": "older adults walking outdoors",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Couple_walking_outdoors.jpg/1920px-Couple_walking_outdoors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Rhoda Baer (Photographer)",
+   "source": "https://commons.wikimedia.org/wiki/File:Couple_walking_outdoors.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Woman_power_walking.jpg/1920px-Woman_power_walking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "National Cancer Institute",
+   "source": "https://commons.wikimedia.org/wiki/File:Woman_power_walking.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  }
+ ]
+}

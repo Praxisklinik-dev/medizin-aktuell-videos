@@ -1,0 +1,33 @@
+{
+ "query": "apheresis machine blood donation",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Blood_donation_needle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:Blood_donation_needle.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Apheresis_of_donated_platelets_2_units_in_Australia_2020.jpg/1920px-Apheresis_of_donated_platelets_2_units_in_Australia_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Tony Hobbs",
+   "source": "https://commons.wikimedia.org/wiki/File:Apheresis_of_donated_platelets_2_units_in_Australia_2020.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Platelet_apheresis.jpg/1920px-Platelet_apheresis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Toytoy at English Wikipedia",
+   "source": "https://commons.wikimedia.org/wiki/File:Platelet_apheresis.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  }
+ ]
+}
