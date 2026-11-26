@@ -1,0 +1,51 @@
+{
+ "query": "laser hair removal treatment",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pre_Laser_Treatment_20201112_162237.jpg/1920px-Pre_Laser_Treatment_20201112_162237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "S23115RPyan",
+   "source": "https://commons.wikimedia.org/wiki/File:Pre_Laser_Treatment_20201112_162237.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Pre_Laser_Treatment_20201112_161318.jpg/1920px-Pre_Laser_Treatment_20201112_161318.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "S23115RPyan",
+   "source": "https://commons.wikimedia.org/wiki/File:Pre_Laser_Treatment_20201112_161318.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Korean_Gloow_Facial_at_Gloow_Beauty_Treatment.webp/1920px-Korean_Gloow_Facial_at_Gloow_Beauty_Treatment.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Gloow europe",
+   "source": "https://commons.wikimedia.org/wiki/File:Korean_Gloow_Facial_at_Gloow_Beauty_Treatment.webp",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/20230419_195537Elite_Laser.jpg/1920px-20230419_195537Elite_Laser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Elite Laser",
+   "source": "https://commons.wikimedia.org/wiki/File:20230419_195537Elite_Laser.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The-novaskin-clinic-gurudwara-junction-visakhapatnam-dermatologists-741j1iqfev.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Novaskinclinic",
+   "source": "https://commons.wikimedia.org/wiki/File:The-novaskin-clinic-gurudwara-junction-visakhapatnam-dermatologists-741j1iqfev.webp",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  }
+ ]
+}
