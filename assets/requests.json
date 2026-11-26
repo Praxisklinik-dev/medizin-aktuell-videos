@@ -856,5 +856,29 @@
   "query": "grapefruits market",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "plasma_beutel",
+  "query": "blood plasma bag",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "plasma_apherese",
+  "query": "apheresis machine blood donation",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "plasma_senioren",
+  "query": "older adults walking outdoors",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "plasma_labor",
+  "query": "blood test tubes laboratory",
+  "kind": "photo",
+  "n": 10
  }
 ]
