@@ -928,5 +928,23 @@
   "query": "doctor patient consultation",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "haarentf_follikel",
+  "query": "hair follicle microscope",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "haarentf_makro",
+  "query": "human hair macro",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "haarentf_rasur",
+  "query": "razor blade shaving",
+  "kind": "photo",
+  "n": 10
  }
 ]
