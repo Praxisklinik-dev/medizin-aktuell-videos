@@ -1,0 +1,78 @@
+{
+ "query": "hair follicle microscope",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hair_follicles.jpg/1920px-Hair_follicles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Angelina Koch",
+   "source": "https://commons.wikimedia.org/wiki/File:Hair_follicles.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Rat_hair_follicles.jpg/1920px-Rat_hair_follicles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Angelina Koch",
+   "source": "https://commons.wikimedia.org/wiki/File:Rat_hair_follicles.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Rat_hair_follicles_and_vessels.jpg/1920px-Rat_hair_follicles_and_vessels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Angelina Koch",
+   "source": "https://commons.wikimedia.org/wiki/File:Rat_hair_follicles_and_vessels.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pretty_circles_make_pretty_hairs.tif/lossy-page1-1920px-Pretty_circles_make_pretty_hairs.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Etenia Urquiza",
+   "source": "https://commons.wikimedia.org/wiki/File:Pretty_circles_make_pretty_hairs.tif",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Scalp_cross_section_%28negro%292.jpg/1920px-Scalp_cross_section_%28negro%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Lazar.zenit",
+   "source": "https://commons.wikimedia.org/wiki/File:Scalp_cross_section_(negro)2.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Scalp_cross_section_%28negro%29.jpg/1920px-Scalp_cross_section_%28negro%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Lazar.zenit",
+   "source": "https://commons.wikimedia.org/wiki/File:Scalp_cross_section_(negro).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Demodex-in-follicle.jpg/1920px-Demodex-in-follicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Alan R Walker",
+   "source": "https://commons.wikimedia.org/wiki/File:Demodex-in-follicle.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Rat_skin_%28derma%29.jpg/1920px-Rat_skin_%28derma%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Angelina Koch",
+   "source": "https://commons.wikimedia.org/wiki/File:Rat_skin_(derma).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  }
+ ]
+}
