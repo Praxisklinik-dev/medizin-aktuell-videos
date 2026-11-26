@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-25T07:29Z",
+ "stand": "2026-11-26T07:27Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 5,
- "aufrufe_gesamt": 2032,
- "videos_gesamt": 55,
+ "aufrufe_gesamt": 2029,
+ "videos_gesamt": 57,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -28,7 +28,7 @@
    "title": "Macht Fingerknacken Arthrose? Was Studien wirklich zeigen #Shorts",
    "published": "2026-11-23T18:30:22Z",
    "privacy": "public",
-   "views": 149,
+   "views": 150,
    "likes": 1,
    "comments": 1
   },
@@ -37,7 +37,7 @@
    "title": "Was verrät ein EKG mit KI? Herzschwäche & Vorhofflimmern #Shorts",
    "published": "2026-11-21T12:30:02Z",
    "privacy": "public",
-   "views": 113,
+   "views": 112,
    "likes": 1,
    "comments": 1
   },
@@ -49,6 +49,15 @@
    "views": 108,
    "likes": 2,
    "comments": 0
+  },
+  {
+   "id": "h7SFv1Ay0TM",
+   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
+   "published": "2026-11-16T11:30:09Z",
+   "privacy": "unlisted",
+   "views": 97,
+   "likes": 3,
+   "comments": 1
   },
   {
    "id": "h7SFv1Ay0TM",
@@ -91,7 +100,7 @@
    "title": "Findet KI mehr Polypen? Darmspiegelung und die Kehrseite #Shorts",
    "published": "2026-11-23T12:30:12Z",
    "privacy": "public",
-   "views": 71,
+   "views": 76,
    "likes": 0,
    "comments": 1
   },
@@ -127,7 +136,7 @@
    "title": "Tattoo komplett weglasern? Was wirklich möglich ist #Shorts",
    "published": "2026-11-22T18:30:14Z",
    "privacy": "public",
-   "views": 56,
+   "views": 57,
    "likes": 1,
    "comments": 1
   },
@@ -135,7 +144,7 @@
    "id": "JNxxc8zZxSU",
    "title": "Wie sieht die Medizin 2031 aus? #Shorts",
    "published": "2026-10-31T22:04:02Z",
-   "privacy": "public",
+   "privacy": "unlisted",
    "views": 56,
    "likes": 2,
    "comments": 0
@@ -162,7 +171,7 @@
    "id": "StpwTPaH4pA",
    "title": "Warum Laser nur das Ziel treffen – selektive Photothermolyse #Shorts",
    "published": "2026-11-09T11:32:14Z",
-   "privacy": "public",
+   "privacy": "unlisted",
    "views": 54,
    "likes": 3,
    "comments": 0
@@ -181,8 +190,17 @@
    "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
    "published": "2026-11-19T21:53:33Z",
    "privacy": "public",
-   "views": 50,
+   "views": 53,
    "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "wCZRdxnu4Oo",
+   "title": "Daumen nach Sturz gebrochen? Die 3 typischen Brüche #Shorts",
+   "published": "2026-11-24T18:30:31Z",
+   "privacy": "public",
+   "views": 50,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -195,20 +213,11 @@
    "comments": 1
   },
   {
-   "id": "dKObFQy8f44",
-   "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
-   "published": "2026-10-31T22:12:04Z",
-   "privacy": "public",
-   "views": 47,
-   "likes": 2,
-   "comments": 0
-  },
-  {
    "id": "IPd7zaj1AwU",
    "title": "Süßstoffe und Darmbakterien: Was 39 Süßstoffe im Labortest zeigten #Shorts",
    "published": "2026-11-24T09:30:34Z",
    "privacy": "public",
-   "views": 46,
+   "views": 48,
    "likes": 0,
    "comments": 1
   },
@@ -217,9 +226,27 @@
    "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
    "published": "2026-11-16T18:45:22Z",
    "privacy": "public",
-   "views": 45,
+   "views": 47,
    "likes": 0,
    "comments": 1
+  },
+  {
+   "id": "YlMH5Y6K9KI",
+   "title": "Kann Plaque in den Herzgefäßen schrumpfen? Neue Studie #Shorts",
+   "published": "2026-11-16T18:45:22Z",
+   "privacy": "public",
+   "views": 47,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "dKObFQy8f44",
+   "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
+   "published": "2026-10-31T22:12:04Z",
+   "privacy": "public",
+   "views": 47,
+   "likes": 2,
+   "comments": 0
   },
   {
    "id": "ptw2DPOgLiM",
@@ -237,6 +264,15 @@
    "privacy": "public",
    "views": 43,
    "likes": 2,
+   "comments": 1
+  },
+  {
+   "id": "zQo4XoxIOGQ",
+   "title": "Erfindet KI neue Medikamente? Nobelpreis und erste Studien #Shorts",
+   "published": "2026-11-22T12:30:17Z",
+   "privacy": "public",
+   "views": 42,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -276,12 +312,12 @@
    "comments": 1
   },
   {
-   "id": "zQo4XoxIOGQ",
-   "title": "Erfindet KI neue Medikamente? Nobelpreis und erste Studien #Shorts",
-   "published": "2026-11-22T12:30:17Z",
+   "id": "G4ZQIvhVa48",
+   "title": "Medizin 2031: Wie sieht der Arztbesuch in 5 Jahren aus? #Shorts",
+   "published": "2026-11-16T17:00:33Z",
    "privacy": "public",
-   "views": 39,
-   "likes": 1,
+   "views": 40,
+   "likes": 2,
    "comments": 1
   },
   {
@@ -294,21 +330,21 @@
    "comments": 0
   },
   {
-   "id": "CwgyZB6JXJ4",
-   "title": "Pigmentflecken weglasern? Was vorher und nachher wirklich zählt #Shorts",
-   "published": "2026-11-24T12:30:06Z",
-   "privacy": "public",
-   "views": 36,
-   "likes": 0,
-   "comments": 1
-  },
-  {
    "id": "miSHmAanHIw",
    "title": "„Zombiezellen“ entfernen? Wo die Senolytika-Forschung steht #Shorts",
    "published": "2026-11-16T02:10:52Z",
    "privacy": "public",
    "views": 36,
    "likes": 2,
+   "comments": 1
+  },
+  {
+   "id": "CwgyZB6JXJ4",
+   "title": "Pigmentflecken weglasern? Was vorher und nachher wirklich zählt #Shorts",
+   "published": "2026-11-24T12:30:06Z",
+   "privacy": "public",
+   "views": 35,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -321,6 +357,15 @@
    "comments": 0
   },
   {
+   "id": "V7BJTvhoVbQ",
+   "title": "Im Sommer nie lasern? Laser-Mythos im Check #Shorts",
+   "published": "2026-11-20T17:30:13Z",
+   "privacy": "public",
+   "views": 32,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "pcgk5kRVvWM",
    "title": "Erkennt KI Hautkrebs? Studie, Gerät und Apps im Check #Shorts",
    "published": "2026-11-02T06:31:34Z",
@@ -328,24 +373,6 @@
    "views": 32,
    "likes": 3,
    "comments": 0
-  },
-  {
-   "id": "wCZRdxnu4Oo",
-   "title": "Daumen nach Sturz gebrochen? Die 3 typischen Brüche #Shorts",
-   "published": "2026-11-24T18:30:31Z",
-   "privacy": "public",
-   "views": 30,
-   "likes": 0,
-   "comments": 1
-  },
-  {
-   "id": "V7BJTvhoVbQ",
-   "title": "Im Sommer nie lasern? Laser-Mythos im Check #Shorts",
-   "published": "2026-11-20T17:30:13Z",
-   "privacy": "public",
-   "views": 30,
-   "likes": 1,
-   "comments": 1
   },
   {
    "id": "JjxPYQ5GyqU",
@@ -357,6 +384,15 @@
    "comments": 0
   },
   {
+   "id": "lPKaNqOdtmU",
+   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
+   "published": "2026-11-19T17:00:11Z",
+   "privacy": "public",
+   "views": 29,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "EwAzIVuYBHQ",
    "title": "Erkennt KI Krebs im Gewebe? KI in der Pathologie #Shorts",
    "published": "2026-11-23T09:30:10Z",
@@ -366,11 +402,11 @@
    "comments": 1
   },
   {
-   "id": "lPKaNqOdtmU",
-   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
-   "published": "2026-11-19T17:00:11Z",
+   "id": "4jsI1Qryj88",
+   "title": "Bremst die Abnehmspritze das Altern? Was epigenetische Uhren zeigen #Shorts",
+   "published": "2026-11-23T15:30:22Z",
    "privacy": "public",
-   "views": 28,
+   "views": 24,
    "likes": 1,
    "comments": 1
   },
@@ -391,15 +427,6 @@
    "views": 23,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "4jsI1Qryj88",
-   "title": "Bremst die Abnehmspritze das Altern? Was epigenetische Uhren zeigen #Shorts",
-   "published": "2026-11-23T15:30:22Z",
-   "privacy": "public",
-   "views": 21,
-   "likes": 1,
-   "comments": 1
   },
   {
    "id": "iVfDYVimeVE",
@@ -429,6 +456,15 @@
    "comments": 0
   },
   {
+   "id": "E75VnT62-qo",
+   "title": "Alte Zellen wieder jung? Erste Gentherapie-Daten am Auge #Shorts",
+   "published": "2026-11-25T12:30:11Z",
+   "privacy": "public",
+   "views": 17,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "3rAK7ATHr7g",
    "title": "Augenlasern begann mit einem Truthahn #Shorts",
    "published": "2026-11-10T11:32:08Z",
@@ -447,12 +483,12 @@
    "comments": 1
   },
   {
-   "id": "wNSmHkzgLXw",
-   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
-   "published": "2026-11-17T18:45:30Z",
-   "privacy": "unlisted",
-   "views": 13,
-   "likes": 1,
+   "id": "lQs3hzp5OJo",
+   "title": "Zukunft der Medizin, Folge 2: Gen-Schere, Blutkrebs-KI, Stimme aus dem Gehirn | Medizin Aktuell",
+   "published": "2026-11-22T17:30:08Z",
+   "privacy": "public",
+   "views": 14,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -460,6 +496,15 @@
    "title": "Findet KI Brustkrebs früher? Zwei große Studien im Check #Shorts",
    "published": "2026-11-17T17:00:13Z",
    "privacy": "public",
+   "views": 14,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "wNSmHkzgLXw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-17T18:45:30Z",
+   "privacy": "unlisted",
    "views": 13,
    "likes": 1,
    "comments": 1
@@ -492,9 +537,9 @@
    "comments": 0
   },
   {
-   "id": "lQs3hzp5OJo",
-   "title": "Zukunft der Medizin, Folge 2: Gen-Schere, Blutkrebs-KI, Stimme aus dem Gehirn | Medizin Aktuell",
-   "published": "2026-11-22T17:30:08Z",
+   "id": "BODIZySgPuQ",
+   "title": "Grapefruit und Tabletten: Warum Abstand nicht hilft #Shorts",
+   "published": "2026-11-25T18:30:00Z",
    "privacy": "public",
    "views": 10,
    "likes": 0,
@@ -517,6 +562,15 @@
    "views": 10,
    "likes": 0,
    "comments": 0
+  },
+  {
+   "id": "qDkWvKV3SLg",
+   "title": "Verstecktes Kortison in Hautcremes: Was ein Labortest in 6 von 18 Cremes fand #Shorts",
+   "published": "2026-11-24T15:30:19Z",
+   "privacy": "public",
+   "views": 9,
+   "likes": 1,
+   "comments": 1
   },
   {
    "id": "lm3Q6RH9ZxM",
@@ -555,15 +609,6 @@
    "comments": 0
   },
   {
-   "id": "qDkWvKV3SLg",
-   "title": "Verstecktes Kortison in Hautcremes: Was ein Labortest in 6 von 18 Cremes fand #Shorts",
-   "published": "2026-11-24T15:30:19Z",
-   "privacy": "public",
-   "views": 6,
-   "likes": 1,
-   "comments": 1
-  },
-  {
    "id": "GcCJuGQyb2g",
    "title": "Ebola-Ausbruch in Afrika: Wie groß ist das Risiko für uns? (KW 45) #Shorts",
    "published": "2026-11-11T07:05:28Z",
@@ -573,6 +618,15 @@
    "comments": 0
   },
   {
+   "id": "VlAWTK_F2NM",
+   "title": "Warum trifft der Laser nur das Ziel? Selektive Photothermolyse erklärt #Shorts",
+   "published": "2026-11-25T15:30:34Z",
+   "privacy": "public",
+   "views": 3,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "lUkG7ZJ5Fos",
    "title": "Rotes Fleisch und Diabetes: Steckt ein Zucker dahinter? #Shorts",
    "published": "2026-11-12T17:03:01Z",
@@ -580,6 +634,15 @@
    "views": 2,
    "likes": 1,
    "comments": 0
+  },
+  {
+   "id": "4TMHKKdzEB4",
+   "title": "Medizin 2031: Was heute schon feststeht #Shorts",
+   "published": "2026-11-25T09:30:19Z",
+   "privacy": "public",
+   "views": 0,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "U1vJ6WeRjpA",
@@ -729,33 +792,6 @@
    "id": "k3CEM5J_imo",
    "title": "Erfindet KI Medikamente? Nobelpreis, AlphaFold und erste Studie #Shorts",
    "published": "2026-11-16T10:46:35Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "U6e5YCyaB90",
-   "title": "Wirken Heimgeräte wie Praxislaser? Laser-Mythen (4) #Shorts",
-   "published": "2026-11-16T10:46:31Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "-g9DwS8BXPU",
-   "title": "Was verrät ein EKG mit KI? Herzschwäche und Vorhofflimmern #Shorts",
-   "published": "2026-11-16T09:33:13Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "V-nj1mGzBIw",
-   "title": "Im Sommer nie lasern? Laser-Mythen im Check #Shorts",
-   "published": "2026-11-16T09:33:10Z",
    "privacy": "private",
    "views": 0,
    "likes": 0,
