@@ -46,6 +46,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Pomelo": "Pomelo", "Bitterorange": "Bitter-Orange", "Cholesterinsenker": "Cholesterin-Senker", "Wirkstoffe": "Wirk-Stoffe", "Wirkstoff": "Wirk-Stoff", "Mindestmenge": "Mindest-Menge", "Muskelschäden": "Muskel-Schäden", "Nierenversagen": "Nieren-Versagen", "Wechselwirkung": "Wechsel-Wirkung",
     # Neuauflage Nr. 23 Hyaluronsäure zum Trinken (26.11.2026)
     "Hyaluronsäure": "Hüalu-ron-säure", "Hautfeuchtigkeit": "Haut-Feuchtigkeit", "Hauttypen": "Haut-Typen", "Basispflege": "Basis-Pflege", "Sonnenschutz": "Sonnen-Schutz", "Unterarm": "Unter-Arm",
+    # Neuauflage Nr. 25 OP-Roboter (26.11.2026)
+    "OP-Robotern": "O-Pe-Robotern", "OP-Videos": "O-Pe-Videos", "Roboter-OP": "Roboter-O-Pe", "Gallenblasen": "Gallen-Blasen", "Gallenblase": "Gallen-Blase", "Forschungsroboter": "Forschungs-Roboter", "Baltimore": "Baltimor", "in 3D": "in drei-D", "Einzelschritte": "Einzel-Schritte",
 }
 
 
