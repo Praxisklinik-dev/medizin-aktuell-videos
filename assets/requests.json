@@ -946,5 +946,29 @@
   "query": "razor blade shaving",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "oprobo_roboter",
+  "query": "surgical robot da Vinci",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "oprobo_op",
+  "query": "operating room surgery laparoscopy",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "oprobo_ct",
+  "query": "CT scan 3D reconstruction",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "oprobo_arzt",
+  "query": "doctor patient consultation",
+  "kind": "photo",
+  "n": 10
  }
 ]
