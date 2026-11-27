@@ -1030,5 +1030,29 @@
   "query": "scientist pipette laboratory",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "kilaser_parlament",
+  "query": "European Parliament Strasbourg building",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kilaser_gesetz",
+  "query": "law books library",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kilaser_schloss",
+  "query": "padlock security",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "kilaser_computer",
+  "query": "doctor computer screen",
+  "kind": "photo",
+  "n": 10
  }
 ]
