@@ -1,0 +1,96 @@
+{
+ "query": "smartphone in hand",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Black_smartphone_in_hand_%28Unsplash%29.jpg/1920px-Black_smartphone_in_hand_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Dennis Cortés cortes",
+   "source": "https://commons.wikimedia.org/wiki/File:Black_smartphone_in_hand_(Unsplash).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Hand-smartphone-technology-calling.jpg/1920px-Hand-smartphone-technology-calling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Unknown authorUnknown author",
+   "source": "https://commons.wikimedia.org/wiki/File:Hand-smartphone-technology-calling.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Metro_passenger_hand_with_smartphone_February_2024_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Metro_passenger_hand_with_smartphone_February_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "HOWMKAM Tsez Taosp",
+   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Metro_passenger_hand_with_smartphone_February_2024_R12S_01.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/White_smartphone_%28photo%29_on_a_hand_adult.jpg/1920px-White_smartphone_%28photo%29_on_a_hand_adult.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "MerveillePédia",
+   "source": "https://commons.wikimedia.org/wiki/File:White_smartphone_(photo)_on_a_hand_adult.jpg",
+   "license": "CC BY-SA 3.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hands-coffee-smartphone-technology_%2823698591814%29.jpg/1920px-Hands-coffee-smartphone-technology_%2823698591814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "www.Pixel.la Free Stock Photos",
+   "source": "https://commons.wikimedia.org/wiki/File:Hands-coffee-smartphone-technology_(23698591814).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Smartphone_Use.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Océanos y dados",
+   "source": "https://commons.wikimedia.org/wiki/File:Smartphone_Use.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Smartphone-mobile-hand-technology-internet-finger.jpg/1920px-Smartphone-mobile-hand-technology-internet-finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Unknown authorUnknown author",
+   "source": "https://commons.wikimedia.org/wiki/File:Smartphone-mobile-hand-technology-internet-finger.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Hand_holding_Smartphone.jpg/1920px-Hand_holding_Smartphone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Mictlancihuatl",
+   "source": "https://commons.wikimedia.org/wiki/File:Hand_holding_Smartphone.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Smartphone_in_Hand_%28Unsplash%29.jpg/1920px-Smartphone_in_Hand_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "NeONBRAND neonbrand",
+   "source": "https://commons.wikimedia.org/wiki/File:Smartphone_in_Hand_(Unsplash).jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Business_and_technology_concept_hand_holding_smartphone_and_search_bar_%2852917310335%29.jpg/1920px-Business_and_technology_concept_hand_holding_smartphone_and_search_bar_%2852917310335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Jernej Furman from Slovenia",
+   "source": "https://commons.wikimedia.org/wiki/File:Business_and_technology_concept_hand_holding_smartphone_and_search_bar_(52917310335).jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  }
+ ]
+}
