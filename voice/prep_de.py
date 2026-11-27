@@ -54,6 +54,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Baby KJ": "Bäibi Ka-Jot", "KJ": "Ka-Jot", "Philadelphia": "Filadelfia", "Neugeborenen-Screening": "Neugeborenen-Skrining", "Zielsequenz": "Ziel-Sequenz", "Leitlinienentwurf": "Leitlinien-Entwurf", "Stoffwechselstörung": "Stoffwechsel-Störung", "Langzeitdaten": "Langzeit-Daten",
     # Neuauflage Nr. 28 KI am Laser (27.11.2026)
     "CE-Kennzeichnung": "Ze-E-Kennzeichnung", "Hautfotos": "Haut-Fotos", "Medizinprodukten": "Medizin-Produkten", "Medizinprodukt": "Medizin-Produkt", "Hochrisiko": "Hoch-Risiko", "Gesundheitsdaten": "Gesundheits-Daten", "Strahlenschutz": "Strahlen-Schutz", "Laser-Einstellung": "Laser-Einstellung",
+    # Neuauflage Nr. 29 Faustschlag-Wunde (27.11.2026)
+    "Boxhiebverletzung": "Boxhieb-Verletzung", "Fingergrundgelenk": "Finger-Grundgelenk", "Fingerendglied": "Finger-Endglied", "Gelenkinfektion": "Gelenk-Infektion", "Strecksehnen": "Streck-Sehnen", "Strecksehne": "Streck-Sehne",
 }
 
 
