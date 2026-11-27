@@ -48,6 +48,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Hyaluronsäure": "Hüalu-ron-säure", "Hautfeuchtigkeit": "Haut-Feuchtigkeit", "Hauttypen": "Haut-Typen", "Basispflege": "Basis-Pflege", "Sonnenschutz": "Sonnen-Schutz", "Unterarm": "Unter-Arm",
     # Neuauflage Nr. 25 OP-Roboter (26.11.2026)
     "OP-Robotern": "O-Pe-Robotern", "OP-Videos": "O-Pe-Videos", "Roboter-OP": "Roboter-O-Pe", "Gallenblasen": "Gallen-Blasen", "Gallenblase": "Gallen-Blase", "Forschungsroboter": "Forschungs-Roboter", "Baltimore": "Baltimor", "in 3D": "in drei-D", "Einzelschritte": "Einzel-Schritte",
+    # Neuauflage Nr. 26 ChatGPT und Symptome (27.11.2026)
+    "ChatGPT": "Tschätt-Dschi-Pi-Ti", "OpenAI": "Open-Ei-Ei", "Chatbots": "Tschätt-Bots", "Chatbot": "Tschätt-Bot", "Oxford-Studie": "Oxford-Studie", "Arztbrief": "Arzt-Brief", "Arztgespräch": "Arzt-Gespräch", "Arzttermin": "Arzt-Termin", "Lähmungen": "Lähmungen",
 }
 
 

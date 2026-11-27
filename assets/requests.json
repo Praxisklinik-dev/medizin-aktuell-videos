@@ -970,5 +970,29 @@
   "query": "doctor patient consultation",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "chatbot_handy",
+  "query": "smartphone in hand",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "chatbot_laptop",
+  "query": "person typing on laptop",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "chatbot_notaufnahme",
+  "query": "hospital emergency department",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "chatbot_arzt",
+  "query": "doctor patient consultation",
+  "kind": "photo",
+  "n": 10
  }
 ]
