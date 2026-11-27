@@ -1078,5 +1078,29 @@
   "query": "doctor examining patient hand",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "faustbiss_knoechel",
+  "query": "fist knuckles close-up",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "faustbiss_sehnen",
+  "query": "extensor tendons hand anatomy Gray",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "faustbiss_roentgen",
+  "query": "hand radiograph x-ray",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "faustbiss_verband",
+  "query": "bandaged hand",
+  "kind": "photo",
+  "n": 12
  }
 ]
