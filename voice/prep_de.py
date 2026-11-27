@@ -52,6 +52,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "ChatGPT": "Tschätt-Dschi-Pi-Ti", "OpenAI": "Open-Ei-Ei", "Chatbots": "Tschätt-Bots", "Chatbot": "Tschätt-Bot", "Oxford-Studie": "Oxford-Studie", "Arztbrief": "Arzt-Brief", "Arztgespräch": "Arzt-Gespräch", "Arzttermin": "Arzt-Termin", "Lähmungen": "Lähmungen",
     # Neuauflage Nr. 27 Baby KJ / Gen-Schere (27.11.2026)
     "Baby KJ": "Bäibi Ka-Jot", "KJ": "Ka-Jot", "Philadelphia": "Filadelfia", "Neugeborenen-Screening": "Neugeborenen-Skrining", "Zielsequenz": "Ziel-Sequenz", "Leitlinienentwurf": "Leitlinien-Entwurf", "Stoffwechselstörung": "Stoffwechsel-Störung", "Langzeitdaten": "Langzeit-Daten",
+    # Neuauflage Nr. 28 KI am Laser (27.11.2026)
+    "CE-Kennzeichnung": "Ze-E-Kennzeichnung", "Hautfotos": "Haut-Fotos", "Medizinprodukten": "Medizin-Produkten", "Medizinprodukt": "Medizin-Produkt", "Hochrisiko": "Hoch-Risiko", "Gesundheitsdaten": "Gesundheits-Daten", "Strahlenschutz": "Strahlen-Schutz", "Laser-Einstellung": "Laser-Einstellung",
 }
 
 
