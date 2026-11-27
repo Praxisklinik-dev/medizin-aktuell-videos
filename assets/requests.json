@@ -1054,5 +1054,29 @@
   "query": "doctor computer screen",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "faustbiss_faust",
+  "query": "clenched fist hand",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "faustbiss_anatomie",
+  "query": "Gray's anatomy hand tendons dorsum",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "faustbiss_zaehne",
+  "query": "human teeth close up",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "faustbiss_arzt",
+  "query": "doctor examining patient hand",
+  "kind": "photo",
+  "n": 10
  }
 ]
