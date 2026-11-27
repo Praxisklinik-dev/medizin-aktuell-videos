@@ -994,5 +994,29 @@
   "query": "doctor patient consultation",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "babykj_dna",
+  "query": "DNA double helix model",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "babykj_neugeborenes",
+  "query": "newborn baby hospital",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "babykj_labor",
+  "query": "laboratory pipette genetics research",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "babykj_kinderklinik",
+  "query": "pediatric hospital ward",
+  "kind": "photo",
+  "n": 10
  }
 ]
