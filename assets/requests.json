@@ -1018,5 +1018,17 @@
   "query": "pediatric hospital ward",
   "kind": "photo",
   "n": 10
+ },
+ {
+  "key": "babykj_babyfuss",
+  "query": "baby feet",
+  "kind": "photo",
+  "n": 10
+ },
+ {
+  "key": "babykj_labor2",
+  "query": "scientist pipette laboratory",
+  "kind": "photo",
+  "n": 10
  }
 ]
