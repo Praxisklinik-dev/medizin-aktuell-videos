@@ -50,6 +50,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "OP-Robotern": "O-Pe-Robotern", "OP-Videos": "O-Pe-Videos", "Roboter-OP": "Roboter-O-Pe", "Gallenblasen": "Gallen-Blasen", "Gallenblase": "Gallen-Blase", "Forschungsroboter": "Forschungs-Roboter", "Baltimore": "Baltimor", "in 3D": "in drei-D", "Einzelschritte": "Einzel-Schritte",
     # Neuauflage Nr. 26 ChatGPT und Symptome (27.11.2026)
     "ChatGPT": "Tschätt-Dschi-Pi-Ti", "OpenAI": "Open-Ei-Ei", "Chatbots": "Tschätt-Bots", "Chatbot": "Tschätt-Bot", "Oxford-Studie": "Oxford-Studie", "Arztbrief": "Arzt-Brief", "Arztgespräch": "Arzt-Gespräch", "Arzttermin": "Arzt-Termin", "Lähmungen": "Lähmungen",
+    # Neuauflage Nr. 27 Baby KJ / Gen-Schere (27.11.2026)
+    "Baby KJ": "Bäibi Ka-Jot", "KJ": "Ka-Jot", "Philadelphia": "Filadelfia", "Neugeborenen-Screening": "Neugeborenen-Skrining", "Zielsequenz": "Ziel-Sequenz", "Leitlinienentwurf": "Leitlinien-Entwurf", "Stoffwechselstörung": "Stoffwechsel-Störung", "Langzeitdaten": "Langzeit-Daten",
 }
 
 
