@@ -1126,5 +1126,29 @@
   "query": "resistance band exercise",
   "kind": "photo",
   "n": 12
+ },
+ {
+  "key": "altern_gehen",
+  "query": "senior walking park",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "altern_denken",
+  "query": "elderly man reading book",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "altern_gemeinsam",
+  "query": "seniors friends laughing together",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "altern_tanz",
+  "query": "elderly couple dancing",
+  "kind": "photo",
+  "n": 12
  }
 ]
