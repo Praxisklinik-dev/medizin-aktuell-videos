@@ -58,6 +58,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Boxhiebverletzung": "Boxhieb-Verletzung", "Fingergrundgelenk": "Finger-Grundgelenk", "Fingerendglied": "Finger-Endglied", "Gelenkinfektion": "Gelenk-Infektion", "Strecksehnen": "Streck-Sehnen", "Strecksehne": "Streck-Sehne",
     # Neuauflage Nr. 30 Krafttraining 90 Minuten (28.11.2026)
     "Krafttraining": "Kraft-Training", "Sterberisiko": "Sterbe-Risiko", "Beobachtungsstudie": "Beobachtungs-Studie", "Vorerkrankungen": "Vor-Erkrankungen",
+    # Neuauflage Nr. 31 Älter werden ohne Abbau (28.11.2026)
+    "Yale-Universität": "Jeil-Universität", "Gehgeschwindigkeit": "Geh-Geschwindigkeit", "Ausgangswerten": "Ausgangs-Werten", "Älterwerden": "Älter-werden",
 }
 
 
