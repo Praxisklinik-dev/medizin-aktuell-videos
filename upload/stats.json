@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-27T07:28Z",
+ "stand": "2026-11-28T07:22Z",
  "kanal": "Medizin Aktuell ",
  "abonnenten": 5,
- "aufrufe_gesamt": 2117,
- "videos_gesamt": 59,
+ "aufrufe_gesamt": 2135,
+ "videos_gesamt": 61,
  "videos": [
   {
    "id": "nishehCx2pA",
@@ -37,7 +37,7 @@
    "title": "Was verrät ein EKG mit KI? Herzschwäche & Vorhofflimmern #Shorts",
    "published": "2026-11-21T12:30:02Z",
    "privacy": "public",
-   "views": 114,
+   "views": 115,
    "likes": 1,
    "comments": 1
   },
@@ -46,7 +46,7 @@
    "title": "Hyaluronsäure trinken für schönere Haut? Was die Placebo-Studie wirklich zeigt #Shorts",
    "published": "2026-11-26T12:30:05Z",
    "privacy": "public",
-   "views": 111,
+   "views": 112,
    "likes": 1,
    "comments": 1
   },
@@ -58,15 +58,6 @@
    "views": 108,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "h7SFv1Ay0TM",
-   "title": "Mythos-Check: Helfen Antibiotika gegen Erkältung? #Shorts",
-   "published": "2026-11-16T11:30:09Z",
-   "privacy": "unlisted",
-   "views": 97,
-   "likes": 3,
-   "comments": 1
   },
   {
    "id": "h7SFv1Ay0TM",
@@ -105,6 +96,15 @@
    "comments": 0
   },
   {
+   "id": "Ul9nHSa-kro",
+   "title": "Findet KI mehr Polypen? Darmspiegelung und die Kehrseite #Shorts",
+   "published": "2026-11-23T12:30:12Z",
+   "privacy": "public",
+   "views": 80,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "o5End1h8vT0",
    "title": "Bremst Semaglutid das Altern? Was epigenetische Uhren zeigen #Shorts",
    "published": "2026-11-14T10:13:59Z",
@@ -112,15 +112,6 @@
    "views": 80,
    "likes": 0,
    "comments": 0
-  },
-  {
-   "id": "Ul9nHSa-kro",
-   "title": "Findet KI mehr Polypen? Darmspiegelung und die Kehrseite #Shorts",
-   "published": "2026-11-23T12:30:12Z",
-   "privacy": "public",
-   "views": 78,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "p0JaOuVv9hk",
@@ -154,7 +145,7 @@
    "title": "Tattoo komplett weglasern? Was wirklich möglich ist #Shorts",
    "published": "2026-11-22T18:30:14Z",
    "privacy": "public",
-   "views": 57,
+   "views": 58,
    "likes": 1,
    "comments": 1
   },
@@ -163,8 +154,17 @@
    "title": "Mythos-Check: Hilft ein Antibiotikum gegen Erkältung? #Shorts",
    "published": "2026-11-22T15:30:34Z",
    "privacy": "public",
-   "views": 56,
+   "views": 57,
    "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "wCZRdxnu4Oo",
+   "title": "Daumen nach Sturz gebrochen? Die 3 typischen Brüche #Shorts",
+   "published": "2026-11-24T18:30:31Z",
+   "privacy": "public",
+   "views": 56,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -181,8 +181,17 @@
    "title": "Laser-Heimgerät so gut wie die Praxis? Laser-Mythen (4) #Shorts",
    "published": "2026-11-21T18:30:19Z",
    "privacy": "public",
-   "views": 54,
+   "views": 55,
    "likes": 2,
+   "comments": 1
+  },
+  {
+   "id": "soQgBKySNzw",
+   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
+   "published": "2026-11-19T21:53:33Z",
+   "privacy": "public",
+   "views": 54,
+   "likes": 1,
    "comments": 1
   },
   {
@@ -202,24 +211,6 @@
    "views": 54,
    "likes": 3,
    "comments": 0
-  },
-  {
-   "id": "soQgBKySNzw",
-   "title": "Lp(a)-Wert: Der unbekannte Herz-Risikofaktor #Shorts",
-   "published": "2026-11-19T21:53:33Z",
-   "privacy": "public",
-   "views": 53,
-   "likes": 1,
-   "comments": 1
-  },
-  {
-   "id": "wCZRdxnu4Oo",
-   "title": "Daumen nach Sturz gebrochen? Die 3 typischen Brüche #Shorts",
-   "published": "2026-11-24T18:30:31Z",
-   "privacy": "public",
-   "views": 52,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "XcGzufP_C5Y",
@@ -279,10 +270,37 @@
    "id": "dKObFQy8f44",
    "title": "Darf ich ChatGPT nach Symptomen fragen? #Shorts",
    "published": "2026-10-31T22:12:04Z",
-   "privacy": "public",
+   "privacy": "unlisted",
    "views": 47,
    "likes": 2,
    "comments": 0
+  },
+  {
+   "id": "E75VnT62-qo",
+   "title": "Alte Zellen wieder jung? Erste Gentherapie-Daten am Auge #Shorts",
+   "published": "2026-11-25T12:30:11Z",
+   "privacy": "public",
+   "views": 44,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "fqZV7TlgTwQ",
+   "title": "Faustschlag gegen Zähne: Warum die kleine Wunde gefährlich ist #Shorts",
+   "published": "2026-11-27T18:30:25Z",
+   "privacy": "public",
+   "views": 43,
+   "likes": 0,
+   "comments": 1
+  },
+  {
+   "id": "4Oey1JvGgc4",
+   "title": "Verursacht Laser Krebs? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-19T11:30:39Z",
+   "privacy": "public",
+   "views": 43,
+   "likes": 2,
+   "comments": 1
   },
   {
    "id": "4Oey1JvGgc4",
@@ -342,7 +360,7 @@
    "id": "OsKvbOD_8cI",
    "title": "KI am Laser: Welche Regeln gelten? #Shorts",
    "published": "2026-11-16T02:10:43Z",
-   "privacy": "public",
+   "privacy": "unlisted",
    "views": 41,
    "likes": 0,
    "comments": 1
@@ -393,6 +411,24 @@
    "comments": 1
   },
   {
+   "id": "lPKaNqOdtmU",
+   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
+   "published": "2026-11-19T17:00:11Z",
+   "privacy": "public",
+   "views": 32,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "lPKaNqOdtmU",
+   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
+   "published": "2026-11-19T17:00:11Z",
+   "privacy": "public",
+   "views": 32,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "pcgk5kRVvWM",
    "title": "Erkennt KI Hautkrebs? Studie, Gerät und Apps im Check #Shorts",
    "published": "2026-11-02T06:31:34Z",
@@ -402,6 +438,15 @@
    "comments": 0
   },
   {
+   "id": "4Nukwn3XuUA",
+   "title": "Operiert bald ein Roboter allein? Was KI im OP heute kann #Shorts",
+   "published": "2026-11-26T18:30:16Z",
+   "privacy": "public",
+   "views": 30,
+   "likes": 1,
+   "comments": 1
+  },
+  {
    "id": "JjxPYQ5GyqU",
    "title": "Der erste Lasereingriff am Menschen – New York 1961 #Shorts",
    "published": "2026-11-08T11:31:49Z",
@@ -409,24 +454,6 @@
    "views": 30,
    "likes": 2,
    "comments": 0
-  },
-  {
-   "id": "E75VnT62-qo",
-   "title": "Alte Zellen wieder jung? Erste Gentherapie-Daten am Auge #Shorts",
-   "published": "2026-11-25T12:30:11Z",
-   "privacy": "public",
-   "views": 29,
-   "likes": 1,
-   "comments": 1
-  },
-  {
-   "id": "lPKaNqOdtmU",
-   "title": "KI schreibt mit: Was bringen KI-Notizen in der Arztpraxis? #Shorts",
-   "published": "2026-11-19T17:00:11Z",
-   "privacy": "public",
-   "views": 29,
-   "likes": 1,
-   "comments": 1
   },
   {
    "id": "EwAzIVuYBHQ",
@@ -474,15 +501,6 @@
    "comments": 0
   },
   {
-   "id": "4Nukwn3XuUA",
-   "title": "Operiert bald ein Roboter allein? Was KI im OP heute kann #Shorts",
-   "published": "2026-11-26T18:30:16Z",
-   "privacy": "public",
-   "views": 21,
-   "likes": 1,
-   "comments": 1
-  },
-  {
    "id": "iVfDYVimeVE",
    "title": "Was verrät ein EKG mit KI? #Shorts",
    "published": "2026-10-31T22:15:52Z",
@@ -510,6 +528,15 @@
    "comments": 0
   },
   {
+   "id": "lQs3hzp5OJo",
+   "title": "Zukunft der Medizin, Folge 2: Gen-Schere, Blutkrebs-KI, Stimme aus dem Gehirn | Medizin Aktuell",
+   "published": "2026-11-22T17:30:08Z",
+   "privacy": "public",
+   "views": 17,
+   "likes": 0,
+   "comments": 1
+  },
+  {
    "id": "3rAK7ATHr7g",
    "title": "Augenlasern begann mit einem Truthahn #Shorts",
    "published": "2026-11-10T11:32:08Z",
@@ -517,15 +544,6 @@
    "views": 17,
    "likes": 1,
    "comments": 0
-  },
-  {
-   "id": "lQs3hzp5OJo",
-   "title": "Zukunft der Medizin, Folge 2: Gen-Schere, Blutkrebs-KI, Stimme aus dem Gehirn | Medizin Aktuell",
-   "published": "2026-11-22T17:30:08Z",
-   "privacy": "public",
-   "views": 15,
-   "likes": 0,
-   "comments": 1
   },
   {
    "id": "otOew-XiRHs",
@@ -552,6 +570,15 @@
    "privacy": "public",
    "views": 15,
    "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "2KWlIXKsgMI",
+   "title": "Gen-Schere für ein einziges Kind: Was der Fall Baby KJ zeigt #Shorts",
+   "published": "2026-11-27T12:30:08Z",
+   "privacy": "public",
+   "views": 14,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -595,7 +622,16 @@
    "title": "Grapefruit und Tabletten: Warum Abstand nicht hilft #Shorts",
    "published": "2026-11-25T18:30:00Z",
    "privacy": "public",
-   "views": 11,
+   "views": 12,
+   "likes": 1,
+   "comments": 1
+  },
+  {
+   "id": "qDkWvKV3SLg",
+   "title": "Verstecktes Kortison in Hautcremes: Was ein Labortest in 6 von 18 Cremes fand #Shorts",
+   "published": "2026-11-24T15:30:19Z",
+   "privacy": "public",
+   "views": 12,
    "likes": 1,
    "comments": 1
   },
@@ -609,12 +645,12 @@
    "comments": 0
   },
   {
-   "id": "qDkWvKV3SLg",
-   "title": "Verstecktes Kortison in Hautcremes: Was ein Labortest in 6 von 18 Cremes fand #Shorts",
-   "published": "2026-11-24T15:30:19Z",
+   "id": "waTSYVtvsLI",
+   "title": "ChatGPT als Arzt? Was Chatbots bei Gesundheitsfragen können #Shorts",
+   "published": "2026-11-18T17:00:27Z",
    "privacy": "public",
    "views": 10,
-   "likes": 1,
+   "likes": 0,
    "comments": 1
   },
   {
@@ -658,16 +694,25 @@
    "title": "Ärzte ohne Grenzen: Mitarbeiten oder helfen – auch aus Aachen? #Shorts",
    "published": "2026-11-05T23:41:01Z",
    "privacy": "public",
-   "views": 8,
+   "views": 9,
    "likes": 0,
    "comments": 0
+  },
+  {
+   "id": "pUnuLpzMxvI",
+   "title": "Darf ich ChatGPT nach Symptomen fragen? Was eine Oxford-Studie zeigt #Shorts",
+   "published": "2026-11-27T09:30:22Z",
+   "privacy": "public",
+   "views": 8,
+   "likes": 1,
+   "comments": 1
   },
   {
    "id": "vaPjGQy5d1U",
    "title": "Plasma tauschen gegen das Altern? Was die erste Placebo-Studie zeigt #Shorts",
    "published": "2026-11-26T09:30:11Z",
    "privacy": "public",
-   "views": 7,
+   "views": 8,
    "likes": 1,
    "comments": 1
   },
@@ -685,7 +730,7 @@
    "title": "Warum trifft der Laser nur das Ziel? Selektive Photothermolyse erklärt #Shorts",
    "published": "2026-11-25T15:30:34Z",
    "privacy": "public",
-   "views": 4,
+   "views": 5,
    "likes": 1,
    "comments": 1
   },
@@ -697,6 +742,15 @@
    "views": 4,
    "likes": 0,
    "comments": 0
+  },
+  {
+   "id": "dgiZXMRXwHk",
+   "title": "KI am Laser: Wer haftet, wenn die KI irrt? Regeln 2026 #Shorts",
+   "published": "2026-11-27T15:30:08Z",
+   "privacy": "public",
+   "views": 2,
+   "likes": 0,
+   "comments": 1
   },
   {
    "id": "4TMHKKdzEB4",
@@ -807,27 +861,9 @@
    "comments": 0
   },
   {
-   "id": "id0eW4D8J_o",
-   "title": "Zell-Verjüngung am Auge: erste Daten zur Gentherapie ER-100 #Shorts",
-   "published": "2026-11-16T11:50:40Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "ONl8B0ggF84",
-   "title": "Daumen gebrochen? Bennett, Rolando, Winterstein #Shorts",
-   "published": "2026-11-16T11:50:37Z",
-   "privacy": "private",
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "1v0s-Oyyl2E",
-   "title": "Pigmentflecken lasern: Vorbereitung, Nachpflege, Vitamin C 30 % #Shorts",
-   "published": "2026-11-16T10:46:52Z",
+   "id": "V-nj1mGzBIw",
+   "title": "Im Sommer nie lasern? Laser-Mythen im Check #Shorts",
+   "published": "2026-11-16T09:33:10Z",
    "privacy": "private",
    "views": 0,
    "likes": 0,
