@@ -1150,5 +1150,29 @@
   "query": "elderly couple dancing",
   "kind": "photo",
   "n": 12
+ },
+ {
+  "key": "retaknie_knie",
+  "query": "knee pain senior",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "retaknie_physio",
+  "query": "physical therapy knee exercise",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "retaknie_waage",
+  "query": "bathroom scale weight",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "retaknie_treppe",
+  "query": "walking stairs legs",
+  "kind": "photo",
+  "n": 12
  }
 ]
