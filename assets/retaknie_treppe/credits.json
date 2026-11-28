@@ -1,0 +1,42 @@
+{
+ "query": "walking stairs legs",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%E7%99%BD%E9%9B%AA%E6%A5%BC_%2813982945607%29.jpg/1920px-%E7%99%BD%E9%9B%AA%E6%A5%BC_%2813982945607%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Cheng-en Cheng",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%99%BD%E9%9B%AA%E6%A5%BC_(13982945607).jpg",
+   "license": "CC BY-SA 2.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Flickr_-_The_U.S._Army_-_Patient_at_Walter_Reed_test_next-generation_prosthesis.jpg/1920px-Flickr_-_The_U.S._Army_-_Patient_at_Walter_Reed_test_next-generation_prosthesis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "The U.S. Army",
+   "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_The_U.S._Army_-_Patient_at_Walter_Reed_test_next-generation_prosthesis.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Le_Moniteur_de_la_Mode%2C_1893%2C_Nr._2907%2C_No._33_Toilettes_de_Mad.e_benoit%2C_RP-P-2009-3753.jpg/1920px-Le_Moniteur_de_la_Mode%2C_1893%2C_Nr._2907%2C_No._33_Toilettes_de_Mad.e_benoit%2C_RP-P-2009-3753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Rijksmuseum",
+   "source": "https://commons.wikimedia.org/wiki/File:Le_Moniteur_de_la_Mode,_1893,_Nr._2907,_No._33_Toilettes_de_Mad.e_benoit,_RP-P-2009-3753.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ford_A9628_NLGRF_photo_contact_sheet_%281976-05-02%29%28Gerald_Ford_Library%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "White House Photographic Office (WHPO) - Thomas",
+   "source": "https://commons.wikimedia.org/wiki/File:Ford_A9628_NLGRF_photo_contact_sheet_(1976-05-02)(Gerald_Ford_Library).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}

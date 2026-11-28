@@ -1,0 +1,51 @@
+{
+ "query": "physical therapy knee exercise",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Physical_therapy_clinic_receives_new_equipment_130103-F-ES880-430.jpg/1920px-Physical_therapy_clinic_receives_new_equipment_130103-F-ES880-430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Staff Sgt. Stephenie Wade",
+   "source": "https://commons.wikimedia.org/wiki/File:Physical_therapy_clinic_receives_new_equipment_130103-F-ES880-430.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/C16_Chinese_woodcut%3B_Daoyin_technique_for_%27Yellow_swelling%27_Wellcome_L0039761.jpg/1920px-C16_Chinese_woodcut%3B_Daoyin_technique_for_%27Yellow_swelling%27_Wellcome_L0039761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:C16_Chinese_woodcut;_Daoyin_technique_for_%27Yellow_swelling%27_Wellcome_L0039761.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/C16_Chinese_woodcut%3B_Daoyin_technique_for_cholera_Wellcome_L0039765.jpg/1920px-C16_Chinese_woodcut%3B_Daoyin_technique_for_cholera_Wellcome_L0039765.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:C16_Chinese_woodcut;_Daoyin_technique_for_cholera_Wellcome_L0039765.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Amputee_continues_to_lead_Marines_at_School_of_Infantry_130715-M-OM885-021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Cpl. Joseph Scanlan",
+   "source": "https://commons.wikimedia.org/wiki/File:Amputee_continues_to_lead_Marines_at_School_of_Infantry_130715-M-OM885-021.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Amputee_continues_to_lead_Marines_at_School_of_Infantry_130715-M-OM885-015.jpg/1920px-Amputee_continues_to_lead_Marines_at_School_of_Infantry_130715-M-OM885-015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Cpl. Joseph Scanlan",
+   "source": "https://commons.wikimedia.org/wiki/File:Amputee_continues_to_lead_Marines_at_School_of_Infantry_130715-M-OM885-015.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "05.jpg"
+  }
+ ]
+}

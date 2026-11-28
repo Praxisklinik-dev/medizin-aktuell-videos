@@ -1,0 +1,24 @@
+{
+ "query": "knee pain senior",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/149th_Med_Group_MFAT_%288541550%29.jpg/1920px-149th_Med_Group_MFAT_%288541550%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "U.S. Air National Guard photo by Senior Airman Derek Gutierrez",
+   "source": "https://commons.wikimedia.org/wiki/File:149th_Med_Group_MFAT_(8541550).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/TheFamilyDoctorFeb23_1889page406_407.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "unbekannt",
+   "source": "https://commons.wikimedia.org/wiki/File:TheFamilyDoctorFeb23_1889page406_407.png",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "02.jpg"
+  }
+ ]
+}
