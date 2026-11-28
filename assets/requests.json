@@ -1102,5 +1102,29 @@
   "query": "bandaged hand",
   "kind": "photo",
   "n": 12
+ },
+ {
+  "key": "krafttraining_hantel",
+  "query": "dumbbell weight training",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "krafttraining_aelter",
+  "query": "senior exercise weights",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "krafttraining_laufen",
+  "query": "jogging running outdoor",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "krafttraining_band",
+  "query": "resistance band exercise",
+  "kind": "photo",
+  "n": 12
  }
 ]
