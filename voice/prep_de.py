@@ -56,6 +56,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "CE-Kennzeichnung": "Ze-E-Kennzeichnung", "Hautfotos": "Haut-Fotos", "Medizinprodukten": "Medizin-Produkten", "Medizinprodukt": "Medizin-Produkt", "Hochrisiko": "Hoch-Risiko", "Gesundheitsdaten": "Gesundheits-Daten", "Strahlenschutz": "Strahlen-Schutz", "Laser-Einstellung": "Laser-Einstellung",
     # Neuauflage Nr. 29 Faustschlag-Wunde (27.11.2026)
     "Boxhiebverletzung": "Boxhieb-Verletzung", "Fingergrundgelenk": "Finger-Grundgelenk", "Fingerendglied": "Finger-Endglied", "Gelenkinfektion": "Gelenk-Infektion", "Strecksehnen": "Streck-Sehnen", "Strecksehne": "Streck-Sehne",
+    # Neuauflage Nr. 30 Krafttraining 90 Minuten (28.11.2026)
+    "Krafttraining": "Kraft-Training", "Sterberisiko": "Sterbe-Risiko", "Beobachtungsstudie": "Beobachtungs-Studie", "Vorerkrankungen": "Vor-Erkrankungen",
 }
 
 
