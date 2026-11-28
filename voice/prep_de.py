@@ -60,6 +60,8 @@ LEX = {  # Schreibung -> Aussprache (Lautschrift, die das Modell richtig spricht
     "Krafttraining": "Kraft-Training", "Sterberisiko": "Sterbe-Risiko", "Beobachtungsstudie": "Beobachtungs-Studie", "Vorerkrankungen": "Vor-Erkrankungen",
     # Neuauflage Nr. 31 Älter werden ohne Abbau (28.11.2026)
     "Yale-Universität": "Jeil-Universität", "Gehgeschwindigkeit": "Geh-Geschwindigkeit", "Ausgangswerten": "Ausgangs-Werten", "Älterwerden": "Älter-werden",
+    # Neuauflage Nr. 32 Retatrutid bei Kniearthrose (28.11.2026)
+    "Kniearthrose": "Knie-Arthrose", "Bewegungstherapie": "Bewegungs-Therapie",
 }
 
 
