@@ -1,0 +1,42 @@
+{
+ "query": "data analysis screen",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Loggly_%28Anomaly_detection_screen%2C_2016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Loggly-inc",
+   "source": "https://commons.wikimedia.org/wiki/File:Loggly_(Anomaly_detection_screen,_2016).jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Image_Data_Resource_-_idr0002_-_179754.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Jean-Karim Heriche",
+   "source": "https://commons.wikimedia.org/wiki/File:Image_Data_Resource_-_idr0002_-_179754.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Image_Data_Resource_-_idr0009_-_1313778.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Jeremy Simpson",
+   "source": "https://commons.wikimedia.org/wiki/File:Image_Data_Resource_-_idr0009_-_1313778.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Image_Data_Resource_-_idr0035_-_3414398.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "The images and ground truth are copyright AstraZeneca Pharmaceuticals.",
+   "source": "https://commons.wikimedia.org/wiki/File:Image_Data_Resource_-_idr0035_-_3414398.jpg",
+   "license": "CC BY 4.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  }
+ ]
+}

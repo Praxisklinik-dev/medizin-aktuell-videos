@@ -1,0 +1,114 @@
+{
+ "query": "hospital intensive care monitor",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Pittigrilli",
+   "source": "https://commons.wikimedia.org/wiki/File:Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Patient_lying_in_bed_in_intensive_care_unit_of_hospital_with_apparatuses_and_hemodialysis_machine.jpg/1920px-Patient_lying_in_bed_in_intensive_care_unit_of_hospital_with_apparatuses_and_hemodialysis_machine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Pittigrilli",
+   "source": "https://commons.wikimedia.org/wiki/File:Patient_lying_in_bed_in_intensive_care_unit_of_hospital_with_apparatuses_and_hemodialysis_machine.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/US_Navy_030423-N-6967M-090_A_central_computer_system_monitors_the_heart_rates_of_each_patient_in_the_Intensive_Care_Unit_%28ICU%29_to_ensure_a_quick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "U.S. Navy photo by Photographer's Mate 1st Class Shane T. McCoy.",
+   "source": "https://commons.wikimedia.org/wiki/File:US_Navy_030423-N-6967M-090_A_central_computer_system_monitors_the_heart_rates_of_each_patient_in_the_Intensive_Care_Unit_(ICU)_to_ensure_a_quick.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/US_Navy_060607-N-9437R-297_A_U.S._Navy_nurse%2C_Lt._Tara_Collins%2C_shows_local_Jolo_healthcare_providers_a_new_Intensive_Care_Unit_patient_monitoring_system_on_board_the_U.S._Military_Sealift_Command_%28MSC%29_Hospital_ship_USNS_Mercy.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "U.S. Navy photo by Chief Journalist Stephen K. Robinson",
+   "source": "https://commons.wikimedia.org/wiki/File:US_Navy_060607-N-9437R-297_A_U.S._Navy_nurse,_Lt._Tara_Collins,_shows_local_Jolo_healthcare_providers_a_new_Intensive_Care_Unit_patient_monitoring_system_on_board_the_U.S._Military_Sealift_Command_(MSC)_Hospital_ship_USNS_Mercy.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Entrance_to_the_Coronary_Care_Unit%2C_Morriston_Hospital.jpg/1920px-Entrance_to_the_Coronary_Care_Unit%2C_Morriston_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Vouliagmeni",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Coronary_Care_Unit,_Morriston_Hospital.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sign_to_the_Coronary_Care_Unit%2C_Morriston_Hospital.jpg/1920px-Sign_to_the_Coronary_Care_Unit%2C_Morriston_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Vouliagmeni",
+   "source": "https://commons.wikimedia.org/wiki/File:Sign_to_the_Coronary_Care_Unit,_Morriston_Hospital.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/US_Navy_030411-N-0728B-002_Lt._Dallas_Braham_from_New_Orleans%2C_La.%2C_monitors_an_Iraqi_woman_at_Fleet_Hospital_Three%27s_%28FH-3%29.jpg/1920px-US_Navy_030411-N-0728B-002_Lt._Dallas_Braham_from_New_Orleans%2C_La.%2C_monitors_an_Iraqi_woman_at_Fleet_Hospital_Three%27s_%28FH-3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "U.S. Navy photo by Chief Journalist Al Bloom.",
+   "source": "https://commons.wikimedia.org/wiki/File:US_Navy_030411-N-0728B-002_Lt._Dallas_Braham_from_New_Orleans,_La.,_monitors_an_Iraqi_woman_at_Fleet_Hospital_Three%27s_(FH-3).jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/UCI_9_Gimnasio_HUCA_Oviedo-Uvi%C3%A9u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Administración del Principado de Asturias",
+   "source": "https://commons.wikimedia.org/wiki/File:UCI_9_Gimnasio_HUCA_Oviedo-Uvi%C3%A9u.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/U.S._Navy_Lt._Betsy_Hoyos_de_Albers%2C_left%2C_an_intensive_care_nurse%2C_monitors_an_injured_Afghan_soldier_being_flown_to_the_Kandahar_Regional_Medical_Hospital_from_Multinational_Base_Tarin_Kowt_in_Uruzgan_130220-A-FS372-283.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Sgt. Jessi McCormick",
+   "source": "https://commons.wikimedia.org/wiki/File:U.S._Navy_Lt._Betsy_Hoyos_de_Albers,_left,_an_intensive_care_nurse,_monitors_an_injured_Afghan_soldier_being_flown_to_the_Kandahar_Regional_Medical_Hospital_from_Multinational_Base_Tarin_Kowt_in_Uruzgan_130220-A-FS372-283.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/2025-12-02_Inauguration_of_Bangladesh-China_cardiovascular_clinic%2C_one-stop_emergency_centre%2C_and_renovated_coronary_care_unit_at_National_Institute_of_Cardiovascular_Diseases%2C_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Press Information Department",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-12-02_Inauguration_of_Bangladesh-China_cardiovascular_clinic,_one-stop_emergency_centre,_and_renovated_coronary_care_unit_at_National_Institute_of_Cardiovascular_Diseases,_Dhaka.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "10.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/2025-12-02_Noorjahan_Begum_at_Bangladesh-China_joint_cardiovascular_disease_clinic%2C_one_stop_emergencies_centre%2C_and_coronary_care_unit%2C_NICVD%2C_Agargaon%2C_Dhaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ext": "jpg",
+   "author": "Press Information Department",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-12-02_Noorjahan_Begum_at_Bangladesh-China_joint_cardiovascular_disease_clinic,_one_stop_emergencies_centre,_and_coronary_care_unit,_NICVD,_Agargaon,_Dhaka.jpg",
+   "license": "Public domain",
+   "provider": "commons",
+   "file": "11.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jetcall_-_Learjet_45_-_D-CICU_-_Cologne_Bonn_Airport-7253.jpg/1920px-Jetcall_-_Learjet_45_-_D-CICU_-_Cologne_Bonn_Airport-7253.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Raimond Spekking",
+   "source": "https://commons.wikimedia.org/wiki/File:Jetcall_-_Learjet_45_-_D-CICU_-_Cologne_Bonn_Airport-7253.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "12.jpg"
+  }
+ ]
+}
