@@ -1,0 +1,114 @@
+{
+ "query": "dumbbell weight training",
+ "kind": "photo",
+ "items": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/M27-Dumbbell_Nebula-29-07-2026.jpg/1920px-M27-Dumbbell_Nebula-29-07-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Lviatour",
+   "source": "https://commons.wikimedia.org/wiki/File:M27-Dumbbell_Nebula-29-07-2026.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Attractive_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg/1920px-Attractive_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nenad Stojkovic",
+   "source": "https://commons.wikimedia.org/wiki/File:Attractive_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Close-up_Hand_holding_dumbbell_in_gym.jpg/1920px-Close-up_Hand_holding_dumbbell_in_gym.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nenad Stojkovic",
+   "source": "https://commons.wikimedia.org/wiki/File:Close-up_Hand_holding_dumbbell_in_gym.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Young_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg/1920px-Young_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Nenad Stojkovic",
+   "source": "https://commons.wikimedia.org/wiki/File:Young_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg",
+   "license": "CC BY 2.0",
+   "provider": "commons",
+   "file": "04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Aluminium_Dumbbell.jpg/1920px-Aluminium_Dumbbell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Designproduct",
+   "source": "https://commons.wikimedia.org/wiki/File:Aluminium_Dumbbell.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Colorful_dumbbells_of_various_sizes.jpg/1920px-Colorful_dumbbells_of_various_sizes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ser Amantio di Nicolao",
+   "source": "https://commons.wikimedia.org/wiki/File:Colorful_dumbbells_of_various_sizes.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Colorful_pile_of_dumbbells_at_the_gym.jpg/1920px-Colorful_pile_of_dumbbells_at_the_gym.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ser Amantio di Nicolao",
+   "source": "https://commons.wikimedia.org/wiki/File:Colorful_pile_of_dumbbells_at_the_gym.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Rudolf_Ismayr%27s_Dumbbells%2C_1936.jpg/1920px-Rudolf_Ismayr%27s_Dumbbells%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "New York-air",
+   "source": "https://commons.wikimedia.org/wiki/File:Rudolf_Ismayr%27s_Dumbbells,_1936.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "08.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Purple_dumbbells_on_a_pile.jpg/1920px-Purple_dumbbells_on_a_pile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ser Amantio di Nicolao",
+   "source": "https://commons.wikimedia.org/wiki/File:Purple_dumbbells_on_a_pile.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "09.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Colorful_pile_of_dumbbells_at_the_gym_2.jpg/1920px-Colorful_pile_of_dumbbells_at_the_gym_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Ser Amantio di Nicolao",
+   "source": "https://commons.wikimedia.org/wiki/File:Colorful_pile_of_dumbbells_at_the_gym_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "10.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Dumbbells_in_a_local_Gym.jpg/1920px-Dumbbells_in_a_local_Gym.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Alvinategyeka",
+   "source": "https://commons.wikimedia.org/wiki/File:Dumbbells_in_a_local_Gym.jpg",
+   "license": "CC BY-SA 4.0",
+   "provider": "commons",
+   "file": "11.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kurzhanteln_2_x_15_kg_2v2.jpg/1920px-Kurzhanteln_2_x_15_kg_2v2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ext": "jpg",
+   "author": "Singlespeedfahrer",
+   "source": "https://commons.wikimedia.org/wiki/File:Kurzhanteln_2_x_15_kg_2v2.jpg",
+   "license": "CC0",
+   "provider": "commons",
+   "file": "12.jpg"
+  }
+ ]
+}
