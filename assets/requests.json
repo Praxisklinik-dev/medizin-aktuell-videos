@@ -1174,5 +1174,17 @@
   "query": "walking stairs legs",
   "kind": "photo",
   "n": 12
+ },
+ {
+  "key": "retaknie_roentgen",
+  "query": "knee osteoarthritis x-ray",
+  "kind": "photo",
+  "n": 12
+ },
+ {
+  "key": "retaknie_gelenk",
+  "query": "knee joint",
+  "kind": "photo",
+  "n": 12
  }
 ]
